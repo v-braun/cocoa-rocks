@@ -1,0 +1,41 @@
+@import "vars";
+
+.selectr-container {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.selectr-container:focus,
+.selectr-selected:focus{
+    outline-style: none;
+}
+
+.social-btn{
+    width: 70px;
+    font-size: 12px;
+    background-color: lighten($background, 1);
+    border: $border_line;
+    border-color: #bbb;
+    border-radius: 5px;
+    padding: 4px 5px 4px 5px;
+    
+    text-align: center;
+    font-weight: 800;
+
+    i{
+        font-size: 13px;
+        margin-right: 1px;
+    }
+
+    &.pinterest > i{
+        color: #bd081c;
+    }
+    &.twitter > i{
+        color: #3a8bbb;
+    }
+    &.facebook > i{
+        color: #4267b2;
+    }
+    &.github > i{
+        color: black;
+    }
+}

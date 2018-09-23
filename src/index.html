@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  
+</head>
+<body>
+  
+ 
+  <div id="header">
+    <div class="logo">
+      <img src="/assets/logo_txt_white.png" />
+    </div>
+    <div class="contribute">
+      <a href="github.com">
+        Contribute on GitHub <i class="fab fa-github"></i>
+      </a>
+    </div>
+  </div>
+  
+  <div class="filter">
+    <select id="filter-sort">
+      <option value="0">Newest</option>
+      <option value="1">Stars</option>
+    </select>
+    
+    <select id="filter-tags">
+      <option value="0">All Tags</option>
+      <option value="1">TableView</option>
+      <option value="1">Popup</option>
+      <option value="1">UITabBar</option>
+    </select>
+    
+    <select id="filter-license">
+      <option value="0">All Licenses</option>
+      <option value="1">Apache 2.0</option>
+      <option value="1">BSD</option>
+      <option value="1">CC BY</option>
+    </select>
+    
+    <select id="filter-platform">
+      <option value="0">All Platforms</option>
+      <option value="1">iOS</option>
+      <option value="1">macOS</option>
+      <option value="1">tvOS</option>
+      <option value="1">watchOS</option>
+    </select>      
+    
+  </div>
+  
+  <div id="body">
+    
+    
+    
+  </div>
+  
+  
+  <div id="all-entries-roll">
+    <div class="roll-entry">
+      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
+    </div>
+    
+    <div class="roll-entry">
+      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
+    </div>
+    
+    <div class="roll-entry">
+      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
+    </div>
+    
+    <div class="roll-entry">
+      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
+    </div>
+    
+    
+  </div>
+  <div id="footer">
+    <span>With <i class="fas fa-heart"></i> from <a href="https://www.viktor-braun.de">Viktor Braun</a></span>
+    <span><i class="fas fa-home"></i> at <a href="https://github.com/v-braun">GitHub</a></span> 
+    <span>Contributed <i class="fas fa-rocket"></i> by <a href="https://github.com/v-braun">v-braun</a></span>
+  </div>
+  
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  
+  
+  <script src="index.js"></script>
+  
+  <script id="roll-entry-template" type="text/x-handlebars-template">
+    <div  class="roll-entry" 
+          id="roll_{{github.name}}" 
+          onclick="nav.gotoPost('{{github.name}}')">
+      <img src="{{banner}}" alt="{{github.name}}" data-name="{{github.name}}" />
+    </div>    
+  </script>
+
+  <script id="entry-template" type="text/x-handlebars-template">
+    <div class="post" id="post_{{github.name}}" data-name="{{github.name}}">
+      <div class="post-content">
+        <div class="post-banner">
+          <img src="{{banner}}" />
+        </div>
+        <div class="post-detail">
+          <div class="post-header">
+            <img class="avatar" src="{{github.owner.avatar_url}}" alt="{{github.owner.login}}" />
+            <div class="title">
+              <h1>{{github.name}}</h1>
+              <label>by <a src="{{github.owner.html_url}}">{{github.owner.login}}</a></label>
+            </div>
+          </div>
+          <div class="post-shares">
+
+            <a class="social-btn github" onclick="social.star(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+                <i class="fab fa-github"></i> Star
+            </a>
+
+            <a class="social-btn facebook" onclick="social.fbshare(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+                <i class="fab fa-facebook"></i> Share
+            </a>
+
+            <a class="social-btn twitter" onclick="social.tweet(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+                <i class="fab fa-twitter"></i> Tweet
+            </a>
+
+            <a class="social-btn pinterest" onclick="social.pin(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+                <i class="fab fa-pinterest"></i> Pin
+            </a>
+          </div>
+          <div class="post-desc">
+              {{github.description}}
+          </div>
+          <ul class="post-tags">
+            {{#each tags}}
+              <li class="tag"><i class="fas fa-tag"></i> {{this}}</li>
+            {{/each}}
+          </ul>
+        </div>
+      </div>
+    </div>    
+  </script>
+  
+</body>
+</html>
+

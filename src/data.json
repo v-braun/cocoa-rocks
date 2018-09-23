@@ -1,0 +1,271 @@
+[
+    {
+        "repo": "https://github.com/shu223/AnimatedTransitionGallery",
+        "banner": "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/gallery.gif",
+        "images": [
+            "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/coreimage.gif",
+            "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/motionblur.gif",
+            "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/boxblur.gif",
+            "https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/mrackwitz/MRProgress",
+        "banner": "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/circular_determinate.gif",
+        "images": [
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_005_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_006_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_007_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_008_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_009_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_010_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_004_1.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_004_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_002_1.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_003_1.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_011_1.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/circular_indeterminate.gif",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_004_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_005_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_006_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_007_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_008_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_009_2.jpg",
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_010_2.jpg"
+        ],
+        "tags": [
+            "UIActivityView",
+            "Progress"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/cruffenach/CRToast",
+        "banner": "https://raw.githubusercontent.com/cruffenach/CRToast/master/screenshots/demo.gif",
+        "images": [
+            "https://raw.githubusercontent.com/cruffenach/CRToast/master/screenshots/red_notification.gif"
+        ],
+        "tags": [
+            "Notification",
+            "Toast"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/callumboddy/CBZSplashView",
+        "banner": "https://raw.githubusercontent.com/callumboddy/CBZSplashView/master/Images/twitter-gif.gif",
+        "images": [
+            "https://raw.githubusercontent.com/callumboddy/CBZSplashView/master/Images/CBZLogo.png"
+        ],
+        "tags": [
+            "Animation",
+            "Splashscreen",
+            "UIView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/damirstuhec/DSDynamicScrollView",
+        "banner": "https://raw.githubusercontent.com/damirstuhec/DSDynamicScrollView/master/GitHub%20Assets/DSDynamicScrollView_demo.gif",
+        "images": [],
+        "tags": [
+            "UIScrollView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/IFTTT/JazzHands",
+        "banner": "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands_banner.jpg",
+        "images": [
+            "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands-demo.gif"
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/raulriera/TextFieldEffects",
+        "banner": "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Kaede.gif",
+        "images": [
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Hoshi.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Jiro.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Isao.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Minoru.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Yoko.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Madoka.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Akira.gif",
+            "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master//Screenshots/Yoshiko.gif"
+        ],
+        "tags": [
+            "Material",
+            "UITextField"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/Yalantis/FoldingTabBar.iOS",
+        "banner": "https://camo.githubusercontent.com/e09bb8fc50adba318c9f22174d1751c566f69530/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323030333337362f7461625f6261725f616e696d6174696f6e5f66696e2d30322e676966",
+        "images": [
+            "https://camo.githubusercontent.com/66da5f9e8644c50b0dcfa4898847787aa3a7392d/687474703a2f2f692e737461636b2e696d6775722e636f6d2f4f776c637a2e706e67"
+        ],
+        "tags": [
+            "UITabBar"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/atljeremy/JFMinimalNotifications",
+        "banner": "https://github.com/atljeremy/JFMinimalNotifications/blob/master/Resources/example.gif?raw=true",
+        "images": [
+            "https://github.com/atljeremy/JFMinimalNotifications/blob/master/Resources/exampletop.gif?raw=true",
+            "https://github.com/atljeremy/JFMinimalNotifications/blob/master/Resources/notification-examples.png?raw=true"
+        ],
+        "tags": [
+            "Notification",
+            "Toast"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/skywinder/GaugeKit",
+        "banner": "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/gauge.gif",
+        "images": [
+            "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/SWGauge_example.gif",
+            "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/GaugeKit_sreenshot.png",
+            "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/ib_example_1.gif",
+            "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/appleFitness.png"
+        ],
+        "tags": [
+            "UIActivityView",
+            "Gauge"
+        ],
+        "paltforms": [
+            "iOS",
+            "watchOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/bfeher/BFPaperTabBarController",
+        "banner": "https://raw.githubusercontent.com/bfeher/BFPaperTabBarController/master/BFPaperTabBarControllerDemo.gif",
+        "images": [],
+        "tags": [
+            "UITabBar",
+            "UIView",
+            "Material"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/jmascia/KLCPopup",
+        "banner": "http://i.imgur.com/BEmRGb5.gif",
+        "images": [],
+        "tags": [
+            "Popup",
+            "UIView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/Augustyniak/RATreeView",
+        "banner": "https://raw.github.com/Augustyniak/RATreeView/master/Screens/animation.gif",
+        "images": [
+            "https://raw.github.com/Augustyniak/RATreeView/master/Screens/tvos_animation.gif",
+            "https://raw.github.com/Augustyniak/RATreeView/master/Screens/PullToRefresh.png"
+        ],
+        "tags": [
+            "UIView",
+            "TreeView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/betzerra/MosaicLayout",
+        "banner": "http://www.betzerra.com.ar/wp-content/uploads/2013/02/Photo-Feb-17-6-29-14-PM.png",
+        "images": [],
+        "tags": [
+            "UICollectionView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/romaonthego/RESideMenu",
+        "banner": "https://raw.githubusercontent.com/romaonthego/RESideMenu/master/Demo.gif?2",
+        "images": [
+            "https://github.com/romaonthego/RESideMenu/raw/master/Screenshot.png"
+        ],
+        "tags": [
+            "Menu",
+            "Parallax"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/shu223/PulsingHalo",
+        "banner": "https://raw.githubusercontent.com/shu223/PulsingHalo/master/demo_.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/Flipboard/FLAnimatedImage",
+        "banner": "https://github.com/Flipboard/FLAnimatedImage/raw/master/images/flanimatedimage-demo-player.gif",
+        "images": [],
+        "tags": [
+            "GIF",
+            "UIImageView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/ninjaprox/NVActivityIndicatorView",
+        "banner": "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
+        "images": [],
+        "tags": [
+            "UIActivityIndicatorView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    }    
+    
+]
