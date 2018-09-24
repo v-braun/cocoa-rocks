@@ -13,8 +13,8 @@ services:
     restart: always
     build: .
     environment:
-      - VIRTUAL_HOST=cocoa-rocks.viktor-braun.de
-      - LETSENCRYPT_HOST=cocoa-rocks.viktor-braun.de
+      - VIRTUAL_HOST=cocoa.rocks
+      - LETSENCRYPT_HOST=cocoa.rocks
       - LETSENCRYPT_EMAIL=mail@viktor-braun.de
-      # - VIRTUAL_HOST=cocoa.rocks,www.cocoa.rocks
-      # - LETSENCRYPT_HOST=cocoa.rocks,www.cocoa.rocks      
+      
+      
