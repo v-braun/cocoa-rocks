@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "Gallery of awesome Cocoa Controls",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v-braun/cocoa-rocks"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/v-braun/cocoa-rocks/blob/master/LICENSE"
+    }
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "node ./node_modules/gulp-cli/bin/gulp.js clean",
