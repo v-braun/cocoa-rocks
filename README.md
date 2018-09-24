@@ -1,13 +1,17 @@
 # Cocoa Rocks 🤘
-> Gallery of awesome Cocoa Controls
+> Gallery of awesome Cocoa Controls - **[cocoa.rocks](https://cocoa.rocks)**
 
 
 By [v-braun - viktor-braun.de](https://viktor-braun.de).
 
-<img src="https://raw.githubusercontent.com/v-braun/cocoa-rocks/master/idea/logo.svg?sanitize=true" />
+<div style="text-align:center">
+<img style="max-width:600px" src="https://raw.githubusercontent.com/v-braun/cocoa-rocks/master/idea/logo.svg?sanitize=true" />
+</div>
 
+## What
+Source and data for: **[cocoa.rocks](https://cocoa.rocks)**
 
-## Description
+## Why
 - I love awesome UI Controls
 - I love static sites
 - I love plain HTML/JS (but would never go without SCSS 🤷‍♂️) 
