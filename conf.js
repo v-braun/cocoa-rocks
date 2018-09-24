@@ -5,6 +5,7 @@ var path = require('path');
 exports.paths = {
   src: 'src',
   dist: 'bin',
+  root: "."
 };
 
 exports.path = {};

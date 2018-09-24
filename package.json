@@ -1,13 +1,14 @@
 {
   "name": "cocoa-rocks",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gallery of awesome Cocoa Controls",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "node ./node_modules/gulp-cli/bin/gulp.js clean",
     "serve": "node ./node_modules/gulp-cli/bin/gulp.js serve",
-    "compile_data": "node ./node_modules/gulp-cli/bin/gulp.js data:compile"
+    "updatedata": "node ./node_modules/gulp-cli/bin/gulp.js data:compile",
+    "dist": "node ./node_modules/gulp-cli/bin/gulp.js dist"
   },
   "author": "",
   "license": "ISC",
@@ -22,22 +23,22 @@
     "gulp-cli": "^2.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.6.1",
-    "gulp-copy": "^4.0.0",
-    "gulp-flatten": "^0.4.0",
-    "gulp-jsonminify": "^1.1.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-minify": "^3.1.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.1",
-    "handlebars": "^4.0.12",
-    "mobius1-selectr": "^2.4.3",
+    "lodash.find": "^4.6.0",
+    "lodash.merge": "^4.6.1",
     "parse-github-url": "^1.0.2",
     "plugin-error": "^1.0.1",
-    "repos": "^2.0.0",
     "request": "^2.88.0",
     "vinyl": "^2.2.0"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
-    "smoothscroll-polyfill": "^0.4.3"
+    "smoothscroll-polyfill": "^0.4.3",
+    "mobius1-selectr": "^2.4.3",
+    "handlebars": "^4.0.12"
   }
 }

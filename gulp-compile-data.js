@@ -6,9 +6,11 @@ var fs = require('fs');
 var ghUrl = require('parse-github-url');
 var async = require('async');
 var log = require('fancy-log');
+var find = require('lodash.find');
+var merge = require('lodash.merge');
 
 request = request.defaults({
-  headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'}
+  headers: {'User-Agent': 'v-braun/cocoa-rocks'}
 })
 
 const PLUGIN_NAME = 'gulp-compile-data';
@@ -18,8 +20,12 @@ function transformImpl(input, action, lastFile, cb){
   var jsLast = {};
   
   if(fs.existsSync(lastFile)){
+    log.info('load', 'last file', lastFile);
     var lastContent = fs.readFileSync(lastFile).toString();
     jsLast = JSON.parse(lastContent);
+  }
+  else{
+    log.info('not found', 'last file', lastFile);
   }
 
   actions[action](js, jsLast, (err, result) => {
@@ -78,8 +84,22 @@ function getRepoInfo(repo, done){
 
 function compile(json, lastJson,  done){  
   async.eachSeries(json, function(entry, cb) {
-    var github = ghUrl(entry.repo);
 
+    // only check if never updated
+    var existing = find(lastJson, e => e.repo == entry.repo);
+    if(!existing){
+      log.info('found new entry', entry.repo);
+    }
+    else{
+      if(existing.github_updated_at){
+        log.info('repo updated', 'skip', entry.repo);
+        merge(entry, existing);
+        return cb(null);
+      }
+    }
+    
+
+    var github = ghUrl(entry.repo);
 
     log.info('fetch', 'begin', github.repo);
     getRepoInfo(github.repo, (err, data) => {
@@ -109,6 +129,8 @@ function compile(json, lastJson,  done){
           html_url: data.owner.html_url
         }
       };
+
+      entry.github_updated_at = new Date();
 
       // process.exit(1);
       // cb(new Error('cancel!'));

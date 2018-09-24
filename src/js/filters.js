@@ -17,6 +17,11 @@ module.exports.init = () => {
   selects.licenseSelect = new Selectr('#filter-license');
   selects.platformSelect = new Selectr('#filter-platform', {searchable: false});
   
+  selects.sortSelect.disable();
+  selects.tagsSelect.disable();
+  selects.licenseSelect.disable();
+  selects.platformSelect.disable();
+  
 };
 
 module.exports.selected = (name) => {

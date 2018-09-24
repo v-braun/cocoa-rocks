@@ -7,10 +7,10 @@ var concat = require('gulp-concat');
 var autoprefixer = require('gulp-autoprefixer');
 let cleanCSS = require('gulp-clean-css');
 var browserify = require('gulp-browserify');
-var log = require('fancy-log');
 var compileData = require('./gulp-compile-data');
 var rename = require("gulp-rename");
-var jsonminify = require('gulp-jsonminify');
+var htmlmin = require('gulp-htmlmin');
+var jsminify = require('gulp-minify');
 
 
 gulp.task('sass', function () {
@@ -27,11 +27,18 @@ gulp.task('scripts', function() {
       .pipe(browserify({
         insertGlobals : false
       }))
+      .pipe(jsminify())
       .pipe(gulp.dest(conf.path.dist()))
       .pipe(connect.reload());
 });
 gulp.task('html', function() {
   return gulp.src(conf.path.src('**/*.html'))
+      .pipe(htmlmin({
+        collapseWhitespace: true,
+        removeComments: true,
+        minifyCSS: true,
+        minifyJS: true
+      }))
       .pipe(gulp.dest(conf.path.dist()))
       .pipe(connect.reload());
 });
@@ -42,15 +49,15 @@ gulp.task('assets', () => {
 });
 
 gulp.task('data:validate', () => {
-  return gulp.src(conf.path.src('data.json'))
-      .pipe(compileData('validate', conf.path.src('data.compiled.json')));  
+  return gulp.src(conf.path.root('data.json'))
+      .pipe(compileData('validate', conf.path.src('data/data.compiled.json')));  
 });
 
 gulp.task('data:compile', () => {
-  return gulp.src(conf.path.src('data.json'))
-      .pipe(compileData('compile', conf.path.src('assets/data.compiled.json')))
+  return gulp.src(conf.path.root('data.json'))
+      .pipe(compileData('compile', conf.path.src('data/data.compiled.json')))
       .pipe(rename("data.compiled.json"))
-      .pipe(gulp.dest(conf.path.src('assets')));
+      .pipe(gulp.dest(conf.path.src('data')));
       // .pipe(jsonminify()) handled trough browsify
       // .pipe(gulp.dest(conf.path.dist('assets')));  
 });
@@ -80,3 +87,4 @@ gulp.task('connect', function (done) {
 });
 
 gulp.task('serve', gulp.series('clean', 'assets', 'html', 'sass', 'scripts', 'connect', 'watch'));
+gulp.task('dist', gulp.series('clean', 'assets', 'html', 'sass', 'scripts'));

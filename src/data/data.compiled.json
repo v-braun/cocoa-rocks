@@ -1,5 +1,37 @@
 [
   {
+    "repo": "https://github.com/v-braun/VBRRollingPit",
+    "banner": "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif",
+    "images": [],
+    "tags": [
+      "UITabBar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "github": {
+      "name": "VBRRollingPit",
+      "full_name": "v-braun/VBRRollingPit",
+      "html_url": "https://github.com/v-braun/VBRRollingPit",
+      "description": "Simple, beatiful and interactive UITabBar",
+      "created_at": "2018-07-29T19:09:13Z",
+      "updated_at": "2018-09-17T16:28:56Z",
+      "pushed_at": "2018-07-29T19:33:45Z",
+      "language": "Swift",
+      "forks_count": 19,
+      "open_issues_count": 1,
+      "license": "MIT License",
+      "watchers": 95,
+      "owner": {
+        "login": "v-braun",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/4738210?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/v-braun"
+      }
+    },
+    "github_updated_at": "2018-09-24T17:16:04.103Z"
+  },
+  {
     "repo": "https://github.com/shu223/AnimatedTransitionGallery",
     "banner": "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/gallery.gif",
     "images": [
@@ -33,7 +65,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/shu223"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:04.544Z"
   },
   {
     "repo": "https://github.com/mrackwitz/MRProgress",
@@ -85,7 +118,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/mrackwitz"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:04.950Z"
   },
   {
     "repo": "https://github.com/cruffenach/CRToast",
@@ -106,20 +140,21 @@
       "html_url": "https://github.com/cruffenach/CRToast",
       "description": "A modern iOS toast view that can fit your notification needs",
       "created_at": "2014-02-13T01:54:08Z",
-      "updated_at": "2018-09-21T13:33:33Z",
+      "updated_at": "2018-09-23T18:19:21Z",
       "pushed_at": "2018-08-28T08:57:46Z",
       "language": "Objective-C",
       "forks_count": 473,
       "open_issues_count": 69,
       "license": "MIT License",
-      "watchers": 4149,
+      "watchers": 4150,
       "owner": {
         "login": "cruffenach",
         "avatar_url": "https://avatars3.githubusercontent.com/u/298237?v=4",
         "gravatar_id": "",
         "html_url": "https://github.com/cruffenach"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:05.354Z"
   },
   {
     "repo": "https://github.com/callumboddy/CBZSplashView",
@@ -141,7 +176,7 @@
       "html_url": "https://github.com/callumboddy/CBZSplashView",
       "description": "Twitter style Splash Screen View. Grows to reveal the Initial view behind",
       "created_at": "2014-07-22T14:16:03Z",
-      "updated_at": "2018-09-15T17:38:04Z",
+      "updated_at": "2018-09-24T10:32:30Z",
       "pushed_at": "2017-02-01T14:26:38Z",
       "language": "Objective-C",
       "forks_count": 130,
@@ -154,7 +189,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/callumboddy"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:05.798Z"
   },
   {
     "repo": "https://github.com/damirstuhec/DSDynamicScrollView",
@@ -185,7 +221,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/damirstuhec"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:08.000Z"
   },
   {
     "repo": "https://github.com/IFTTT/JazzHands",
@@ -205,20 +242,21 @@
       "html_url": "https://github.com/IFTTT/JazzHands",
       "description": "A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.",
       "created_at": "2013-09-29T22:03:15Z",
-      "updated_at": "2018-09-21T05:04:38Z",
+      "updated_at": "2018-09-23T17:40:41Z",
       "pushed_at": "2017-11-05T03:22:02Z",
       "language": "Objective-C",
       "forks_count": 703,
       "open_issues_count": 16,
       "license": "MIT License",
-      "watchers": 6454,
+      "watchers": 6455,
       "owner": {
         "login": "IFTTT",
         "avatar_url": "https://avatars3.githubusercontent.com/u/1808180?v=4",
         "gravatar_id": "",
         "html_url": "https://github.com/IFTTT"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:08.408Z"
   },
   {
     "repo": "https://github.com/raulriera/TextFieldEffects",
@@ -246,7 +284,7 @@
       "html_url": "https://github.com/raulriera/TextFieldEffects",
       "description": "Custom UITextFields effects inspired by Codrops, built using Swift",
       "created_at": "2015-01-22T22:13:22Z",
-      "updated_at": "2018-09-22T17:11:01Z",
+      "updated_at": "2018-09-24T14:37:56Z",
       "pushed_at": "2018-09-19T13:16:04Z",
       "language": "Swift",
       "forks_count": 514,
@@ -259,7 +297,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/raulriera"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:08.836Z"
   },
   {
     "repo": "https://github.com/Yalantis/FoldingTabBar.iOS",
@@ -279,20 +318,21 @@
       "html_url": "https://github.com/Yalantis/FoldingTabBar.iOS",
       "description": "Folding Tab Bar and Tab Bar Controller",
       "created_at": "2015-04-03T09:14:41Z",
-      "updated_at": "2018-09-22T06:29:07Z",
+      "updated_at": "2018-09-23T18:27:47Z",
       "pushed_at": "2018-01-29T17:13:41Z",
       "language": "Objective-C",
       "forks_count": 472,
       "open_issues_count": 17,
       "license": "MIT License",
-      "watchers": 3630,
+      "watchers": 3631,
       "owner": {
         "login": "Yalantis",
         "avatar_url": "https://avatars2.githubusercontent.com/u/752338?v=4",
         "gravatar_id": "",
         "html_url": "https://github.com/Yalantis"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:09.287Z"
   },
   {
     "repo": "https://github.com/atljeremy/JFMinimalNotifications",
@@ -327,7 +367,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/atljeremy"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:09.768Z"
   },
   {
     "repo": "https://github.com/skywinder/GaugeKit",
@@ -365,7 +406,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/skywinder"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:10.195Z"
   },
   {
     "repo": "https://github.com/bfeher/BFPaperTabBarController",
@@ -398,7 +440,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/bfeher"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:10.770Z"
   },
   {
     "repo": "https://github.com/jmascia/KLCPopup",
@@ -417,20 +460,21 @@
       "html_url": "https://github.com/jmascia/KLCPopup",
       "description": "A simple and flexible class for presenting custom views as a popup in iOS.",
       "created_at": "2014-06-23T16:50:32Z",
-      "updated_at": "2018-09-19T07:28:05Z",
+      "updated_at": "2018-09-24T09:25:20Z",
       "pushed_at": "2018-01-30T09:47:12Z",
       "language": "Objective-C",
       "forks_count": 245,
       "open_issues_count": 55,
       "license": "MIT License",
-      "watchers": 1695,
+      "watchers": 1694,
       "owner": {
         "login": "jmascia",
         "avatar_url": "https://avatars3.githubusercontent.com/u/353243?v=4",
         "gravatar_id": "",
         "html_url": "https://github.com/jmascia"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:11.192Z"
   },
   {
     "repo": "https://github.com/Augustyniak/RATreeView",
@@ -465,7 +509,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/Augustyniak"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:11.608Z"
   },
   {
     "repo": "https://github.com/betzerra/MosaicLayout",
@@ -496,7 +541,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/betzerra"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:11.997Z"
   },
   {
     "repo": "https://github.com/romaonthego/RESideMenu",
@@ -530,7 +576,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/romaonthego"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:12.432Z"
   },
   {
     "repo": "https://github.com/shu223/PulsingHalo",
@@ -561,7 +608,8 @@
         "gravatar_id": "",
         "html_url": "https://github.com/shu223"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:12.864Z"
   },
   {
     "repo": "https://github.com/Flipboard/FLAnimatedImage",
@@ -580,20 +628,21 @@
       "html_url": "https://github.com/Flipboard/FLAnimatedImage",
       "description": "Performant animated GIF engine for iOS",
       "created_at": "2014-05-19T17:44:51Z",
-      "updated_at": "2018-09-21T09:49:38Z",
+      "updated_at": "2018-09-24T09:45:44Z",
       "pushed_at": "2018-07-27T13:59:06Z",
       "language": "Objective-C",
       "forks_count": 1044,
       "open_issues_count": 93,
       "license": "MIT License",
-      "watchers": 6835,
+      "watchers": 6838,
       "owner": {
         "login": "Flipboard",
         "avatar_url": "https://avatars0.githubusercontent.com/u/457049?v=4",
         "gravatar_id": "",
         "html_url": "https://github.com/Flipboard"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:13.289Z"
   },
   {
     "repo": "https://github.com/ninjaprox/NVActivityIndicatorView",
@@ -611,19 +660,20 @@
       "html_url": "https://github.com/ninjaprox/NVActivityIndicatorView",
       "description": "A collection of awesome loading animations",
       "created_at": "2015-07-21T15:01:17Z",
-      "updated_at": "2018-09-23T11:59:51Z",
+      "updated_at": "2018-09-24T10:54:07Z",
       "pushed_at": "2018-09-18T13:33:23Z",
       "language": "Swift",
       "forks_count": 804,
       "open_issues_count": 14,
       "license": "MIT License",
-      "watchers": 7472,
+      "watchers": 7477,
       "owner": {
         "login": "ninjaprox",
         "avatar_url": "https://avatars3.githubusercontent.com/u/4948012?v=4",
         "gravatar_id": "",
         "html_url": "https://github.com/ninjaprox"
       }
-    }
+    },
+    "github_updated_at": "2018-09-24T17:16:13.749Z"
   }
 ]

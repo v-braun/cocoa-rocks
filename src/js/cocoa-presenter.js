@@ -1,4 +1,4 @@
-var data = require('../assets/data.compiled.json');
+var data = require('../data/data.compiled.json');
 var Handlebars = require('handlebars');
 var debounce = require('lodash.debounce');
 var throttle = require('lodash.throttle');
@@ -49,12 +49,8 @@ function scrollSyncPostContainer(){
       return;
     }
 
-    for(var i = 0; i < elements.length; i++){
-      var el = elements[i];
-      toggleClass(el.rollEl, 'in-view', false);
-    }
+    markSelected(matchedEl.rollEl.id);
     
-    toggleClass(matchedEl.rollEl, 'in-view', true);
     matchedEl.rollEl.scrollIntoView({behavior: 'smooth', block: 'center', inline: 'center' });
     scrollToRollDebounced(matchedEl.rollEl);
   }
@@ -63,6 +59,24 @@ function scrollSyncPostContainer(){
 
   _ctx.postContainer.addEventListener('mousewheel', scrolled, false);
 	_ctx.postContainer.addEventListener('DOMMouseScroll', scrolled, false);
+}
+
+function markSelected(id){
+  var rollId = id;
+  if(!id.startsWith('roll_')){
+    rollId = 'roll_' + id;
+  }
+
+  var elements = _ctx.visibleElements;
+  for(var i = 0; i < elements.length; i++){
+    var el = elements[i];
+    if(el.rollEl.id == rollId){
+      toggleClass(el.rollEl, 'in-view', true);
+    }
+    else{
+      toggleClass(el.rollEl, 'in-view', false);
+    }
+  }  
 }
 
 
@@ -120,3 +134,4 @@ function refresh(){
 
 module.exports.render = render;
 module.exports.refresh = refresh;
+module.exports.markSelected = markSelected;

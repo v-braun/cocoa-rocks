@@ -1,8 +1,9 @@
+var presenter = require('./cocoa-presenter')
 
 function gotoPost(name){
   if(!name) return;
   
-  const SCROLL_TIME = 500;
+  const SCROLL_TIME = 1000;
 
   var postName = 'post_' + name;
   var rollName = 'roll_' + name;
@@ -11,9 +12,10 @@ function gotoPost(name){
   var rollEl = document.getElementById(rollName);
   
 
-  rollEl.scrollIntoView({behavior: 'smooth', block: 'center', inline: 'center' });
+  postEl.scrollIntoView({behavior: 'smooth', block: 'start', inline: 'start' });
   setTimeout(() => {
-    postEl.scrollIntoView({behavior: 'smooth', block: 'start', inline: 'start' });
+    rollEl.scrollIntoView({behavior: 'smooth', block: 'center', inline: 'center' });
+    presenter.markSelected(rollEl.id);
   }, SCROLL_TIME);
   
 }

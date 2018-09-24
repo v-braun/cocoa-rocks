@@ -1,5 +1,17 @@
 [
     {
+        "repo": "https://github.com/v-braun/VBRRollingPit",
+        "banner": "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif",
+        "images": [
+        ],
+        "tags": [
+            "UITabBar"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
         "repo": "https://github.com/shu223/AnimatedTransitionGallery",
         "banner": "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/gallery.gif",
         "images": [

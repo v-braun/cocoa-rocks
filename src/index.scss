@@ -12,6 +12,9 @@ a, a:link, a:hover, a:visited, a:active {
     color: lighten($color: $foreground, $amount: 10);
     text-decoration: none;
 }
+a:hover{
+    color: darken($color: $foreground, $amount: 20);
+}
 
 body{
     font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -98,7 +101,13 @@ body{
         
         flex-grow: 1;
         
+        // > div {
+            
+        //     // display: none;
+        // }
+        
         select{
+            display: none;
             width: 160px;
         }
     }    
@@ -202,6 +211,13 @@ body{
                                     margin:0px;
                                     font-size: 24px;
                                 }
+                                // label{
+                                //     a{
+                                //         &:hover{
+
+                                //         }
+                                //     }
+                                // }
                             }
                         }
                         .post-shares{
@@ -215,24 +231,32 @@ body{
                         .post-desc{
                             padding: $padding_small;
                         }
-                        .post-tags{
+                        .post-attributes, .post-tags{
                             margin: 0px;
-                            padding: 10px;
+                            padding: 5px 10px 10px 10px;
                             list-style: none;
-                            
+
                             > li{
                                 padding: 3px;
-                                float: left;
+                                display: inline-block;
+
+                                border: 1px solid darken($primary, 20);
+                                color: $background;
+                                background-color: $primary;
                                 
-                                &.tag{
-                                    text-transform: lowercase;
-                                    border: 1px solid darken($primary, 20);
-                                    color: $background;
-                                    background-color: $primary;
-                                    
-                                    margin-right: 3px;
-                                    border-radius: 3px;
+                                margin-right: 3px;
+                                border-radius: 3px;       
+                                
+                                margin-top: 5px;
+
+                                &.license, &.lang{
+                                    color: $primary;
+                                    background-color: $background;
                                 }
+
+                                // &.tag{
+                                //     text-transform: lowercase;
+                                // }
                             }
                         }
                     }
@@ -314,6 +338,40 @@ body{
             border-top-color: darken($primary, 30);
             a:hover{
                 color: lighten($color: $foreground, $amount: 20);                
+            }
+
+            .me{
+                i{
+                    color: #f44336;
+                }
+            }
+            .contributors{
+                i{
+                    color: #607d8b;
+                }
+            }
+            .home{
+                i{
+                    color: $primary;
+                }
+            }
+
+            #contributor_name{
+                display: inline-block;
+                vertical-align: bottom;
+                $width: 120px;
+                min-width: $width;
+                max-width: $width;
+                width: $width;
+                overflow: hidden;
+                text-overflow: ellipsis;
+
+                transition: all ease 0.8s;
+                opacity: 1;
+                &.hide{
+                    opacity: 0;
+                    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+                }
             }
         }
     }

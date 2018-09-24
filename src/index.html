@@ -6,13 +6,13 @@
 </head>
 <body>
   
- 
+ <!-- hello -->
   <div id="header">
     <div class="logo">
       <img src="/assets/logo_txt_white.png" />
     </div>
     <div class="contribute">
-      <a href="github.com">
+      <a target="_blank" href="https://github.com">
         Contribute on GitHub <i class="fab fa-github"></i>
       </a>
     </div>
@@ -49,41 +49,18 @@
   </div>
   
   <div id="body">
-    
-    
-    
   </div>
-  
   
   <div id="all-entries-roll">
-    <div class="roll-entry">
-      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
-    </div>
-    
-    <div class="roll-entry">
-      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
-    </div>
-    
-    <div class="roll-entry">
-      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
-    </div>
-    
-    <div class="roll-entry">
-      <img src="https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/GLCalendarView1.gif" />
-    </div>
-    
-    
   </div>
+
+
   <div id="footer">
-    <span>With <i class="fas fa-heart"></i> from <a href="https://www.viktor-braun.de">Viktor Braun</a></span>
-    <span><i class="fas fa-home"></i> at <a href="https://github.com/v-braun">GitHub</a></span> 
-    <span>Contributed <i class="fas fa-rocket"></i> by <a href="https://github.com/v-braun">v-braun</a></span>
+    <span class="me">With <i class="fas fa-heart"></i> from <a href="https://www.viktor-braun.de">Viktor Braun</a></span>
+    <span class="contributors">Contributed <i class="fas fa-rocket"></i> by <a target="_blank" id="contributor_name" href="https://github.com/v-braun">v-braun</a></span>
+    <span class="home"><i class="fas fa-home"></i> at <a href="https://github.com/v-braun">GitHub</a></span> 
   </div>
-  
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  
-  
-  <script src="index.js"></script>
+
   
   <script id="roll-entry-template" type="text/x-handlebars-template">
     <div  class="roll-entry" 
@@ -104,7 +81,7 @@
             <img class="avatar" src="{{github.owner.avatar_url}}" alt="{{github.owner.login}}" />
             <div class="title">
               <h1>{{github.name}}</h1>
-              <label>by <a src="{{github.owner.html_url}}">{{github.owner.login}}</a></label>
+              <label>by <a target="_blank" href="{{github.owner.html_url}}">{{github.owner.login}}</a></label>
             </div>
           </div>
           <div class="post-shares">
@@ -128,6 +105,14 @@
           <div class="post-desc">
               {{github.description}}
           </div>
+          <ul class="post-attributes">
+            {{#if github.license}}
+            <li class="license"><i class="fas fa-balance-scale"></i> {{github.license}}</li>
+            {{/if}}
+            {{#if github.language}}
+            <li class="lang"><i class="fas fa-code"></i> {{github.language}}</li>
+            {{/if}}
+          </ul>
           <ul class="post-tags">
             {{#each tags}}
               <li class="tag"><i class="fas fa-tag"></i> {{this}}</li>
@@ -138,6 +123,9 @@
     </div>    
   </script>
   
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="index-min.js"></script>
+
 </body>
 </html>
 

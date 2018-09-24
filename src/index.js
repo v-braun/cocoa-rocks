@@ -3,16 +3,19 @@ var filters = require('./js/filters');
 var ready = require('./js/utils/ready');
 var presenter = require('./js/cocoa-presenter');
 var smoothscroll = require('smoothscroll-polyfill');
-
+var nameTgl = require('./js/name-toggle');
 
 require('./js/social');
 require('./js/nav');
 
-// var data = require('./assets/data.compiled.json');
-
 ready(() => {
   // bodyScroll.init();
+
+  window.__forceSmoothScrollPolyfill__ = true;
   smoothscroll.polyfill();
+
+  nameTgl.start();
+
   filters.init();
   presenter.render();
 });
