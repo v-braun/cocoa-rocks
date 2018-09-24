@@ -3,7 +3,7 @@ WORKDIR /app
 COPY ./package.json ./
 RUN npm install
 
-COPY ./src/ ./
+COPY ./src/ ./src
 COPY ./gulp-compile-data.js ./
 COPY ./gulpfile.js ./
 COPY ./conf.js ./
