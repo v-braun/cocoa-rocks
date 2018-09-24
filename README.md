@@ -4,9 +4,8 @@
 
 By [v-braun - viktor-braun.de](https://viktor-braun.de).
 
-
-<p style="text-align:center;max-width:600px">
-<img src="https://raw.githubusercontent.com/v-braun/cocoa-rocks/master/idea/logo.svg?sanitize=true" />
+<p align="center">
+<img width="70%" src="https://raw.githubusercontent.com/v-braun/cocoa-rocks/master/idea/logo.svg?sanitize=true" />
 </p>
 
 ## What
