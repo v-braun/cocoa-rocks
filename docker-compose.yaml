@@ -1,0 +1,20 @@
+version: "2"
+
+networks:
+  proxy-net:
+    external:
+      name: proxy-net
+
+services:
+  cocoa-rocks:
+    container_name: cocoa-rocks
+    networks:
+      - proxy-net
+    restart: always
+    build: .
+    environment:
+      - VIRTUAL_HOST=cocoa-rocks.viktor-braun.de
+      - LETSENCRYPT_HOST=cocoa-rocks.viktor-braun.de
+      - LETSENCRYPT_EMAIL=mail@viktor-braun.de
+      # - VIRTUAL_HOST=cocoa.rocks,www.cocoa.rocks
+      # - LETSENCRYPT_HOST=cocoa.rocks,www.cocoa.rocks      
