@@ -9,7 +9,7 @@ By [v-braun - viktor-braun.de](https://viktor-braun.de).
 </p>
 
 ## What
-Source and data for: **[cocoa.rocks](https://cocoa.rocks)**
+Source code and data file for: **[cocoa.rocks](https://cocoa.rocks)**
 
 ## Why
 - I love awesome UI Controls
