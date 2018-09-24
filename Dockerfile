@@ -13,4 +13,4 @@ RUN npm run dist
 FROM nginx
 COPY ./hosting/nginx.conf /etc/nginx/nginx.conf
 COPY ./hosting/default.conf /etc/nginx/conf.d/default.conf
-COPY COPY --from=build-env /app/bin/ /usr/share/nginx/html/
+COPY COPY --from=build-env /app/bin /usr/share/nginx/html/
