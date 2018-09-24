@@ -4,9 +4,10 @@
 
 By [v-braun - viktor-braun.de](https://viktor-braun.de).
 
-<div style="text-align:center">
-<img style="max-width:600px;width:600px;" src="https://raw.githubusercontent.com/v-braun/cocoa-rocks/master/idea/logo.svg?sanitize=true" />
-</div>
+
+<p style="text-align:center;max-width:600px">
+<img src="https://raw.githubusercontent.com/v-braun/cocoa-rocks/master/idea/logo.svg?sanitize=true" />
+</p>
 
 ## What
 Source and data for: **[cocoa.rocks](https://cocoa.rocks)**
