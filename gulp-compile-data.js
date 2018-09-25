@@ -89,6 +89,7 @@ function compile(json, lastJson,  done){
     var existing = find(lastJson, e => e.repo == entry.repo);
     if(!existing){
       log.info('found new entry', entry.repo);
+      entry.created_at = new Date();
     }
     else{
       if(existing.github_updated_at){

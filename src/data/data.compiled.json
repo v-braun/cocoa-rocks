@@ -9,6 +9,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:19.550Z",
     "github": {
       "name": "VBRRollingPit",
       "full_name": "v-braun/VBRRollingPit",
@@ -29,7 +30,7 @@
         "html_url": "https://github.com/v-braun"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:04.103Z"
+    "github_updated_at": "2018-09-25T20:51:20.158Z"
   },
   {
     "repo": "https://github.com/shu223/AnimatedTransitionGallery",
@@ -46,19 +47,20 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:20.158Z",
     "github": {
       "name": "AnimatedTransitionGallery",
       "full_name": "shu223/AnimatedTransitionGallery",
       "html_url": "https://github.com/shu223/AnimatedTransitionGallery",
       "description": "A gallery app of custom animated transitions for iOS.",
       "created_at": "2014-03-09T18:48:28Z",
-      "updated_at": "2018-09-21T01:59:19Z",
+      "updated_at": "2018-09-25T08:49:39Z",
       "pushed_at": "2018-09-15T03:26:57Z",
       "language": "Objective-C",
       "forks_count": 291,
       "open_issues_count": 0,
       "license": "",
-      "watchers": 2387,
+      "watchers": 2386,
       "owner": {
         "login": "shu223",
         "avatar_url": "https://avatars1.githubusercontent.com/u/587614?v=4",
@@ -66,7 +68,7 @@
         "html_url": "https://github.com/shu223"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:04.544Z"
+    "github_updated_at": "2018-09-25T20:51:20.586Z"
   },
   {
     "repo": "https://github.com/mrackwitz/MRProgress",
@@ -99,19 +101,20 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:20.586Z",
     "github": {
       "name": "MRProgress",
       "full_name": "mrackwitz/MRProgress",
       "html_url": "https://github.com/mrackwitz/MRProgress",
       "description": "Collection of iOS drop-in components to visualize progress",
       "created_at": "2013-10-24T16:54:49Z",
-      "updated_at": "2018-09-22T18:18:04Z",
+      "updated_at": "2018-09-25T08:48:58Z",
       "pushed_at": "2017-09-13T15:13:17Z",
       "language": "Objective-C",
       "forks_count": 304,
       "open_issues_count": 37,
       "license": "MIT License",
-      "watchers": 2609,
+      "watchers": 2608,
       "owner": {
         "login": "mrackwitz",
         "avatar_url": "https://avatars2.githubusercontent.com/u/1389011?v=4",
@@ -119,7 +122,7 @@
         "html_url": "https://github.com/mrackwitz"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:04.950Z"
+    "github_updated_at": "2018-09-25T20:51:20.992Z"
   },
   {
     "repo": "https://github.com/cruffenach/CRToast",
@@ -134,6 +137,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:20.992Z",
     "github": {
       "name": "CRToast",
       "full_name": "cruffenach/CRToast",
@@ -154,7 +158,7 @@
         "html_url": "https://github.com/cruffenach"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:05.354Z"
+    "github_updated_at": "2018-09-25T20:51:21.438Z"
   },
   {
     "repo": "https://github.com/callumboddy/CBZSplashView",
@@ -170,6 +174,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:21.438Z",
     "github": {
       "name": "CBZSplashView",
       "full_name": "callumboddy/CBZSplashView",
@@ -190,7 +195,7 @@
         "html_url": "https://github.com/callumboddy"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:05.798Z"
+    "github_updated_at": "2018-09-25T20:51:21.849Z"
   },
   {
     "repo": "https://github.com/damirstuhec/DSDynamicScrollView",
@@ -202,6 +207,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:21.849Z",
     "github": {
       "name": "DSDynamicScrollView",
       "full_name": "damirstuhec/DSDynamicScrollView",
@@ -222,7 +228,7 @@
         "html_url": "https://github.com/damirstuhec"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:08.000Z"
+    "github_updated_at": "2018-09-25T20:51:22.249Z"
   },
   {
     "repo": "https://github.com/IFTTT/JazzHands",
@@ -236,6 +242,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:22.249Z",
     "github": {
       "name": "JazzHands",
       "full_name": "IFTTT/JazzHands",
@@ -256,7 +263,7 @@
         "html_url": "https://github.com/IFTTT"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:08.408Z"
+    "github_updated_at": "2018-09-25T20:51:22.794Z"
   },
   {
     "repo": "https://github.com/raulriera/TextFieldEffects",
@@ -278,6 +285,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:22.794Z",
     "github": {
       "name": "TextFieldEffects",
       "full_name": "raulriera/TextFieldEffects",
@@ -298,7 +306,7 @@
         "html_url": "https://github.com/raulriera"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:08.836Z"
+    "github_updated_at": "2018-09-25T20:51:23.192Z"
   },
   {
     "repo": "https://github.com/Yalantis/FoldingTabBar.iOS",
@@ -312,6 +320,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:23.192Z",
     "github": {
       "name": "FoldingTabBar.iOS",
       "full_name": "Yalantis/FoldingTabBar.iOS",
@@ -332,7 +341,7 @@
         "html_url": "https://github.com/Yalantis"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:09.287Z"
+    "github_updated_at": "2018-09-25T20:51:23.635Z"
   },
   {
     "repo": "https://github.com/atljeremy/JFMinimalNotifications",
@@ -348,6 +357,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:23.635Z",
     "github": {
       "name": "JFMinimalNotifications",
       "full_name": "atljeremy/JFMinimalNotifications",
@@ -368,7 +378,7 @@
         "html_url": "https://github.com/atljeremy"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:09.768Z"
+    "github_updated_at": "2018-09-25T20:51:24.105Z"
   },
   {
     "repo": "https://github.com/skywinder/GaugeKit",
@@ -387,17 +397,18 @@
       "iOS",
       "watchOS"
     ],
+    "created_at": "2018-09-25T20:51:24.105Z",
     "github": {
       "name": "GaugeKit",
       "full_name": "skywinder/GaugeKit",
       "html_url": "https://github.com/skywinder/GaugeKit",
       "description": "Kit for building custom gauges + easy reproducible Apple's style ring gauges.",
       "created_at": "2015-06-19T09:59:47Z",
-      "updated_at": "2018-09-20T14:07:45Z",
-      "pushed_at": "2018-09-22T10:53:49Z",
+      "updated_at": "2018-09-24T17:18:00Z",
+      "pushed_at": "2018-09-24T17:17:58Z",
       "language": "Swift",
       "forks_count": 74,
-      "open_issues_count": 13,
+      "open_issues_count": 12,
       "license": "MIT License",
       "watchers": 931,
       "owner": {
@@ -407,7 +418,7 @@
         "html_url": "https://github.com/skywinder"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:10.195Z"
+    "github_updated_at": "2018-09-25T20:51:24.518Z"
   },
   {
     "repo": "https://github.com/bfeher/BFPaperTabBarController",
@@ -421,6 +432,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:24.518Z",
     "github": {
       "name": "BFPaperTabBarController",
       "full_name": "bfeher/BFPaperTabBarController",
@@ -441,7 +453,7 @@
         "html_url": "https://github.com/bfeher"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:10.770Z"
+    "github_updated_at": "2018-09-25T20:51:24.954Z"
   },
   {
     "repo": "https://github.com/jmascia/KLCPopup",
@@ -454,6 +466,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:24.954Z",
     "github": {
       "name": "KLCPopup",
       "full_name": "jmascia/KLCPopup",
@@ -474,7 +487,7 @@
         "html_url": "https://github.com/jmascia"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:11.192Z"
+    "github_updated_at": "2018-09-25T20:51:25.713Z"
   },
   {
     "repo": "https://github.com/Augustyniak/RATreeView",
@@ -490,19 +503,20 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:25.713Z",
     "github": {
       "name": "RATreeView",
       "full_name": "Augustyniak/RATreeView",
       "html_url": "https://github.com/Augustyniak/RATreeView",
       "description": "Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.",
       "created_at": "2013-09-01T20:46:42Z",
-      "updated_at": "2018-09-19T01:32:45Z",
+      "updated_at": "2018-09-25T08:35:17Z",
       "pushed_at": "2017-12-14T16:10:15Z",
       "language": "Objective-C",
       "forks_count": 411,
       "open_issues_count": 91,
       "license": "MIT License",
-      "watchers": 2274,
+      "watchers": 2275,
       "owner": {
         "login": "Augustyniak",
         "avatar_url": "https://avatars3.githubusercontent.com/u/4410346?v=4",
@@ -510,7 +524,7 @@
         "html_url": "https://github.com/Augustyniak"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:11.608Z"
+    "github_updated_at": "2018-09-25T20:51:26.167Z"
   },
   {
     "repo": "https://github.com/betzerra/MosaicLayout",
@@ -522,6 +536,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:26.167Z",
     "github": {
       "name": "MosaicLayout",
       "full_name": "betzerra/MosaicLayout",
@@ -542,7 +557,7 @@
         "html_url": "https://github.com/betzerra"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:11.997Z"
+    "github_updated_at": "2018-09-25T20:51:26.575Z"
   },
   {
     "repo": "https://github.com/romaonthego/RESideMenu",
@@ -557,6 +572,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:26.575Z",
     "github": {
       "name": "RESideMenu",
       "full_name": "romaonthego/RESideMenu",
@@ -577,7 +593,7 @@
         "html_url": "https://github.com/romaonthego"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:12.432Z"
+    "github_updated_at": "2018-09-25T20:51:26.974Z"
   },
   {
     "repo": "https://github.com/shu223/PulsingHalo",
@@ -589,6 +605,7 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:26.974Z",
     "github": {
       "name": "PulsingHalo",
       "full_name": "shu223/PulsingHalo",
@@ -609,7 +626,7 @@
         "html_url": "https://github.com/shu223"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:12.864Z"
+    "github_updated_at": "2018-09-25T20:51:27.389Z"
   },
   {
     "repo": "https://github.com/Flipboard/FLAnimatedImage",
@@ -622,19 +639,20 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:27.389Z",
     "github": {
       "name": "FLAnimatedImage",
       "full_name": "Flipboard/FLAnimatedImage",
       "html_url": "https://github.com/Flipboard/FLAnimatedImage",
       "description": "Performant animated GIF engine for iOS",
       "created_at": "2014-05-19T17:44:51Z",
-      "updated_at": "2018-09-24T09:45:44Z",
+      "updated_at": "2018-09-25T16:24:11Z",
       "pushed_at": "2018-07-27T13:59:06Z",
       "language": "Objective-C",
-      "forks_count": 1044,
+      "forks_count": 1043,
       "open_issues_count": 93,
       "license": "MIT License",
-      "watchers": 6838,
+      "watchers": 6841,
       "owner": {
         "login": "Flipboard",
         "avatar_url": "https://avatars0.githubusercontent.com/u/457049?v=4",
@@ -642,7 +660,7 @@
         "html_url": "https://github.com/Flipboard"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:13.289Z"
+    "github_updated_at": "2018-09-25T20:51:28.074Z"
   },
   {
     "repo": "https://github.com/ninjaprox/NVActivityIndicatorView",
@@ -654,19 +672,20 @@
     "paltforms": [
       "iOS"
     ],
+    "created_at": "2018-09-25T20:51:28.074Z",
     "github": {
       "name": "NVActivityIndicatorView",
       "full_name": "ninjaprox/NVActivityIndicatorView",
       "html_url": "https://github.com/ninjaprox/NVActivityIndicatorView",
       "description": "A collection of awesome loading animations",
       "created_at": "2015-07-21T15:01:17Z",
-      "updated_at": "2018-09-24T10:54:07Z",
+      "updated_at": "2018-09-25T20:19:33Z",
       "pushed_at": "2018-09-18T13:33:23Z",
       "language": "Swift",
       "forks_count": 804,
-      "open_issues_count": 14,
+      "open_issues_count": 15,
       "license": "MIT License",
-      "watchers": 7477,
+      "watchers": 7480,
       "owner": {
         "login": "ninjaprox",
         "avatar_url": "https://avatars3.githubusercontent.com/u/4948012?v=4",
@@ -674,6 +693,1428 @@
         "html_url": "https://github.com/ninjaprox"
       }
     },
-    "github_updated_at": "2018-09-24T17:16:13.749Z"
+    "github_updated_at": "2018-09-25T20:51:28.478Z"
+  },
+  {
+    "repo": "https://github.com/KrauseFx/TSMessages",
+    "banner": "http://www.toursprung.com/wp-content/uploads/2013/04/iNotificationSuccess.png",
+    "images": [
+      "http://www.toursprung.com/wp-content/uploads/2013/09/error_ios7.png",
+      "http://www.toursprung.com/wp-content/uploads/2013/09/warning_ios7.png",
+      "http://www.toursprung.com/wp-content/uploads/2013/04/iNotificationWarning.png",
+      "http://www.toursprung.com/wp-content/uploads/2013/04/iNotificationError.png",
+      "http://www.toursprung.com/wp-content/uploads/2013/04/iNotificationMessage.png"
+    ],
+    "tags": [
+      "Notification"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:28.478Z",
+    "github": {
+      "name": "TSMessages",
+      "full_name": "KrauseFx/TSMessages",
+      "html_url": "https://github.com/KrauseFx/TSMessages",
+      "description": "💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot",
+      "created_at": "2013-04-13T22:48:19Z",
+      "updated_at": "2018-09-22T21:53:22Z",
+      "pushed_at": "2018-02-23T07:45:24Z",
+      "language": "Objective-C",
+      "forks_count": 767,
+      "open_issues_count": 105,
+      "license": "MIT License",
+      "watchers": 4977,
+      "owner": {
+        "login": "KrauseFx",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/869950?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/KrauseFx"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:28.886Z"
+  },
+  {
+    "repo": "https://github.com/hanton/HTYTextField",
+    "banner": "https://github.com/hanton/HTYTextField/blob/master/screenshot/HTYTextField.gif",
+    "images": [],
+    "tags": [
+      "UITextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:28.886Z",
+    "github": {
+      "name": "HTYTextField",
+      "full_name": "hanton/HTYTextField",
+      "html_url": "https://github.com/hanton/HTYTextField",
+      "description": "A UITextField with bouncy placeholder. ",
+      "created_at": "2015-10-29T13:45:41Z",
+      "updated_at": "2018-09-24T15:43:31Z",
+      "pushed_at": "2017-12-14T10:40:00Z",
+      "language": "Swift",
+      "forks_count": 24,
+      "open_issues_count": 3,
+      "license": "MIT License",
+      "watchers": 253,
+      "owner": {
+        "login": "hanton",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/2510864?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/hanton"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:29.324Z"
+  },
+  {
+    "repo": "https://github.com/LeoNatan/LNNotificationsUI",
+    "banner": "https://raw.githubusercontent.com/LeoNatan/LNNotificationsUI/master/./Screenshots/LNNotificationsUI.gif",
+    "images": [
+      "https://raw.githubusercontent.com/LeoNatan/LNNotificationsUI/master/./Screenshots/Presentation.png",
+      "https://raw.githubusercontent.com/LeoNatan/LNNotificationsUI/master/./Screenshots/3.png",
+      "https://raw.githubusercontent.com/LeoNatan/LNNotificationsUI/master/./Screenshots/style.png",
+      "https://raw.githubusercontent.com/LeoNatan/LNNotificationsUI/master/./Screenshots/settings1.png",
+      "https://raw.githubusercontent.com/LeoNatan/LNNotificationsUI/master/./Screenshots/settings2.png"
+    ],
+    "tags": [
+      "Notification"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:29.324Z",
+    "github": {
+      "name": "LNNotificationsUI",
+      "full_name": "LeoNatan/LNNotificationsUI",
+      "html_url": "https://github.com/LeoNatan/LNNotificationsUI",
+      "description": "A framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.",
+      "created_at": "2014-09-05T21:51:16Z",
+      "updated_at": "2018-09-25T06:21:02Z",
+      "pushed_at": "2017-10-02T05:44:55Z",
+      "language": "Objective-C",
+      "forks_count": 123,
+      "open_issues_count": 0,
+      "license": "MIT License",
+      "watchers": 817,
+      "owner": {
+        "login": "LeoNatan",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/2270433?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/LeoNatan"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:29.734Z"
+  },
+  {
+    "repo": "https://github.com/arn00s/cariocamenu",
+    "banner": "https://raw.githubusercontent.com/arn00s/cariocamenu/master/cariocamenu.gif",
+    "images": [
+      "https://raw.githubusercontent.com/arn00s/cariocamenu/master/docs/readme_header.jpg"
+    ],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:29.734Z",
+    "github": {
+      "name": "cariocamenu",
+      "full_name": "arn00s/cariocamenu",
+      "html_url": "https://github.com/arn00s/cariocamenu",
+      "description": "The fastest zero-tap iOS menu.",
+      "created_at": "2015-09-27T12:43:19Z",
+      "updated_at": "2018-09-24T15:45:47Z",
+      "pushed_at": "2018-08-21T17:57:58Z",
+      "language": "Swift",
+      "forks_count": 53,
+      "open_issues_count": 1,
+      "license": "MIT License",
+      "watchers": 671,
+      "owner": {
+        "login": "arn00s",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/1527944?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/arn00s"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:30.154Z"
+  },
+  {
+    "repo": "https://github.com/EddyBorja/EBPhotoPages",
+    "banner": "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//1.png",
+    "images": [
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//2.png",
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//EBPhotoPages@1x.png",
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//3.png",
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//4.png",
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//5.png",
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//6.png",
+      "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//7.png"
+    ],
+    "tags": [
+      "UIImageView",
+      "Tags",
+      "PhotoGallery"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:30.154Z",
+    "github": {
+      "name": "EBPhotoPages",
+      "full_name": "EddyBorja/EBPhotoPages",
+      "html_url": "https://github.com/EddyBorja/EBPhotoPages",
+      "description": "A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.",
+      "created_at": "2014-04-05T00:21:48Z",
+      "updated_at": "2018-09-25T08:52:05Z",
+      "pushed_at": "2017-08-12T10:24:00Z",
+      "language": "Objective-C",
+      "forks_count": 208,
+      "open_issues_count": 18,
+      "license": "MIT License",
+      "watchers": 1652,
+      "owner": {
+        "login": "EddyBorja",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/1334307?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/EddyBorja"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:30.589Z"
+  },
+  {
+    "repo": "https://github.com/ra1028/RAReorderableLayout",
+    "banner": "https://github.com/ra1028/RAReorderableLayout/raw/master/Assets/animation.gif",
+    "images": [
+      "https://github.com/ra1028/RAReorderableLayout/raw/master/Assets/screenshot2.png",
+      "https://github.com/ra1028/RAReorderableLayout/raw/master/Assets/screenshot1.png"
+    ],
+    "tags": [
+      "UICollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:30.589Z",
+    "github": {
+      "name": "RAReorderableLayout",
+      "full_name": "ra1028/RAReorderableLayout",
+      "html_url": "https://github.com/ra1028/RAReorderableLayout",
+      "description": "A UICollectionView layout whitch can move item with drag and drop.",
+      "created_at": "2014-12-03T10:28:40Z",
+      "updated_at": "2018-09-22T00:36:36Z",
+      "pushed_at": "2018-05-26T21:44:06Z",
+      "language": "Swift",
+      "forks_count": 135,
+      "open_issues_count": 35,
+      "license": "MIT License",
+      "watchers": 837,
+      "owner": {
+        "login": "ra1028",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/7347118?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ra1028"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:30.986Z"
+  },
+  {
+    "repo": "https://github.com/szk-atmosphere/SAParallaxViewControllerSwift",
+    "banner": "https://github.com/marty-suzuki/SAParallaxViewControllerSwift/raw/master/SampleImage/open_sample.gif",
+    "images": [
+      "https://github.com/marty-suzuki/SAParallaxViewControllerSwift/raw/master/SampleImage/sample.gif"
+    ],
+    "tags": [
+      "UITableView",
+      "Parallax",
+      "PhotoGallery"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:30.986Z",
+    "github": {
+      "name": "SAParallaxViewControllerSwift",
+      "full_name": "marty-suzuki/SAParallaxViewControllerSwift",
+      "html_url": "https://github.com/marty-suzuki/SAParallaxViewControllerSwift",
+      "description": "SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.",
+      "created_at": "2015-01-29T17:02:25Z",
+      "updated_at": "2018-09-11T00:15:48Z",
+      "pushed_at": "2016-09-23T14:51:44Z",
+      "language": "Swift",
+      "forks_count": 26,
+      "open_issues_count": 4,
+      "license": "MIT License",
+      "watchers": 266,
+      "owner": {
+        "login": "marty-suzuki",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/2082134?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/marty-suzuki"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:31.760Z"
+  },
+  {
+    "repo": "https://github.com/slackhq/SlackTextViewController",
+    "banner": "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/slacktextviewcontroller_demo.gif",
+    "images": [
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_auto-expanding.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_auto-completion.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_edit-mode.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_markdown-formatting.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_markdown-formatting.gif",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_typing-indicator.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_shake-undo.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_dynamic-type.png",
+      "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_template.png"
+    ],
+    "tags": [
+      "UITableView",
+      "UICollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:31.761Z",
+    "github": {
+      "name": "SlackTextViewController",
+      "full_name": "slackhq/SlackTextViewController",
+      "html_url": "https://github.com/slackhq/SlackTextViewController",
+      "description": "A drop-in UIViewController subclass with a growing text input view and other useful messaging features",
+      "created_at": "2014-08-18T18:46:06Z",
+      "updated_at": "2018-09-25T20:37:54Z",
+      "pushed_at": "2018-08-18T05:56:44Z",
+      "language": "Objective-C",
+      "forks_count": 1096,
+      "open_issues_count": 79,
+      "license": "MIT License",
+      "watchers": 8580,
+      "owner": {
+        "login": "slackhq",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/6911160?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/slackhq"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:32.144Z"
+  },
+  {
+    "repo": "https://github.com/ren6/RKRichTextView",
+    "banner": "https://github.com/ren6/RKRichTextView/raw/master/screen.png",
+    "images": [],
+    "tags": [
+      "UITextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:32.144Z",
+    "github": {
+      "name": "RKRichTextView",
+      "full_name": "ren6/RKRichTextView",
+      "html_url": "https://github.com/ren6/RKRichTextView",
+      "description": "Rich Text Editor for iOS",
+      "created_at": "2013-05-23T15:10:48Z",
+      "updated_at": "2018-05-25T23:25:31Z",
+      "pushed_at": "2014-05-16T14:51:42Z",
+      "language": "Objective-C",
+      "forks_count": 18,
+      "open_issues_count": 1,
+      "license": "",
+      "watchers": 140,
+      "owner": {
+        "login": "ren6",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/1678575?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ren6"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:32.575Z"
+  },
+  {
+    "repo": "https://github.com/uzysjung/UzysAnimatedGifPullToRefresh",
+    "banner": "https://raw.githubusercontent.com/uzysjung/UzysAnimatedGifPullToRefresh/master/UzysAnimatedGifPullToRefresh.gif",
+    "images": [],
+    "tags": [
+      "Activity Indicator",
+      "Pull to Refresh"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:32.575Z",
+    "github": {
+      "name": "UzysAnimatedGifPullToRefresh",
+      "full_name": "uzysjung/UzysAnimatedGifPullToRefresh",
+      "html_url": "https://github.com/uzysjung/UzysAnimatedGifPullToRefresh",
+      "description": "Add PullToRefresh using animated GIF to any scrollView with just simple code",
+      "created_at": "2014-04-28T03:03:51Z",
+      "updated_at": "2018-09-12T08:17:47Z",
+      "pushed_at": "2016-07-07T23:05:07Z",
+      "language": "Objective-C",
+      "forks_count": 160,
+      "open_issues_count": 2,
+      "license": "Other",
+      "watchers": 1429,
+      "owner": {
+        "login": "uzysjung",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/1260081?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/uzysjung"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:32.990Z"
+  },
+  {
+    "repo": "https://github.com/jamesdunay/MinimalTabBar",
+    "banner": "http://i.imgur.com/of7jv2j.gif",
+    "images": [],
+    "tags": [
+      "TabBar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:32.991Z",
+    "github": {
+      "name": "MinimalTabBar",
+      "full_name": "jamesdunay/MinimalTabBar",
+      "html_url": "https://github.com/jamesdunay/MinimalTabBar",
+      "description": null,
+      "created_at": "2014-12-12T00:00:34Z",
+      "updated_at": "2018-09-10T09:20:42Z",
+      "pushed_at": "2016-11-29T15:09:47Z",
+      "language": "Objective-C",
+      "forks_count": 12,
+      "open_issues_count": 3,
+      "license": "MIT License",
+      "watchers": 148,
+      "owner": {
+        "login": "jamesdunay",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/6333328?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jamesdunay"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:33.408Z"
+  },
+  {
+    "repo": "https://github.com/daltoniam/DCAnimationKit",
+    "banner": "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/tada.gif",
+    "images": [
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/bounce.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/pulse.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/shake.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/swing.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/snapin.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/bouncein.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/expandin.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/compressin.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/hinge.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/drop.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/slide.gif",
+      "https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/rotate.gif"
+    ],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS",
+      "watchOS",
+      "macOS",
+      "tvOS"
+    ],
+    "created_at": "2018-09-25T20:51:33.408Z",
+    "github": {
+      "name": "DCAnimationKit",
+      "full_name": "daltoniam/DCAnimationKit",
+      "html_url": "https://github.com/daltoniam/DCAnimationKit",
+      "description": "A collection of animations for iOS. Simple, just add water animations.",
+      "created_at": "2014-03-21T15:37:15Z",
+      "updated_at": "2018-09-20T09:40:04Z",
+      "pushed_at": "2016-02-09T09:42:42Z",
+      "language": "Objective-C",
+      "forks_count": 83,
+      "open_issues_count": 1,
+      "license": "Apache License 2.0",
+      "watchers": 764,
+      "owner": {
+        "login": "daltoniam",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/905059?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/daltoniam"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:33.840Z"
+  },
+  {
+    "repo": "https://github.com/skywinder/ActionSheetPicker-3.0",
+    "banner": "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/example.gif",
+    "images": [
+      "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/string.png",
+      "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/date.png",
+      "https://raw.githubusercontent.com/Jack-s/ActionSheetPicker-3.0/master/Screenshots/time.png",
+      "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/custom.png",
+      "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/ipad.png"
+    ],
+    "tags": [
+      "PickerView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:33.840Z",
+    "github": {
+      "name": "ActionSheetPicker-3.0",
+      "full_name": "skywinder/ActionSheetPicker-3.0",
+      "html_url": "https://github.com/skywinder/ActionSheetPicker-3.0",
+      "description": "Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.",
+      "created_at": "2014-05-16T07:13:41Z",
+      "updated_at": "2018-09-25T08:48:22Z",
+      "pushed_at": "2018-08-20T11:10:35Z",
+      "language": "Objective-C",
+      "forks_count": 599,
+      "open_issues_count": 91,
+      "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "watchers": 3089,
+      "owner": {
+        "login": "skywinder",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/3356474?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/skywinder"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:34.364Z"
+  },
+  {
+    "repo": "https://github.com/MP0w/MPSkewed",
+    "banner": "https://github.com/MP0w/MPSkewed/raw/master/img/inaction2.gif",
+    "images": [
+      "https://github.com/MP0w/MPSkewed/raw/master/img/inaction.gif"
+    ],
+    "tags": [
+      "UITableView",
+      "Parallax"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:34.365Z",
+    "github": {
+      "name": "MPSkewed",
+      "full_name": "MP0w/MPSkewed",
+      "html_url": "https://github.com/MP0w/MPSkewed",
+      "description": "An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images ",
+      "created_at": "2014-05-23T16:49:57Z",
+      "updated_at": "2018-09-16T00:29:24Z",
+      "pushed_at": "2015-05-17T20:41:08Z",
+      "language": "Objective-C",
+      "forks_count": 38,
+      "open_issues_count": 1,
+      "license": "Other",
+      "watchers": 415,
+      "owner": {
+        "login": "MP0w",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/1812932?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/MP0w"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:34.772Z"
+  },
+  {
+    "repo": "https://github.com/romaonthego/REFrostedViewController",
+    "banner": "https://github.com/romaonthego/REFrostedViewController/raw/master/Screenshot.png",
+    "images": [
+      "https://github.com/romaonthego/REFrostedViewController/raw/master/Demo.gif"
+    ],
+    "tags": [
+      "Menu",
+      "Blur Effect"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:34.772Z",
+    "github": {
+      "name": "REFrostedViewController",
+      "full_name": "romaonthego/REFrostedViewController",
+      "html_url": "https://github.com/romaonthego/REFrostedViewController",
+      "description": "iOS 7/8 style blurred view controller that appears on top of your view controller.",
+      "created_at": "2013-09-18T16:48:29Z",
+      "updated_at": "2018-09-19T18:29:10Z",
+      "pushed_at": "2017-12-11T14:26:30Z",
+      "language": "Objective-C",
+      "forks_count": 535,
+      "open_issues_count": 93,
+      "license": "MIT License",
+      "watchers": 3055,
+      "owner": {
+        "login": "romaonthego",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/481100?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/romaonthego"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:35.221Z"
+  },
+  {
+    "repo": "https://github.com/szk-atmosphere/SAHistoryNavigationViewController",
+    "banner": "https://github.com/marty-suzuki/SAHistoryNavigationViewController/raw/master/SampleImage/3dtouch.gif",
+    "images": [
+      "https://github.com/marty-suzuki/SAHistoryNavigationViewController/raw/master/SampleImage/sample.gif",
+      "https://github.com/marty-suzuki/SAHistoryNavigationViewController/raw/master/SampleImage/touch.gif"
+    ],
+    "tags": [
+      "UINavigationContoller"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:35.222Z",
+    "github": {
+      "name": "SAHistoryNavigationViewController",
+      "full_name": "marty-suzuki/SAHistoryNavigationViewController",
+      "html_url": "https://github.com/marty-suzuki/SAHistoryNavigationViewController",
+      "description": "SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!",
+      "created_at": "2015-03-26T05:45:13Z",
+      "updated_at": "2018-09-17T13:09:36Z",
+      "pushed_at": "2017-10-31T16:46:23Z",
+      "language": "Swift",
+      "forks_count": 95,
+      "open_issues_count": 2,
+      "license": "MIT License",
+      "watchers": 1536,
+      "owner": {
+        "login": "marty-suzuki",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/2082134?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/marty-suzuki"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:36.017Z"
+  },
+  {
+    "repo": "https://github.com/terryworona/TWMessageBarManager",
+    "banner": "https://raw.github.com/terryworona/TWMessageBarManager/master/Screenshots/main.png",
+    "images": [],
+    "tags": [
+      "Notification"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:36.017Z",
+    "github": {
+      "name": "TWMessageBarManager",
+      "full_name": "terryworona/TWMessageBarManager",
+      "html_url": "https://github.com/terryworona/TWMessageBarManager",
+      "description": "An iOS manager for presenting system-wide notifications via a dropdown message bar.",
+      "created_at": "2013-05-14T00:39:05Z",
+      "updated_at": "2018-09-11T11:39:35Z",
+      "pushed_at": "2018-09-17T01:38:44Z",
+      "language": "Objective-C",
+      "forks_count": 213,
+      "open_issues_count": 14,
+      "license": "MIT License",
+      "watchers": 1785,
+      "owner": {
+        "login": "terryworona",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/358709?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/terryworona"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:36.420Z"
+  },
+  {
+    "repo": "https://github.com/matteogobbi/MGSpotyViewController",
+    "banner": "https://github.com/matteogobbi/MGSpotyViewController/raw/master/GIFs%20and%20Videos/spotiviewcontroller.gif",
+    "images": [
+      "https://github.com/matteogobbi/MGSpotyViewController/raw/master/GIFs%20and%20Videos/example2.gif"
+    ],
+    "tags": [
+      "Pull to Refresh",
+      "UITableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:36.420Z",
+    "github": {
+      "name": "MGSpotyViewController",
+      "full_name": "matteogobbi/MGSpotyViewController",
+      "html_url": "https://github.com/matteogobbi/MGSpotyViewController",
+      "description": "Beautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.",
+      "created_at": "2014-06-26T09:59:03Z",
+      "updated_at": "2018-09-22T17:07:21Z",
+      "pushed_at": "2016-03-14T12:22:19Z",
+      "language": "Objective-C",
+      "forks_count": 113,
+      "open_issues_count": 3,
+      "license": "MIT License",
+      "watchers": 1034,
+      "owner": {
+        "login": "matteogobbi",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/1998171?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/matteogobbi"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:36.828Z"
+  },
+  {
+    "repo": "https://github.com/mentionapp/mntpulltoreact",
+    "banner": "https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif",
+    "images": [
+      "https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/examples.jpg"
+    ],
+    "tags": [
+      "Gestures",
+      "Navigation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:36.828Z",
+    "github": {
+      "name": "mntpulltoreact",
+      "full_name": "mentionapp/mntpulltoreact",
+      "html_url": "https://github.com/mentionapp/mntpulltoreact",
+      "description": "One gesture, many actions. An evolution of Pull to Refresh.",
+      "created_at": "2014-05-26T16:06:29Z",
+      "updated_at": "2018-09-04T07:50:08Z",
+      "pushed_at": "2015-04-29T13:28:24Z",
+      "language": "Objective-C",
+      "forks_count": 73,
+      "open_issues_count": 0,
+      "license": "Apache License 2.0",
+      "watchers": 785,
+      "owner": {
+        "login": "mentionapp",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/3669354?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mentionapp"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:37.244Z"
+  },
+  {
+    "repo": "https://github.com/inFullMobile/WobbleView",
+    "banner": "https://github.com/inFullMobile/WobbleView/blob/master/wobble.gif?raw=true",
+    "images": [],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:37.244Z",
+    "github": {
+      "name": "WobbleView",
+      "full_name": "inFullMobile/WobbleView",
+      "html_url": "https://github.com/inFullMobile/WobbleView",
+      "description": null,
+      "created_at": "2015-04-08T14:26:46Z",
+      "updated_at": "2018-09-21T06:54:31Z",
+      "pushed_at": "2017-05-30T20:56:02Z",
+      "language": "Swift",
+      "forks_count": 120,
+      "open_issues_count": 3,
+      "license": "MIT License",
+      "watchers": 2228,
+      "owner": {
+        "login": "inFullMobile",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/1788009?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/inFullMobile"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:37.775Z"
+  },
+  {
+    "repo": "https://github.com/twotoasters/TWTSideMenuViewController",
+    "banner": "https://raw.githubusercontent.com/twotoasters/TWTSideMenuViewController/master/Artifacts/TWTSideMenu.gif",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:37.775Z",
+    "github": {
+      "name": "TWTSideMenuViewController",
+      "full_name": "twotoasters/TWTSideMenuViewController",
+      "html_url": "https://github.com/twotoasters/TWTSideMenuViewController",
+      "description": "Side Menus for iOS 7",
+      "created_at": "2013-08-27T13:49:01Z",
+      "updated_at": "2018-09-19T08:16:26Z",
+      "pushed_at": "2014-09-26T17:00:18Z",
+      "language": "Objective-C",
+      "forks_count": 161,
+      "open_issues_count": 19,
+      "license": "MIT License",
+      "watchers": 888,
+      "owner": {
+        "login": "twotoasters",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/112994?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/twotoasters"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:38.193Z"
+  },
+  {
+    "repo": "https://github.com/bryankeller/BLKFlexibleHeightBar",
+    "banner": "http://foxweb.marist.edu/users/stbk/SquareCashDemo2.gif",
+    "images": [
+      "http://foxweb.marist.edu/users/stbk/FacebookDemo2.gif",
+      "http://foxweb.marist.edu/users/stbk/BasicDemo.gif"
+    ],
+    "tags": [
+      "Bar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:38.193Z",
+    "github": {
+      "name": "BLKFlexibleHeightBar",
+      "full_name": "bryankeller/BLKFlexibleHeightBar",
+      "html_url": "https://github.com/bryankeller/BLKFlexibleHeightBar",
+      "description": "Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.",
+      "created_at": "2015-03-09T09:21:20Z",
+      "updated_at": "2018-09-17T10:16:52Z",
+      "pushed_at": "2017-04-17T08:06:44Z",
+      "language": "Objective-C",
+      "forks_count": 345,
+      "open_issues_count": 40,
+      "license": "MIT License",
+      "watchers": 3035,
+      "owner": {
+        "login": "bryankeller",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/746571?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/bryankeller"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:38.628Z"
+  },
+  {
+    "repo": "https://github.com/mwaterfall/MWPhotoBrowser",
+    "banner": "https://camo.githubusercontent.com/2f47c5ac3865bf4b09d3c77e2d325d5d5abf09fe/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657231742e706e67",
+    "images": [
+      "https://camo.githubusercontent.com/63d7c74ca5cd1006c6669957fc27d8eae76f1292/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657232742e706e67",
+      "https://camo.githubusercontent.com/364e2c6420c8a1e862db9d0990d77e0d5e2a4f9e/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657233742e706e67",
+      "https://camo.githubusercontent.com/194b07b3ed16c041c6f6f9ba2415da747e60d2ee/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657234742e706e67",
+      "https://camo.githubusercontent.com/4ae62a60cf5f1a1c71ba661fdb16f45382597f5f/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657235742e706e67",
+      "https://camo.githubusercontent.com/f5bf8304ecd7517b152c330c7a1f2611ac1448ac/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657236742e706e67"
+    ],
+    "tags": [
+      "PhotoGallery",
+      "UICollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:38.628Z",
+    "github": {
+      "name": "MWPhotoBrowser",
+      "full_name": "mwaterfall/MWPhotoBrowser",
+      "html_url": "https://github.com/mwaterfall/MWPhotoBrowser",
+      "description": "A simple iOS photo and video browser with grid view, captions and selections.",
+      "created_at": "2010-10-21T15:40:47Z",
+      "updated_at": "2018-09-25T14:46:51Z",
+      "pushed_at": "2018-08-11T09:14:04Z",
+      "language": "Objective-C",
+      "forks_count": 2620,
+      "open_issues_count": 329,
+      "license": "MIT License",
+      "watchers": 8363,
+      "owner": {
+        "login": "mwaterfall",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/132291?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mwaterfall"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:39.039Z"
+  },
+  {
+    "repo": "https://github.com/movielala/VideoSplashKit",
+    "banner": "https://camo.githubusercontent.com/38b9f191c2e435f3988b9e2c14e49aedda46e2f2/687474703a2f2f6f6935372e74696e797069632e636f6d2f6535686938322e6a7067",
+    "images": [],
+    "tags": [
+      "VideoPlayer",
+      "Splashscreen"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:39.039Z",
+    "github": {
+      "name": "VideoSplashKit",
+      "full_name": "svtek/VideoSplashKit",
+      "html_url": "https://github.com/svtek/VideoSplashKit",
+      "description": "VideoSplashKit - UIViewController library for creating easy intro pages with background videos",
+      "created_at": "2015-08-05T00:29:11Z",
+      "updated_at": "2018-09-21T06:54:27Z",
+      "pushed_at": "2018-01-20T19:50:41Z",
+      "language": "Swift",
+      "forks_count": 134,
+      "open_issues_count": 16,
+      "license": "MIT License",
+      "watchers": 1186,
+      "owner": {
+        "login": "svtek",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/20601776?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/svtek"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:39.870Z"
+  },
+  {
+    "repo": "https://github.com/SocialObjects-Software/AMSlideMenu",
+    "banner": "https://camo.githubusercontent.com/2f52a3eb68e90024ec5507e7f49b89217a4bd45c/68747470733a2f2f7261772e6769746875622e636f6d2f61727475726465762f414d536c6964654d656e752f6d61737465722f414d536c6964654d656e7544656d6f2d7769746825323053746f7279626f6172642f414d536c6964654d656e752f64656d6f2e676966",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:39.871Z",
+    "github": {
+      "name": "AMSlideMenu",
+      "full_name": "arturdev/AMSlideMenu",
+      "html_url": "https://github.com/arturdev/AMSlideMenu",
+      "description": "Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.",
+      "created_at": "2013-12-26T09:59:50Z",
+      "updated_at": "2018-09-23T11:38:33Z",
+      "pushed_at": "2015-11-09T06:59:35Z",
+      "language": "Objective-C",
+      "forks_count": 219,
+      "open_issues_count": 19,
+      "license": "MIT License",
+      "watchers": 1227,
+      "owner": {
+        "login": "arturdev",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/6263856?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/arturdev"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:40.698Z"
+  },
+  {
+    "repo": "https://github.com/boztalay/BOZPongRefreshControl",
+    "banner": "http://i.imgur.com/cdh7eVE.gif",
+    "images": [],
+    "tags": [
+      "Pull to Refresh"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:40.698Z",
+    "github": {
+      "name": "BOZPongRefreshControl",
+      "full_name": "boztalay/BOZPongRefreshControl",
+      "html_url": "https://github.com/boztalay/BOZPongRefreshControl",
+      "description": "A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app",
+      "created_at": "2013-12-06T18:39:06Z",
+      "updated_at": "2018-09-21T13:53:48Z",
+      "pushed_at": "2015-01-13T18:28:08Z",
+      "language": "Objective-C",
+      "forks_count": 73,
+      "open_issues_count": 5,
+      "license": "MIT License",
+      "watchers": 903,
+      "owner": {
+        "login": "boztalay",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/1679999?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/boztalay"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:41.088Z"
+  },
+  {
+    "repo": "https://github.com/jverdi/JVFloatLabeledTextField",
+    "banner": "http://dribbble.s3.amazonaws.com/users/6410/screenshots/1254439/form-animation-_gif_.gif",
+    "images": [],
+    "tags": [
+      "Material",
+      "Label",
+      "UITextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:41.088Z",
+    "github": {
+      "name": "JVFloatLabeledTextField",
+      "full_name": "jverdi/JVFloatLabeledTextField",
+      "html_url": "https://github.com/jverdi/JVFloatLabeledTextField",
+      "description": "UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users",
+      "created_at": "2013-10-01T04:31:03Z",
+      "updated_at": "2018-09-25T08:45:24Z",
+      "pushed_at": "2018-09-07T13:18:07Z",
+      "language": "Objective-C",
+      "forks_count": 719,
+      "open_issues_count": 20,
+      "license": "MIT License",
+      "watchers": 6820,
+      "owner": {
+        "login": "jverdi",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/345050?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jverdi"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:41.511Z"
+  },
+  {
+    "repo": "https://github.com/cwRichardKim/RKDropdownAlert",
+    "banner": "http://i.imgur.com/OlYystx.gif",
+    "images": [
+      "http://i.imgur.com/d6voW3W.gif",
+      "http://i.imgur.com/tE5p9L0.gif?1",
+      "http://i.imgur.com/M0cH5DF.gif?1",
+      "http://i.imgur.com/GaVlsT0.gif?1"
+    ],
+    "tags": [
+      "Notification"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:41.511Z",
+    "github": {
+      "name": "RKDropdownAlert",
+      "full_name": "cwRichardKim/RKDropdownAlert",
+      "html_url": "https://github.com/cwRichardKim/RKDropdownAlert",
+      "description": "iOS / Objective C: an extremely simple UIAlertView alternative",
+      "created_at": "2014-07-17T14:50:11Z",
+      "updated_at": "2018-09-16T11:18:38Z",
+      "pushed_at": "2017-04-16T20:15:17Z",
+      "language": "Objective-C",
+      "forks_count": 146,
+      "open_issues_count": 11,
+      "license": "MIT License",
+      "watchers": 1516,
+      "owner": {
+        "login": "cwRichardKim",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/5778691?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cwRichardKim"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:41.903Z"
+  },
+  {
+    "repo": "https://github.com/cwRichardKim/RKNotificationHub",
+    "banner": "https://camo.githubusercontent.com/e09d52d46624bc3e5809c5f071882cfc8d49a7bf/687474703a2f2f692e696d6775722e636f6d2f537045324251762e676966",
+    "images": [
+      "https://camo.githubusercontent.com/cdf854629aa7daf84277aeec721555e15542e0c6/687474703a2f2f692e696d6775722e636f6d2f7a70676b4e74452e676966",
+      "https://camo.githubusercontent.com/db40cc6e5ccdc6cdc8d2316fb59fa35f51428d92/687474703a2f2f692e696d6775722e636f6d2f626f47794c39542e676966",
+      "https://camo.githubusercontent.com/332d2b29723f425a16be0587e727de03e0bdebd5/687474703a2f2f692e696d6775722e636f6d2f467462726838372e676966"
+    ],
+    "tags": [
+      "Notification",
+      "Badge"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:41.903Z",
+    "github": {
+      "name": "RKNotificationHub",
+      "full_name": "cwRichardKim/RKNotificationHub",
+      "html_url": "https://github.com/cwRichardKim/RKNotificationHub",
+      "description": "Make any UIView a full fledged notification center",
+      "created_at": "2014-10-01T17:36:18Z",
+      "updated_at": "2018-09-21T01:41:34Z",
+      "pushed_at": "2017-11-29T06:21:51Z",
+      "language": "Objective-C",
+      "forks_count": 335,
+      "open_issues_count": 3,
+      "license": "MIT License",
+      "watchers": 2965,
+      "owner": {
+        "login": "cwRichardKim",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/5778691?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cwRichardKim"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:42.337Z"
+  },
+  {
+    "repo": "https://github.com/elbryan/FFCircularProgressView",
+    "banner": "https://raw.github.com/elbryan/FFCircularProgressView/master/Media/sample.gif",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:42.337Z",
+    "github": {
+      "name": "FFCircularProgressView",
+      "full_name": "elbryan/FFCircularProgressView",
+      "html_url": "https://github.com/elbryan/FFCircularProgressView",
+      "description": "FFCircularProgressView - An iOS 7-inspired blue circular progress view",
+      "created_at": "2013-07-16T17:07:38Z",
+      "updated_at": "2018-09-12T07:50:15Z",
+      "pushed_at": "2018-01-25T08:51:29Z",
+      "language": "Objective-C",
+      "forks_count": 117,
+      "open_issues_count": 7,
+      "license": "MIT License",
+      "watchers": 1019,
+      "owner": {
+        "login": "elbryan",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/185655?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/elbryan"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:42.764Z"
+  },
+  {
+    "repo": "https://github.com/jonathantribouharet/JTCalendar",
+    "banner": "https://raw.githubusercontent.com/jonathantribouharet/JTCalendar/master/./Screens/example.gif",
+    "images": [
+      "https://raw.githubusercontent.com/jonathantribouharet/JTCalendar/master/./Screens/example.png"
+    ],
+    "tags": [
+      "Calendar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:42.764Z",
+    "github": {
+      "name": "JTCalendar",
+      "full_name": "jonathantribouharet/JTCalendar",
+      "html_url": "https://github.com/jonathantribouharet/JTCalendar",
+      "description": "A customizable calendar view for iOS.",
+      "created_at": "2014-10-29T18:39:06Z",
+      "updated_at": "2018-09-19T05:49:52Z",
+      "pushed_at": "2018-06-22T09:12:54Z",
+      "language": "Objective-C",
+      "forks_count": 512,
+      "open_issues_count": 108,
+      "license": "MIT License",
+      "watchers": 2621,
+      "owner": {
+        "login": "jonathantribouharet",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/188946?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jonathantribouharet"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:43.222Z"
+  },
+  {
+    "repo": "https://github.com/Raizlabs/RZTransitions",
+    "banner": "http://raw.github.com/Raizlabs/RZTransitions/master/Web/RZTransitionsDemo.gif",
+    "images": [],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:43.223Z",
+    "github": {
+      "name": "RZTransitions",
+      "full_name": "Raizlabs/RZTransitions",
+      "html_url": "https://github.com/Raizlabs/RZTransitions",
+      "description": "A library of custom iOS View Controller Animations and Interactions.",
+      "created_at": "2013-12-16T20:47:15Z",
+      "updated_at": "2018-09-25T08:51:40Z",
+      "pushed_at": "2017-09-17T20:50:52Z",
+      "language": "Objective-C",
+      "forks_count": 180,
+      "open_issues_count": 11,
+      "license": "MIT License",
+      "watchers": 1806,
+      "owner": {
+        "login": "Raizlabs",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/621479?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Raizlabs"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:43.656Z"
+  },
+  {
+    "repo": "https://github.com/MatthewYork/MYBlurIntroductionView",
+    "banner": "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/MYBlurIntroductionView.gif",
+    "images": [
+      "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/iOS%20Simulator%20Screen%20shot%20Oct%2017,%202013%203.09.52%20PM.png",
+      "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/iOS%20Simulator%20Screen%20shot%20Oct%2017,%202013%203.09.56%20PM.png",
+      "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/iOS%20Simulator%20Screen%20shot%20Oct%2017,%202013%204.42.36%20PM.png",
+      "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/iOS%20Simulator%20Screen%20shot%20Oct%2017,%202013%204.42.38%20PM.png"
+    ],
+    "tags": [
+      "Introductions"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:43.656Z",
+    "github": {
+      "name": "MYBlurIntroductionView",
+      "full_name": "MatthewYork/MYBlurIntroductionView",
+      "html_url": "https://github.com/MatthewYork/MYBlurIntroductionView",
+      "description": "A super-charged version of MYIntroductionView for building custom app introductions and tutorials.",
+      "created_at": "2013-10-17T04:16:58Z",
+      "updated_at": "2018-08-29T18:00:40Z",
+      "pushed_at": "2017-10-30T22:01:03Z",
+      "language": "Objective-C",
+      "forks_count": 212,
+      "open_issues_count": 18,
+      "license": "MIT License",
+      "watchers": 1553,
+      "owner": {
+        "login": "MatthewYork",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/3343852?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/MatthewYork"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:44.458Z"
+  },
+  {
+    "repo": "https://github.com/nghialv/MaterialKit",
+    "banner": "https://github.com/nghialv/MaterialKit/raw/master/Assets/MKButton.gif",
+    "images": [
+      "https://github.com/nghialv/MaterialKit/raw/master/Assets/MKTableViewCell.gif",
+      "https://github.com/nghialv/MaterialKit/raw/master/Assets/MKRefreshControl.gif"
+    ],
+    "tags": [
+      "Material",
+      "Button",
+      "UITableView",
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:44.458Z",
+    "github": {
+      "name": "MaterialKit",
+      "full_name": "nghialv/MaterialKit",
+      "html_url": "https://github.com/nghialv/MaterialKit",
+      "description": "Material design components for iOS written in Swift",
+      "created_at": "2014-11-16T09:38:25Z",
+      "updated_at": "2018-09-23T19:09:09Z",
+      "pushed_at": "2018-07-25T05:46:56Z",
+      "language": "Swift",
+      "forks_count": 313,
+      "open_issues_count": 37,
+      "license": "MIT License",
+      "watchers": 2532,
+      "owner": {
+        "login": "nghialv",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/1751755?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/nghialv"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:44.830Z"
+  },
+  {
+    "repo": "https://github.com/thii/Notie",
+    "banner": "https://raw.githubusercontent.com/thii/Notie/master/Assets/NotieScreencast.gif",
+    "images": [],
+    "tags": [
+      "Notification"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:44.830Z",
+    "github": {
+      "name": "Notie",
+      "full_name": "thii/Notie",
+      "html_url": "https://github.com/thii/Notie",
+      "description": "In-app notification in Swift, with customizable buttons and input text field.",
+      "created_at": "2015-11-20T03:15:13Z",
+      "updated_at": "2018-09-03T21:39:52Z",
+      "pushed_at": "2017-05-28T08:40:28Z",
+      "language": "Swift",
+      "forks_count": 11,
+      "open_issues_count": 0,
+      "license": "MIT License",
+      "watchers": 84,
+      "owner": {
+        "login": "thii",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/4506500?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/thii"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:45.222Z"
+  },
+  {
+    "repo": "https://github.com/0xced/XCDYouTubeKit",
+    "banner": "https://raw.githubusercontent.com/0xced/XCDYouTubeKit/master/Screenshots/XCDYouTubeVideoPlayerViewController.png",
+    "images": [],
+    "tags": [
+      "VideoPlayer"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:45.222Z",
+    "github": {
+      "name": "XCDYouTubeKit",
+      "full_name": "0xced/XCDYouTubeKit",
+      "html_url": "https://github.com/0xced/XCDYouTubeKit",
+      "description": "YouTube video player for iOS, tvOS and macOS",
+      "created_at": "2013-05-17T20:59:57Z",
+      "updated_at": "2018-09-25T17:47:00Z",
+      "pushed_at": "2018-09-24T02:04:27Z",
+      "language": "Objective-C",
+      "forks_count": 418,
+      "open_issues_count": 73,
+      "license": "MIT License",
+      "watchers": 2390,
+      "owner": {
+        "login": "0xced",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/51363?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/0xced"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:45.649Z"
+  },
+  {
+    "repo": "https://github.com/mamaral/Onboard",
+    "banner": "https://github.com/mamaral/Onboard/raw/master/Screenshots/almanac.gif",
+    "images": [
+      "https://github.com/mamaral/Onboard/raw/master/Screenshots/city.gif",
+      "https://github.com/mamaral/Onboard/raw/master/Screenshots/solar.gif",
+      "https://github.com/mamaral/Onboard/raw/master/Screenshots/tripnary.gif"
+    ],
+    "tags": [
+      "Introductions"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:45.650Z",
+    "github": {
+      "name": "Onboard",
+      "full_name": "mamaral/Onboard",
+      "html_url": "https://github.com/mamaral/Onboard",
+      "description": "An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.",
+      "created_at": "2014-08-19T01:43:54Z",
+      "updated_at": "2018-09-25T16:19:37Z",
+      "pushed_at": "2018-03-30T14:18:34Z",
+      "language": "Objective-C",
+      "forks_count": 780,
+      "open_issues_count": 43,
+      "license": "MIT License",
+      "watchers": 6276,
+      "owner": {
+        "login": "mamaral",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/6086409?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mamaral"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:46.075Z"
+  },
+  {
+    "repo": "https://github.com/WenchaoIOS/FSCalendar",
+    "banner": "https://cloud.githubusercontent.com/assets/5186464/20288375/ed3fba0e-ab0d-11e6-8b15-43d3dc656f22.gif",
+    "images": [
+      "https://cloud.githubusercontent.com/assets/5186464/20288378/f11e318c-ab0d-11e6-8d1d-9d89b563e9d7.gif",
+      "https://cloud.githubusercontent.com/assets/5186464/21559640/e92a9ccc-ce8a-11e6-8c60-e52204f33249.gif",
+      "https://cloud.githubusercontent.com/assets/5186464/20257836/2ffa3252-aa87-11e6-8ff9-3b40f5b2307b.gif",
+      "https://cloud.githubusercontent.com/assets/5186464/10927681/d2448cb6-82dc-11e5-9d11-f664a06698a7.jpg",
+      "https://cloud.githubusercontent.com/assets/5186464/10262249/4fabae40-69f2-11e5-97ab-afbacd0a3da2.jpg",
+      "https://cloud.githubusercontent.com/assets/5186464/20026983/22354a0e-a342-11e6-8ae6-0614ea7f35ae.gif"
+    ],
+    "tags": [
+      "Calendar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:46.076Z",
+    "github": {
+      "name": "FSCalendar",
+      "full_name": "WenchaoD/FSCalendar",
+      "html_url": "https://github.com/WenchaoD/FSCalendar",
+      "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+      "created_at": "2015-02-15T08:43:09Z",
+      "updated_at": "2018-09-25T11:24:30Z",
+      "pushed_at": "2018-09-25T09:59:22Z",
+      "language": "Objective-C",
+      "forks_count": 1227,
+      "open_issues_count": 306,
+      "license": "MIT License",
+      "watchers": 7049,
+      "owner": {
+        "login": "WenchaoD",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/5186464?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/WenchaoD"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:46.961Z"
+  },
+  {
+    "repo": "https://github.com/mariohahn/MHVideoPhotoGallery",
+    "banner": "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/dismissInteractiveVideo.gif?raw=true",
+    "images": [
+      "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/dismissInteractive.gif?raw=true",
+      "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/dismissAtTheEnd.gif?raw=true",
+      "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/interactive.gif?raw=true",
+      "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/ShareView.gif?raw=true",
+      "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/OverView.gif?raw=true"
+    ],
+    "tags": [
+      "PhotoGallery",
+      "VideoPlayer",
+      "UICollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-25T20:51:46.961Z",
+    "github": {
+      "name": "MHVideoPhotoGallery",
+      "full_name": "mariohahn/MHVideoPhotoGallery",
+      "html_url": "https://github.com/mariohahn/MHVideoPhotoGallery",
+      "description": "A Photo and Video Gallery ",
+      "created_at": "2014-01-08T14:05:52Z",
+      "updated_at": "2018-09-05T08:04:28Z",
+      "pushed_at": "2018-09-10T06:16:51Z",
+      "language": "Objective-C",
+      "forks_count": 384,
+      "open_issues_count": 69,
+      "license": "MIT License",
+      "watchers": 1972,
+      "owner": {
+        "login": "mariohahn",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/915933?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mariohahn"
+      }
+    },
+    "github_updated_at": "2018-09-25T20:51:47.376Z"
   }
 ]
