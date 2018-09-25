@@ -1,16 +1,17 @@
-var gulp = require('gulp');
-var conf = require('./conf')
-var sass = require('gulp-sass');
-var connect = require('gulp-connect')
-var del = require('del');
-var concat = require('gulp-concat');
-var autoprefixer = require('gulp-autoprefixer');
-let cleanCSS = require('gulp-clean-css');
-var browserify = require('gulp-browserify');
-var compileData = require('./gulp-compile-data');
-var rename = require("gulp-rename");
-var htmlmin = require('gulp-htmlmin');
-var jsminify = require('gulp-minify');
+const gulp = require('gulp');
+const conf = require('./conf')
+const sass = require('gulp-sass');
+const connect = require('gulp-connect')
+const del = require('del');
+const concat = require('gulp-concat');
+const autoprefixer = require('gulp-autoprefixer');
+const cleanCSS = require('gulp-clean-css');
+const browserify = require('gulp-browserify');
+const compileData = require('./gulp-compile-data');
+const rename = require("gulp-rename");
+const htmlmin = require('gulp-htmlmin');
+const jsminify = require('gulp-minify');
+const babel = require("gulp-babel");
 
 
 gulp.task('sass', function () {
@@ -27,6 +28,7 @@ gulp.task('scripts', function() {
       .pipe(browserify({
         insertGlobals : false
       }))
+      .pipe(babel({ presets: ['@babel/env']}))
       .pipe(jsminify())
       .pipe(gulp.dest(conf.path.dist()))
       .pipe(connect.reload());
