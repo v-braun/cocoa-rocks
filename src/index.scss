@@ -1,4 +1,4 @@
-@import "../node_modules/mobius1-selectr/dist/selectr.min.css";
+@import "../node_modules/choices.js/assets/styles/css/choices.min.css";
 @import "styles/vars";
 @import "styles/components";
 
@@ -89,7 +89,8 @@ body{
     
     .filter{
         background-color: $background_alt;
-        padding-left: 150px;
+        padding-left: 160px;
+        padding-right: 20px;
         padding-bottom: 20px;
         padding-top: 20px;
         border-bottom: $border_line;
@@ -107,9 +108,32 @@ body{
         //     // display: none;
         // }
         
-        select{
-            display: none;
-            width: 160px;
+        >.choices{
+            // display: none;
+            width: 100%;
+            max-width: 580px;
+
+            &.is-open{
+                background-color: $background_alt;
+                .choices__inner{
+                    background-color: $background_alt;
+                }
+            }
+            .choices__item{
+                background-color: $background;
+                border-color: darken($background, 10);
+                color: $foreground;
+            }
+            .choices__list--dropdown{
+                color: $foreground;
+                
+                .choices__item--selectable{
+                    &.is-highlighted{
+                        background-color: lighten($background, 20);
+                    }
+                }
+
+            }
         }
     }    
     

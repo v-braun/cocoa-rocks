@@ -52,10 +52,15 @@
     "vinyl": "^2.2.0"
   },
   "dependencies": {
+    "choices.js": "^3.0.4",
+    "handlebars": "^4.0.12",
     "lodash.debounce": "^4.0.8",
+    "lodash.filter": "^4.6.0",
+    "lodash.flatmap": "^4.5.0",
+    "lodash.map": "^4.6.0",
+    "lodash.uniqby": "^4.2.0",
     "lodash.throttle": "^4.1.1",
-    "smoothscroll-polyfill": "^0.4.3",
     "mobius1-selectr": "^2.4.3",
-    "handlebars": "^4.0.12"
+    "smoothscroll-polyfill": "^0.4.3"
   }
 }

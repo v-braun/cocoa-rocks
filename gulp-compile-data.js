@@ -121,7 +121,7 @@ function compile(json, lastJson,  done){
         language: data.language,
         forks_count: data.forks_count,
         open_issues_count: data.open_issues_count,
-        license: data.license ? data.license.name : '',
+        license: data.license ? data.license.spdx_id : '',
         watchers: data.watchers,
         owner: {
           login: data.owner.login,
