@@ -12,7 +12,12 @@ const rename = require("gulp-rename");
 const htmlmin = require('gulp-htmlmin');
 const jsminify = require('gulp-minify');
 const babel = require("gulp-babel");
+const inject = require('gulp-inject');
+const rev = require('gulp-rev');
+const gulpif = require('gulp-if');
 
+
+var MIN_BUILD = false;
 
 gulp.task('sass', function () {
   return gulp.src(conf.path.src('**/*.scss'))
@@ -20,32 +25,52 @@ gulp.task('sass', function () {
     .pipe(autoprefixer())
     .pipe(concat('styles.css'))
     .pipe(cleanCSS())
+    .pipe(gulpif(MIN_BUILD, rev()))
+    .pipe(gulp.dest(conf.path.tmp()))
     .pipe(gulp.dest(conf.path.dist()))
     .pipe(connect.reload());
 });
 gulp.task('scripts', function() {
   return gulp.src(conf.path.src('index.js'))
       .pipe(browserify({
-        insertGlobals : false
+        insertGlobals : false,
+        transform: ['hbsfy']
       }))
       .pipe(babel({ presets: ['@babel/env']}))
-      .pipe(jsminify())
+      .pipe(gulpif(MIN_BUILD, rev()))
+      .pipe(gulpif(MIN_BUILD, jsminify({
+        noSource: true
+      })))
+      .pipe(gulp.dest(conf.path.tmp()))
       .pipe(gulp.dest(conf.path.dist()))
       .pipe(connect.reload());
 });
+
 gulp.task('html', function() {
+
+  var sources = gulp.src([
+      conf.path.tmp('*.js'),
+      conf.path.tmp('*.css')
+    ], {read: false});
+
   return gulp.src(conf.path.src('**/*.html'))
-      .pipe(htmlmin({
+      .pipe(inject(sources, {
+        ignorePath: '/tmp/'
+      }))
+      .pipe(gulpif(MIN_BUILD, htmlmin({
         collapseWhitespace: true,
         removeComments: true,
         minifyCSS: true,
         minifyJS: true
-      }))
+      })))
+      .pipe(gulp.dest(conf.path.tmp()))
       .pipe(gulp.dest(conf.path.dist()))
       .pipe(connect.reload());
+
 });
 gulp.task('assets', () => {
   return gulp.src(conf.path.src('assets/**'))
+      .pipe(gulp.dest(conf.path.tmp('assets')))
       .pipe(gulp.dest(conf.path.dist('assets')))
       .pipe(connect.reload());  
 });
@@ -60,9 +85,10 @@ gulp.task('data:compile', () => {
       .pipe(compileData('compile', conf.path.src('data/data.compiled.json')))
       .pipe(rename("data.compiled.json"))
       .pipe(gulp.dest(conf.path.src('data')));
-      // .pipe(jsonminify()) handled trough browsify
-      // .pipe(gulp.dest(conf.path.dist('assets')));  
+      
 });
+
+
 
 gulp.task('data:dist', gulp.series('data:validate', 'data:compile'));
 
@@ -71,12 +97,14 @@ gulp.task('watch', function (done) {
   gulp.watch(conf.path.src('**/*.scss'), gulp.series('sass'));
   gulp.watch(conf.path.src('**/*.html'), gulp.series('html'));
   gulp.watch(conf.path.src('**/*.js'), gulp.series('scripts'));
+  gulp.watch(conf.path.src('**/*.hbs'), gulp.series('scripts'));
   gulp.watch(conf.path.src('assets/**'), gulp.series('assets'));
   done();
 });
 
 gulp.task('clean', function () {
-  return del(conf.path.dist());
+  return del(conf.path.tmp())
+      .then(del(conf.path.dist()));
 });
 
 gulp.task('connect', function (done) {
@@ -88,5 +116,14 @@ gulp.task('connect', function (done) {
   done();
 });
 
-gulp.task('serve', gulp.series('clean', 'assets', 'html', 'sass', 'scripts', 'connect', 'watch'));
-gulp.task('dist', gulp.series('clean', 'assets', 'html', 'sass', 'scripts'));
+gulp.task('dev:prepare',(done) => {
+  MIN_BUILD = false;
+  done();
+});
+gulp.task('prod:prepare',(done) => {
+  MIN_BUILD = true;
+  done();
+});
+
+gulp.task('serve', gulp.series('dev:prepare', 'clean', 'assets', 'sass', 'scripts', 'html', 'connect', 'watch'));
+gulp.task('dist', gulp.series('prod:prepare', 'clean', 'assets', 'sass', 'scripts', 'html'));

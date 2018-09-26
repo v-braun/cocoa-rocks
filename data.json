@@ -298,7 +298,7 @@
     },
     {
         "repo": "https://github.com/hanton/HTYTextField",
-        "banner": "https://github.com/hanton/HTYTextField/blob/master/screenshot/HTYTextField.gif",
+        "banner": "https://github.com/hanton/HTYTextField/blob/master/screenshot/HTYTextField.gif?raw=true",
         "images": [],
         "tags": [
             "UITextField"

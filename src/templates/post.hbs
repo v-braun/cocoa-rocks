@@ -1,0 +1,50 @@
+<div class="post" id="post_{{github.name}}" data-name="{{github.name}}">
+  <div class="post-content">
+    <div class="post-banner">
+      <img src="{{banner}}" />
+    </div>
+    <div class="post-detail">
+      <div class="post-header">
+        <img class="avatar" src="{{github.owner.avatar_url}}" alt="{{github.owner.login}}" />
+        <div class="title">
+          <h1>{{github.name}}</h1>
+          <label>by <a target="_blank" href="{{github.owner.html_url}}">{{github.owner.login}}</a></label>
+        </div>
+      </div>
+      <div class="post-shares">
+
+        <a class="social-btn github" onclick="social.star(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+            <i class="fab fa-github"></i> Star
+        </a>
+
+        <a class="social-btn facebook" onclick="social.fbshare(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+            <i class="fab fa-facebook"></i> Share
+        </a>
+
+        <a class="social-btn twitter" onclick="social.tweet(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+            <i class="fab fa-twitter"></i> Tweet
+        </a>
+
+        <a class="social-btn pinterest" onclick="social.pin(this)" data-desc="{{github.description}}" data-banner="{{banner}}" data-url="{{github.html_url}}" href="#">
+            <i class="fab fa-pinterest"></i> Pin
+        </a>
+      </div>
+      <div class="post-desc">
+          {{github.description}}
+      </div>
+      <ul class="post-attributes">
+        {{#if github.license}}
+        <li class="license"><i class="fas fa-balance-scale"></i> {{github.license}}</li>
+        {{/if}}
+        {{#if github.language}}
+        <li class="lang"><i class="fas fa-code"></i> {{github.language}}</li>
+        {{/if}}
+      </ul>
+      <ul class="post-tags">
+        {{#each tags}}
+          <li class="tag"><i class="fas fa-tag"></i> {{this}}</li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+</div>    

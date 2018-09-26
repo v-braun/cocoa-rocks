@@ -1,5 +1,4 @@
 var data = require('../data/data.compiled.json');
-var Handlebars = require('handlebars');
 var debounce = require('lodash.debounce');
 var throttle = require('lodash.throttle');
 
@@ -96,11 +95,8 @@ function applyTemplateAndAdd(holder, post, template){
 
 
 function render(){
-  var postTplSrc = document.getElementById('entry-template').innerHTML;
-  _ctx.postTpl = Handlebars.compile(postTplSrc);
-  
-  var rollTplSrc = document.getElementById('roll-entry-template').innerHTML;
-  _ctx.rollTpl = Handlebars.compile(rollTplSrc);  
+  _ctx.postTpl = require('../templates/post.hbs');
+  _ctx.rollTpl = require('../templates/roll-entry.hbs');
 
   _ctx.postContainer = document.getElementById('body');
   _ctx.rollContainer = document.getElementById('all-entries-roll');
