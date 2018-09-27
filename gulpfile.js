@@ -111,6 +111,7 @@ gulp.task('connect', function (done) {
   connect.server({
       root: conf.path.dist(),
       port: conf.connect.port,
+      host: conf.connect.host,
       livereload: conf.connect.livereload
   });
   done();

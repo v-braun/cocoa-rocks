@@ -1,16 +1,17 @@
 [
     {
         "repo": "https://github.com/v-braun/VBRRollingPit",
+        "repo2": "https://github.com/v-braun/VBRRollingPit",
         "banner": "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif",
         "images": [
         ],
         "tags": [
-            "UITabBar"
+            "TabBar"
         ],
         "paltforms": [
             "iOS"
         ]
-    },    
+    },   
     {
         "repo": "https://github.com/shu223/AnimatedTransitionGallery",
         "banner": "https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/gallery.gif",
@@ -42,17 +43,9 @@
             "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_002_1.jpg",
             "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_003_1.jpg",
             "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_011_1.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/circular_indeterminate.gif",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_004_2.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_005_2.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_006_2.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_007_2.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_008_2.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_009_2.jpg",
-            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_010_2.jpg"
+            "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/circular_indeterminate.gif"
         ],
         "tags": [
-            "UIActivityView",
             "Progress"
         ],
         "paltforms": [
@@ -81,8 +74,7 @@
         ],
         "tags": [
             "Animation",
-            "Splashscreen",
-            "UIView"
+            "Splashscreen"
         ],
         "paltforms": [
             "iOS"
@@ -93,7 +85,7 @@
         "banner": "https://raw.githubusercontent.com/damirstuhec/DSDynamicScrollView/master/GitHub%20Assets/DSDynamicScrollView_demo.gif",
         "images": [],
         "tags": [
-            "UIScrollView"
+            "ScrollView"
         ],
         "paltforms": [
             "iOS"
@@ -127,7 +119,7 @@
         ],
         "tags": [
             "Material",
-            "UITextField"
+            "TextField"
         ],
         "paltforms": [
             "iOS"
@@ -140,7 +132,7 @@
             "https://camo.githubusercontent.com/66da5f9e8644c50b0dcfa4898847787aa3a7392d/687474703a2f2f692e737461636b2e696d6775722e636f6d2f4f776c637a2e706e67"
         ],
         "tags": [
-            "UITabBar"
+            "TabBar"
         ],
         "paltforms": [
             "iOS"
@@ -171,8 +163,7 @@
             "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/appleFitness.png"
         ],
         "tags": [
-            "UIActivityView",
-            "Gauge"
+            "Progress"
         ],
         "paltforms": [
             "iOS",
@@ -184,8 +175,7 @@
         "banner": "https://raw.githubusercontent.com/bfeher/BFPaperTabBarController/master/BFPaperTabBarControllerDemo.gif",
         "images": [],
         "tags": [
-            "UITabBar",
-            "UIView",
+            "TabBar",
             "Material"
         ],
         "paltforms": [
@@ -197,8 +187,7 @@
         "banner": "http://i.imgur.com/BEmRGb5.gif",
         "images": [],
         "tags": [
-            "Popup",
-            "UIView"
+            "Dialog"
         ],
         "paltforms": [
             "iOS"
@@ -212,7 +201,6 @@
             "https://raw.github.com/Augustyniak/RATreeView/master/Screens/PullToRefresh.png"
         ],
         "tags": [
-            "UIView",
             "TreeView"
         ],
         "paltforms": [
@@ -224,7 +212,7 @@
         "banner": "http://www.betzerra.com.ar/wp-content/uploads/2013/02/Photo-Feb-17-6-29-14-PM.png",
         "images": [],
         "tags": [
-            "UICollectionView"
+            "CollectionView"
         ],
         "paltforms": [
             "iOS"
@@ -261,8 +249,7 @@
         "banner": "https://github.com/Flipboard/FLAnimatedImage/raw/master/images/flanimatedimage-demo-player.gif",
         "images": [],
         "tags": [
-            "GIF",
-            "UIImageView"
+            "ImageView"
         ],
         "paltforms": [
             "iOS"
@@ -273,7 +260,7 @@
         "banner": "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
         "images": [],
         "tags": [
-            "UIActivityIndicatorView"
+            "Progress"
         ],
         "paltforms": [
             "iOS"
@@ -301,7 +288,7 @@
         "banner": "https://github.com/hanton/HTYTextField/blob/master/screenshot/HTYTextField.gif?raw=true",
         "images": [],
         "tags": [
-            "UITextField"
+            "TextField"
         ],
         "paltforms": [
             "iOS"
@@ -350,9 +337,9 @@
             "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//7.png"
         ],
         "tags": [
-            "UIImageView",
+            "ImageView",
             "Tags",
-            "PhotoGallery"
+            "Gallery"
         ],
         "paltforms": [
             "iOS"
@@ -366,7 +353,7 @@
             "https://github.com/ra1028/RAReorderableLayout/raw/master/Assets/screenshot1.png"    
         ],
         "tags": [
-            "UICollectionView"
+            "CollectionView"
         ],
         "paltforms": [
             "iOS"
@@ -379,9 +366,9 @@
             "https://github.com/marty-suzuki/SAParallaxViewControllerSwift/raw/master/SampleImage/sample.gif"
         ],
         "tags": [
-            "UITableView",
+            "TableView",
             "Parallax",
-            "PhotoGallery"
+            "Gallery"
         ],
         "paltforms": [
             "iOS"
@@ -402,8 +389,8 @@
             "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_template.png"
         ],
         "tags": [
-            "UITableView",
-            "UICollectionView"
+            "TableView",
+            "CollectionView"
         ],
         "paltforms": [
             "iOS"
@@ -414,7 +401,7 @@
         "banner": "https://github.com/ren6/RKRichTextView/raw/master/screen.png",
         "images": [],
         "tags": [
-            "UITextField"
+            "TextField"
         ],
         "paltforms": [
             "iOS"
@@ -425,8 +412,8 @@
         "banner": "https://raw.githubusercontent.com/uzysjung/UzysAnimatedGifPullToRefresh/master/UzysAnimatedGifPullToRefresh.gif",
         "images": [],
         "tags": [
-            "Activity Indicator",
-            "Pull to Refresh"
+            "Progress",
+            "PullToRefresh"
         ],
         "paltforms": [
             "iOS"
@@ -481,7 +468,7 @@
             "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/ipad.png"
         ],
         "tags": [
-            "PickerView"
+            "Picker"
         ],
         "paltforms": [
             "iOS"
@@ -494,7 +481,7 @@
             "https://github.com/MP0w/MPSkewed/raw/master/img/inaction.gif"
         ],
         "tags": [
-            "UITableView",
+            "TableView",
             "Parallax"
         ],
         "paltforms": [
@@ -509,7 +496,7 @@
         ],
         "tags": [
             "Menu",
-            "Blur Effect"
+            "BlurEffect"
         ],
         "paltforms": [
             "iOS"
@@ -523,7 +510,7 @@
             "https://github.com/marty-suzuki/SAHistoryNavigationViewController/raw/master/SampleImage/touch.gif"
         ],
         "tags": [
-            "UINavigationContoller"
+            "Navigation"
         ],
         "paltforms": [
             "iOS"
@@ -548,8 +535,8 @@
             "https://github.com/matteogobbi/MGSpotyViewController/raw/master/GIFs%20and%20Videos/example2.gif"
         ],
         "tags": [
-            "Pull to Refresh",
-            "UITableView"
+            "PullToRefresh",
+            "TableView"
         ],
         "paltforms": [
             "iOS"
@@ -617,8 +604,8 @@
             "https://camo.githubusercontent.com/f5bf8304ecd7517b152c330c7a1f2611ac1448ac/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657236742e706e67"
         ],
         "tags": [
-            "PhotoGallery",
-            "UICollectionView"
+            "Gallery",
+            "CollectionView"
         ],
         "paltforms": [
             "iOS"
@@ -629,7 +616,7 @@
         "banner": "https://camo.githubusercontent.com/38b9f191c2e435f3988b9e2c14e49aedda46e2f2/687474703a2f2f6f6935372e74696e797069632e636f6d2f6535686938322e6a7067",
         "images": [],
         "tags": [
-            "VideoPlayer",
+            "Video",
             "Splashscreen"
         ],
         "paltforms": [
@@ -652,7 +639,7 @@
         "banner": "http://i.imgur.com/cdh7eVE.gif",
         "images": [],
         "tags": [
-            "Pull to Refresh"
+            "PullToRefresh"
         ],
         "paltforms": [
             "iOS"
@@ -664,8 +651,7 @@
         "images": [],
         "tags": [
             "Material",
-            "Label",
-            "UITextField"
+            "TextField"
         ],
         "paltforms": [
             "iOS"
@@ -750,7 +736,7 @@
             "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/iOS%20Simulator%20Screen%20shot%20Oct%2017,%202013%204.42.38%20PM.png"
         ],
         "tags": [
-            "Introductions"
+            "Introduction"
         ],
         "paltforms": [
             "iOS"
@@ -766,7 +752,6 @@
         "tags": [
             "Material",
             "Button",
-            "UITableView",
             "Progress"
         ],
         "paltforms": [
@@ -790,7 +775,7 @@
         "images": [
         ],
         "tags": [
-            "VideoPlayer"
+            "Video"
         ],
         "paltforms": [
             "iOS"
@@ -805,7 +790,7 @@
             "https://github.com/mamaral/Onboard/raw/master/Screenshots/tripnary.gif"
         ],
         "tags": [
-            "Introductions"
+            "Introduction"
         ],
         "paltforms": [
             "iOS"
@@ -840,13 +825,163 @@
             "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/OverView.gif?raw=true"
         ],
         "tags": [
-            "PhotoGallery",
-            "VideoPlayer",
-            "UICollectionView"
+            "Gallery",
+            "Video",
+            "CollectionView"
         ],
         "paltforms": [
             "iOS"
         ]
-    }    
-    
+    },
+    {
+        "repo": "https://github.com/TanguyAladenise/BBBadgeBarButtonItem",
+        "banner": "https://github.com/TanguyAladenise/BBBadgeBarButtonItem/blob/master/screenshot.png?raw=true",
+        "images": [],
+        "tags": [
+            "Badge"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/jamztang/CSStickyHeaderFlowLayout",
+        "banner": "https://camo.githubusercontent.com/3aab9bc8e28dcde1a0fcd92eeac9d5ccf2507368/687474703a2f2f662e636c2e6c792f6974656d732f30353133307332723058316a3178314e3051336e2f73706f746966792d34382d31362d68616c662e676966",
+        "images": [
+            "https://camo.githubusercontent.com/6b3e2209c0d3634fdd1fccbc8adc1a9276be9e80/687474703a2f2f662e636c2e6c792f6974656d732f3371327533353031336f30793047326f335831762f63617273686172652d33322d31362d68616c662e676966",
+            "https://camo.githubusercontent.com/b2007090c92bcff212a5df6d04770aec52e75320/687474703a2f2f662e636c2e6c792f6974656d732f336c3046314633593073314d31463361327230642f726970706c652e676966"
+        ],
+        "tags": [
+            "Sticky",
+            "Bar"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/JaviSoto/JSBadgeView",
+        "banner": "http://cl.ly/image/3G3J2k3n133W/JSBadgeView-iOS7.png",
+        "images": [],
+        "tags": [
+            "Badge"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/coolbeet/CBStoreHouseRefreshControl",
+        "banner": "https://s3.amazonaws.com/suyu.test/CBStoreHouseRefreshControl2.gif",
+        "images": [
+            "https://s3.amazonaws.com/suyu.test/CBStoreHouseRefreshControl1.gif"
+        ],
+        "tags": [
+            "PullToRefresh"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/autresphere/ASMediaFocusManager",
+        "banner": "https://github.com/autresphere/ASMediaFocusManager/raw/master/Screenshots/video.gif",
+        "images": [
+            "https://github.com/autresphere/ASMediaFocusManager/raw/master/Screenshots/videoPlayer.jpg",
+            "https://github.com/autresphere/ASMediaFocusManager/raw/master/Screenshots/videoFocusOnVideo.gif",
+            "https://github.com/autresphere/ASMediaFocusManager/raw/master/Screenshots/videoAspectFill.gif"
+        ],
+        "tags": [
+            "ImageView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/Marxon13/M13ProgressSuite",
+        "banner": "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/HUDBasic.gif",
+        "images": [
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/UINavigationBar.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/UINavigationBarIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/ConsolePercent.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/ConsoleDots.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/ConsoleDotsRaise.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/Bar.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/BarIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/BorderedBar.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/BorderedIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/FilteredImage.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/Image.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/ImageHidden.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/Pie.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/PieIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/Ring.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/RingIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/SegmentedBar.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/SegmentedBarIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/SegmentedRing.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/SegmentedRingStraight.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/SegmentedRingIndeterminate.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/Striped.gif",
+            "https://raw.github.com/Marxon13/M13ProgressSuite/master/ReadmeResources/StripedIndeterminate.gif"
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/cemolcay/PullToRefreshCoreText",
+        "banner": "https://raw.githubusercontent.com/cemolcay/PullToRefreshCoreText/master/demo.gif",
+        "images": [],
+        "tags": [
+            "PullToRefresh"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/cjwirth/RichEditorView",
+        "banner": "https://raw.githubusercontent.com/cjwirth/RichEditorView/master/./art/Demo.gif",
+        "images": [
+            "https://raw.githubusercontent.com/cjwirth/RichEditorView/master/./art/Toolbar.gif"
+        ],
+        "tags": [
+            "TextField",
+            "RichText"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/andreamazz/UITextField-Shake",
+        "banner": "https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/screenshot.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/nnhubbard/ZSSRichTextEditor",
+        "banner": "http://f.cl.ly/items/3D1k3v1E2L0g2z2j3b1M/demo3.gif",
+        "images": [
+            "http://cl.ly/image/3i41403g200B/demo.gif"
+        ],
+        "tags": [
+            "RichText",
+            "TextField"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    }        
 ]

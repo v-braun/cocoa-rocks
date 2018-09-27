@@ -8,6 +8,8 @@ var async = require('async');
 var log = require('fancy-log');
 var find = require('lodash.find');
 var merge = require('lodash.merge');
+var Ajv = require('ajv');
+
 
 request = request.defaults({
   headers: {'User-Agent': 'v-braun/cocoa-rocks'}
@@ -143,6 +145,22 @@ function compile(json, lastJson,  done){
 }
 
 function validate(json, lastJson,  cb){
+  const ajv = new Ajv({
+    allErrors: true
+  });
+  
+  var schema = JSON.parse(fs.readFileSync('./data.schema.json'));
+  var validate = ajv.compile(schema);
+  var valid = validate(json);
+  if (!valid){
+    log.error(JSON.stringify(validate.errors, null, 2));
+    // log.error(validate.errors);
+    return cb(new Error('schema validation failed'));
+  }
+  else{
+    log.info('schema validation successfull');
+  }
+
   cb(null, json);
 }
 

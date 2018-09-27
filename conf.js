@@ -1,4 +1,5 @@
 var path = require('path');
+var localip = require('local-ip');
 
 
 
@@ -20,8 +21,8 @@ for (const pathName in exports.paths) {
     };
   }
 }
-
 exports.connect = {
   port: 3333,
+  host: localip(),
   livereload: true  
 }

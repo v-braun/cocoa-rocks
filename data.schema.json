@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "Entry":{
+      "type": "object",
+      "required": [
+        "repo",
+        "banner",
+        "images",
+        "tags",
+        "paltforms"
+      ],
+      "properties": {
+        "repo":{
+          "type": "string",
+          "pattern": "^(.*)$"
+        },        
+        "banner": {
+          "type": "string",
+          "examples": [
+            "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif"
+          ],
+          "pattern": "^(.*)$"
+        },
+        "images": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$id": "#/items/properties/images/items",
+            "type": "string",
+            "pattern": "^(.*)$"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "maxItems": 3,
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+              "Animation",
+              "Badge",
+              "Splashscreen",
+              "TabBar", 
+              "Bar",
+              "RichText",
+              "Progress", 
+              "Button",
+              "Introduction",
+              "Sticky",
+              "Calendar",
+              "Notification",
+              "Dialog",
+              "ScrollView",
+              "CollectionView",
+              "Menu",
+              "Parallax",
+              "ImageView",
+              "TreeView",
+              "Gallery",
+              "Tags",
+              "Video",
+              "TableView",
+              "PullToRefresh",
+              "Material",
+              "TextField",
+              "Toast",
+              "BlurEffect",
+              "Navigation",
+              "Gestures",
+              "Picker"
+            ]
+          }
+        },
+        "paltforms": {
+          "type": "array",
+          "maxItems": 4,
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+              "iOS", "watchOS", "macOS", "tvOS"
+            ]
+          }
+        }
+      }        
+    }
+  },
+  "type": "array",
+  "items": { "$ref": "#/definitions/Entry" },
+  "uniqueItems": true
+}
