@@ -62,7 +62,7 @@ function scrollSyncPostContainer(){
 
 function markSelected(id){
   var rollId = id;
-  if(!id.startsWith('roll_')){
+  if(id.indexOf('roll_') !== 0){
     rollId = 'roll_' + id;
   }
 

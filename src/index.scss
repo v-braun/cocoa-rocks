@@ -30,8 +30,8 @@ body{
     
     
     #header{
-        min-height: 70px;
-        max-height: 70px;
+        height: 48px;
+        max-height: 48px;
         z-index: 2;
         background-color: $header_background;
         
@@ -68,9 +68,10 @@ body{
             img{
                 max-height: 100%;
                 max-width: 100%;
-                flex-grow: 0;
-                flex-shrink: 1;
-                flex-basis: 0%;
+                // flex-grow: 0;
+                // flex-shrink: 1;
+                // flex-basis: 0%;
+                flex:none
             }
         }
         
@@ -89,8 +90,8 @@ body{
     
     .filter{
         background-color: $background_alt;
-        padding-left: 160px;
-        padding-right: 20px;
+        padding-left: 180px;
+        padding-right: 40px;
         padding-bottom: 20px;
         padding-top: 20px;
         border-bottom: $border_line;
@@ -103,6 +104,8 @@ body{
         
         flex-grow: 1;
         
+        height: 81px;
+        max-height: 81px;
         // > div {
             
         //     // display: none;
@@ -111,7 +114,7 @@ body{
         >.choices{
             // display: none;
             width: 100%;
-            max-width: 580px;
+            // max-width: 580px;
 
             &.is-open{
                 background-color: $background_alt;
@@ -175,7 +178,6 @@ body{
                 border-color: $background_alt;
                 
                 background-color: $background;
-                // padding: 10px;
                 
                 display: flex;
                 width: 100%;
@@ -191,20 +193,25 @@ body{
                     align-items: center;
                     justify-content: center;                    
                     
-                    // width: 40%;
                     padding: 30px;
-                    min-width: $post_col_width;
-                    width: $post_col_width;
+                    // min-width: $post_col_width;
+                    width: $post_col_width - 60px;
+                    // height: 330px;
+
                     img{
                         
                         box-shadow: 0 0px 15px 0px $border_col;
                         
-                        
-                        max-height: 100%;
+                        width: 100%;
                         max-width: 100%;
-                        flex-grow: 0;
-                        flex-shrink: 1;
-                        flex-basis: 0%;
+
+                        // flex-grow: 0;
+                        // flex-shrink: 1;
+                        // flex-basis: 0%;
+
+                        // fix for IE
+                        flex: none;
+
                     }
                     
                     // .post-banner-container{
@@ -216,6 +223,8 @@ body{
                         border-top: $border_line;
                         border-right: $border_line;
                         border-bottom: $border_line;
+                        padding-top: 30px;
+                        padding-bottom: 30px;
                         width: 100%;
                         flex-grow: 1;
                         .post-header{
@@ -293,12 +302,13 @@ body{
             }
         }
         #all-entries-roll{
-            $roll_height: 120px;
-            $roll_padding: 15px;
+            $roll_height: 140px;
+            $roll_padding: 20px;
             
             min-height: $roll_height;
             max-height: $roll_height;
-            padding: $roll_padding;
+            padding-top: $roll_padding - 5px; // scroll bar space add to buttom
+            padding-bottom: $roll_padding + 5px;
             padding-left: 30px;
             padding-right: 30px;
             
@@ -307,7 +317,9 @@ body{
             background-color: $background_alt;
             display: flex;
             
-            overflow-y: auto;
+            overflow-y: hidden;
+            overflow-x: scroll;
+            
             
             &::after{
                 content: ' ';
@@ -325,10 +337,15 @@ body{
                 margin-right: $roll_padding;
                 
                 $entry_size: ($roll_height - ($roll_padding * 2));
-                max-height: $entry_size;
-                max-width: $entry_size;
-                min-height: $entry_size;
+                $roll_entry_padding: 8px;
+            // max-height: $entry_size;
+                // max-width: $entry_size;
+                // min-height: $entry_size;
+                // min-width: $entry_size;
+                width: 100%;
+                height: $entry_size;
                 min-width: $entry_size;
+                min-height: $entry_size;
                 
                 display: flex;
                 align-items: center;
@@ -336,25 +353,37 @@ body{
                 
                 cursor: pointer;
                 
-                padding: 3px;
+                padding: $roll_entry_padding;
                 
                 &.in-view{
                     border-color: $primary;
                     border-width: 5px;
                 }
                 
-                img{
-                    max-height: 100%;
-                    max-width: 100%;
-                    flex-grow: 0;
-                    flex-shrink: 1;
-                    flex-basis: 0%;    
+                .roll-entry-content{
                     
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;                    
+                    
+                    // min-width: $post_col_width;
+                    min-width: $entry_size - ($roll_entry_padding * 2);
+                    //$entry_size;
+                    width: $entry_size - ($roll_entry_padding * 2);
+                    height: $entry_size - ($roll_entry_padding * 2);
+
+                    img{
+                        max-height: 100%;
+                        max-width: 100%;
+                        flex: none;
+                    }
                 }
+                
             }
         }
         #footer{
-            height: 60px;;
+            height: 48px;
+            max-height: 48px;
             padding: 15px 30px 15px 30px;
             justify-content: space-between;
             display: flex;

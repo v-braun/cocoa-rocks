@@ -9,7 +9,8 @@ var log = require('fancy-log');
 var find = require('lodash.find');
 var merge = require('lodash.merge');
 var Ajv = require('ajv');
-
+const map = require('lodash.map');
+const filter = require('lodash.filter');
 
 request = request.defaults({
   headers: {'User-Agent': 'v-braun/cocoa-rocks'}
@@ -161,7 +162,17 @@ function validate(json, lastJson,  cb){
     log.info('schema validation successfull');
   }
 
-  cb(null, json);
+  log.info('check for duplicates')
+  var duplicates = [];
+  duplicates = filter(json, (val1, i, iteratee) => find(iteratee,  val2 => val2.repo == val1.repo, i + 1))
+  duplicates = map(duplicates, item => item.repo);
+  
+  if(duplicates.length > 0) {
+    return cb(new Error('found dublicates: \n' + duplicates.join('\n')));
+  }
+
+
+  return cb(null, json);
 }
 
 var actions = {
