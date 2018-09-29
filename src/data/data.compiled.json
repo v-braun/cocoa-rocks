@@ -1,5 +1,172 @@
 [
   {
+    "repo": "https://github.com/ariok/BWWalkthrough",
+    "banner": "http://www.thinkandbuild.it/gifs/BWWalkthrough_mini2.gif",
+    "images": [],
+    "tags": [
+      "Introduction"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-29T10:14:38.475Z",
+    "github": {
+      "name": "BWWalkthrough",
+      "full_name": "ariok/BWWalkthrough",
+      "html_url": "https://github.com/ariok/BWWalkthrough",
+      "description": "BWWalkthrough is a class to build custom walkthroughs for your iOS App",
+      "created_at": "2014-09-18T13:29:20Z",
+      "updated_at": "2018-09-28T18:27:36Z",
+      "pushed_at": "2018-07-20T23:43:40Z",
+      "language": "Swift",
+      "forks_count": 240,
+      "open_issues_count": 12,
+      "license": "MIT",
+      "watchers": 2609,
+      "owner": {
+        "login": "ariok",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/514560?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ariok"
+      }
+    },
+    "github_updated_at": "2018-09-29T10:14:39.059Z"
+  },
+  {
+    "repo": "https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView",
+    "banner": "https://s8.hostingkartinok.com/uploads/images/2017/06/0bb7ff8437aac08c335f1074ef990d4e.gif",
+    "images": [],
+    "tags": [
+      "Introduction"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-29T10:14:39.059Z",
+    "github": {
+      "name": "AwesomeSpotlightView",
+      "full_name": "aleksandrshoshiashvili/AwesomeSpotlightView",
+      "html_url": "https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView",
+      "description": "Awesome tool for create tutorial walkthrough or coach tour",
+      "created_at": "2017-02-25T01:18:37Z",
+      "updated_at": "2018-09-05T16:37:39Z",
+      "pushed_at": "2018-08-20T21:44:15Z",
+      "language": "Swift",
+      "forks_count": 10,
+      "open_issues_count": 4,
+      "license": "MIT",
+      "watchers": 95,
+      "owner": {
+        "login": "aleksandrshoshiashvili",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/13197734?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/aleksandrshoshiashvili"
+      }
+    },
+    "github_updated_at": "2018-09-29T10:14:39.502Z"
+  },
+  {
+    "repo": "https://github.com/jogendra/AnimatedMaskLabel",
+    "banner": "https://github.com/imjog/AnimatedMaskLabel/raw/master/Screenshots/appdemo.gif",
+    "images": [],
+    "tags": [
+      "TextField",
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-29T10:14:39.502Z",
+    "github": {
+      "name": "AnimatedMaskLabel",
+      "full_name": "jogendra/AnimatedMaskLabel",
+      "html_url": "https://github.com/jogendra/AnimatedMaskLabel",
+      "description": "Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.",
+      "created_at": "2018-04-06T11:48:30Z",
+      "updated_at": "2018-09-26T11:34:59Z",
+      "pushed_at": "2018-09-05T11:36:13Z",
+      "language": "Swift",
+      "forks_count": 10,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 225,
+      "owner": {
+        "login": "jogendra",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/20956124?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jogendra"
+      }
+    },
+    "github_updated_at": "2018-09-29T10:14:39.916Z"
+  },
+  {
+    "repo": "https://github.com/optonaut/ActiveLabel.swift",
+    "banner": "https://raw.githubusercontent.com/optonaut/ActiveLabel.swift/master/ActiveLabelDemo/demo.gif",
+    "images": [],
+    "tags": [
+      "Tags",
+      "TextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-29T10:14:39.916Z",
+    "github": {
+      "name": "ActiveLabel.swift",
+      "full_name": "optonaut/ActiveLabel.swift",
+      "html_url": "https://github.com/optonaut/ActiveLabel.swift",
+      "description": "UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
+      "created_at": "2015-09-03T17:18:12Z",
+      "updated_at": "2018-09-28T18:49:17Z",
+      "pushed_at": "2018-09-28T18:49:12Z",
+      "language": "Swift",
+      "forks_count": 341,
+      "open_issues_count": 97,
+      "license": "MIT",
+      "watchers": 2589,
+      "owner": {
+        "login": "optonaut",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/12383518?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/optonaut"
+      }
+    },
+    "github_updated_at": "2018-09-29T10:14:40.360Z"
+  },
+  {
+    "repo": "https://github.com/AfrozZaheer/AZCollectionViewController",
+    "banner": "https://i.imgur.com/YtzbUed.gif",
+    "images": [],
+    "tags": [
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-09-29T10:14:40.360Z",
+    "github": {
+      "name": "AZCollectionViewController",
+      "full_name": "AfrozZaheer/AZCollectionViewController",
+      "html_url": "https://github.com/AfrozZaheer/AZCollectionViewController",
+      "description": " Easy way to integrate pagination with dummy views in CollectionView, make Instagram \"Discover\" within minutes.",
+      "created_at": "2018-01-09T11:25:19Z",
+      "updated_at": "2018-09-21T21:14:52Z",
+      "pushed_at": "2018-09-04T10:37:02Z",
+      "language": "Swift",
+      "forks_count": 11,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 48,
+      "owner": {
+        "login": "AfrozZaheer",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/25176835?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/AfrozZaheer"
+      }
+    },
+    "github_updated_at": "2018-09-29T10:14:40.751Z"
+  },
+  {
     "repo": "https://github.com/andreamazz/AMScrollingNavbar",
     "banner": "https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/assets/screenshot.gif",
     "images": [],
@@ -105,7 +272,7 @@
     "banner": "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif",
     "images": [],
     "tags": [
-      "UITabBar"
+      "TabBar"
     ],
     "paltforms": [
       "iOS"
@@ -186,17 +353,9 @@
       "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_002_1.jpg",
       "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_003_1.jpg",
       "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_011_1.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/circular_indeterminate.gif",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_004_2.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_005_2.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_006_2.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_007_2.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_008_2.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_009_2.jpg",
-      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/screenshot_010_2.jpg"
+      "https://raw.githubusercontent.com/mrackwitz/MRProgress/master/Images/circular_indeterminate.gif"
     ],
     "tags": [
-      "UIActivityView",
       "Progress"
     ],
     "paltforms": [
@@ -269,8 +428,7 @@
     ],
     "tags": [
       "Animation",
-      "Splashscreen",
-      "UIView"
+      "Splashscreen"
     ],
     "paltforms": [
       "iOS"
@@ -303,7 +461,7 @@
     "banner": "https://raw.githubusercontent.com/damirstuhec/DSDynamicScrollView/master/GitHub%20Assets/DSDynamicScrollView_demo.gif",
     "images": [],
     "tags": [
-      "UIScrollView"
+      "ScrollView"
     ],
     "paltforms": [
       "iOS"
@@ -381,7 +539,7 @@
     ],
     "tags": [
       "Material",
-      "UITextField"
+      "TextField"
     ],
     "paltforms": [
       "iOS"
@@ -416,7 +574,7 @@
       "https://camo.githubusercontent.com/66da5f9e8644c50b0dcfa4898847787aa3a7392d/687474703a2f2f692e737461636b2e696d6775722e636f6d2f4f776c637a2e706e67"
     ],
     "tags": [
-      "UITabBar"
+      "TabBar"
     ],
     "paltforms": [
       "iOS"
@@ -491,8 +649,7 @@
       "https://raw.githubusercontent.com/skywinder/GaugeKit/master/Images/appleFitness.png"
     ],
     "tags": [
-      "UIActivityView",
-      "Gauge"
+      "Progress"
     ],
     "paltforms": [
       "iOS",
@@ -526,8 +683,7 @@
     "banner": "https://raw.githubusercontent.com/bfeher/BFPaperTabBarController/master/BFPaperTabBarControllerDemo.gif",
     "images": [],
     "tags": [
-      "UITabBar",
-      "UIView",
+      "TabBar",
       "Material"
     ],
     "paltforms": [
@@ -561,8 +717,7 @@
     "banner": "http://i.imgur.com/BEmRGb5.gif",
     "images": [],
     "tags": [
-      "Popup",
-      "UIView"
+      "Dialog"
     ],
     "paltforms": [
       "iOS"
@@ -598,7 +753,6 @@
       "https://raw.github.com/Augustyniak/RATreeView/master/Screens/PullToRefresh.png"
     ],
     "tags": [
-      "UIView",
       "TreeView"
     ],
     "paltforms": [
@@ -632,7 +786,7 @@
     "banner": "http://www.betzerra.com.ar/wp-content/uploads/2013/02/Photo-Feb-17-6-29-14-PM.png",
     "images": [],
     "tags": [
-      "UICollectionView"
+      "CollectionView"
     ],
     "paltforms": [
       "iOS"
@@ -734,8 +888,7 @@
     "banner": "https://github.com/Flipboard/FLAnimatedImage/raw/master/images/flanimatedimage-demo-player.gif",
     "images": [],
     "tags": [
-      "GIF",
-      "UIImageView"
+      "ImageView"
     ],
     "paltforms": [
       "iOS"
@@ -768,7 +921,7 @@
     "banner": "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
     "images": [],
     "tags": [
-      "UIActivityIndicatorView"
+      "Progress"
     ],
     "paltforms": [
       "iOS"
@@ -840,7 +993,7 @@
     "banner": "https://github.com/hanton/HTYTextField/blob/master/screenshot/HTYTextField.gif?raw=true",
     "images": [],
     "tags": [
-      "UITextField"
+      "TextField"
     ],
     "paltforms": [
       "iOS"
@@ -955,9 +1108,9 @@
       "https://raw.githubusercontent.com/EddyBorja/EBPhotoPages/master//7.png"
     ],
     "tags": [
-      "UIImageView",
+      "ImageView",
       "Tags",
-      "PhotoGallery"
+      "Gallery"
     ],
     "paltforms": [
       "iOS"
@@ -993,7 +1146,7 @@
       "https://github.com/ra1028/RAReorderableLayout/raw/master/Assets/screenshot1.png"
     ],
     "tags": [
-      "UICollectionView"
+      "CollectionView"
     ],
     "paltforms": [
       "iOS"
@@ -1028,9 +1181,9 @@
       "https://github.com/marty-suzuki/SAParallaxViewControllerSwift/raw/master/SampleImage/sample.gif"
     ],
     "tags": [
-      "UITableView",
+      "TableView",
       "Parallax",
-      "PhotoGallery"
+      "Gallery"
     ],
     "paltforms": [
       "iOS"
@@ -1073,8 +1226,8 @@
       "https://raw.githubusercontent.com/slackhq/SlackTextViewController/master/Screenshots/screenshot_template.png"
     ],
     "tags": [
-      "UITableView",
-      "UICollectionView"
+      "TableView",
+      "CollectionView"
     ],
     "paltforms": [
       "iOS"
@@ -1107,7 +1260,7 @@
     "banner": "https://github.com/ren6/RKRichTextView/raw/master/screen.png",
     "images": [],
     "tags": [
-      "UITextField"
+      "TextField"
     ],
     "paltforms": [
       "iOS"
@@ -1140,8 +1293,8 @@
     "banner": "https://raw.githubusercontent.com/uzysjung/UzysAnimatedGifPullToRefresh/master/UzysAnimatedGifPullToRefresh.gif",
     "images": [],
     "tags": [
-      "Activity Indicator",
-      "Pull to Refresh"
+      "Progress",
+      "PullToRefresh"
     ],
     "paltforms": [
       "iOS"
@@ -1262,7 +1415,7 @@
       "https://raw.githubusercontent.com/skywinder/ActionSheetPicker-3.0/master/Screenshots/ipad.png"
     ],
     "tags": [
-      "PickerView"
+      "Picker"
     ],
     "paltforms": [
       "iOS"
@@ -1297,7 +1450,7 @@
       "https://github.com/MP0w/MPSkewed/raw/master/img/inaction.gif"
     ],
     "tags": [
-      "UITableView",
+      "TableView",
       "Parallax"
     ],
     "paltforms": [
@@ -1334,7 +1487,7 @@
     ],
     "tags": [
       "Menu",
-      "Blur Effect"
+      "BlurEffect"
     ],
     "paltforms": [
       "iOS"
@@ -1370,7 +1523,7 @@
       "https://github.com/marty-suzuki/SAHistoryNavigationViewController/raw/master/SampleImage/touch.gif"
     ],
     "tags": [
-      "UINavigationContoller"
+      "Navigation"
     ],
     "paltforms": [
       "iOS"
@@ -1438,8 +1591,8 @@
       "https://github.com/matteogobbi/MGSpotyViewController/raw/master/GIFs%20and%20Videos/example2.gif"
     ],
     "tags": [
-      "Pull to Refresh",
-      "UITableView"
+      "PullToRefresh",
+      "TableView"
     ],
     "paltforms": [
       "iOS"
@@ -1616,8 +1769,8 @@
       "https://camo.githubusercontent.com/f5bf8304ecd7517b152c330c7a1f2611ac1448ac/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657236742e706e67"
     ],
     "tags": [
-      "PhotoGallery",
-      "UICollectionView"
+      "Gallery",
+      "CollectionView"
     ],
     "paltforms": [
       "iOS"
@@ -1650,7 +1803,7 @@
     "banner": "https://camo.githubusercontent.com/38b9f191c2e435f3988b9e2c14e49aedda46e2f2/687474703a2f2f6f6935372e74696e797069632e636f6d2f6535686938322e6a7067",
     "images": [],
     "tags": [
-      "VideoPlayer",
+      "Video",
       "Splashscreen"
     ],
     "paltforms": [
@@ -1717,7 +1870,7 @@
     "banner": "http://i.imgur.com/cdh7eVE.gif",
     "images": [],
     "tags": [
-      "Pull to Refresh"
+      "PullToRefresh"
     ],
     "paltforms": [
       "iOS"
@@ -1751,8 +1904,7 @@
     "images": [],
     "tags": [
       "Material",
-      "Label",
-      "UITextField"
+      "TextField"
     ],
     "paltforms": [
       "iOS"
@@ -1967,7 +2119,7 @@
       "https://raw.github.com/MatthewYork/MYBlurIntroductionView/master/Resources/Images/iOS%20Simulator%20Screen%20shot%20Oct%2017,%202013%204.42.38%20PM.png"
     ],
     "tags": [
-      "Introductions"
+      "Introduction"
     ],
     "paltforms": [
       "iOS"
@@ -2005,7 +2157,6 @@
     "tags": [
       "Material",
       "Button",
-      "UITableView",
       "Progress"
     ],
     "paltforms": [
@@ -2072,7 +2223,7 @@
     "banner": "https://raw.githubusercontent.com/0xced/XCDYouTubeKit/master/Screenshots/XCDYouTubeVideoPlayerViewController.png",
     "images": [],
     "tags": [
-      "VideoPlayer"
+      "Video"
     ],
     "paltforms": [
       "iOS"
@@ -2109,7 +2260,7 @@
       "https://github.com/mamaral/Onboard/raw/master/Screenshots/tripnary.gif"
     ],
     "tags": [
-      "Introductions"
+      "Introduction"
     ],
     "paltforms": [
       "iOS"
@@ -2188,9 +2339,9 @@
       "https://github.com/mariohahn/MHVideoPhotoGallery/blob/master/Images%20Github/OverView.gif?raw=true"
     ],
     "tags": [
-      "PhotoGallery",
-      "VideoPlayer",
-      "UICollectionView"
+      "Gallery",
+      "Video",
+      "CollectionView"
     ],
     "paltforms": [
       "iOS"

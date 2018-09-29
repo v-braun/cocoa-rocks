@@ -99,6 +99,15 @@ function compile(json, lastJson,  done){
     if(existing){
       if(existing.github_updated_at){
         log.info('repo updated', 'skip', entry.repo);
+
+        // reset master data
+        delete existing.repo;
+        delete existing.banner;
+        delete existing.images;
+        delete existing.tags;
+        delete existing.paltforms;
+        
+        // copy all other gituub data
         merge(entry, existing);
         return cb(null);
       }

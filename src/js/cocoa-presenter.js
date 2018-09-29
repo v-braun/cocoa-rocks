@@ -1,6 +1,7 @@
 var data = require('../data/data.compiled.json');
 var debounce = require('lodash.debounce');
 var throttle = require('lodash.throttle');
+var find = require('lodash.find');
 
 var _ctx = {
   postContainer: null,
@@ -106,14 +107,39 @@ function render(){
   scrollSyncPostContainer();
 }
 
-function refresh(){
+function containsAll(filters, attributes){
+  var items = filters.filter(value => -1 !== attributes.indexOf(value));
+  return items.length == filters.length;
+}
 
+function filterData(filters, data){
+  if(!filters || filters.length <= 0){
+    return data;
+  }
+
+  var result = [];
+  for(var i = 0; i < data.length; i++){
+    var rec = data[i];
+    var attributes = [rec.github.owner.login, rec.github.language, rec.github.license];
+    attributes = attributes.concat(rec.tags);
+    attributes = attributes.concat(rec.paltforms);
+    
+    if(containsAll(filters, attributes)) {
+      result.push(rec);
+    }
+  }
+
+  return result;
+}
+
+function refresh(filters){
+  var filteredData = filterData(filters, data);
   
   _ctx.postContainer.innerHTML = '';
   _ctx.rollContainer.innerHTML = '';
   _ctx.visibleElements = [];
-  for(var i = 0; i < data.length; i++){
-    var entry = data[i];
+  for(var i = 0; i < filteredData.length; i++){
+    var entry = filteredData[i];
     
     var postEl = applyTemplateAndAdd(_ctx.postContainer, entry, _ctx.postTpl);
     var rollEl = applyTemplateAndAdd(_ctx.rollContainer, entry, _ctx.rollTpl);

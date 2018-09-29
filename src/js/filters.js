@@ -4,6 +4,7 @@ var flatMap = require('lodash.flatmap');
 var map = require('lodash.map');
 var uniqBy = require('lodash.uniqby');
 var filter = require('lodash.filter');
+const presenter = require('./cocoa-presenter');
 
 var selects = {
   sortSelect: null,
@@ -74,12 +75,17 @@ module.exports.init = () => {
     choices: choices
   });
   
-  selection.passedElement.addEventListener('choice', function(event) {
-    if(!event || !event.detail || !event.detail.choice) return;
-    // data[0].match(event.detail.choice);
+  selection.passedElement.addEventListener('change', function(event) {
+    // setTimeout(() => {
+      var values = selection.getValue(true);
+      console.log(values);
+      presenter.refresh(values);
+      
+    // }, 0)
+
   }, false);  
 
-  selection.disable();
+  // selection.disable();
   
 
   // selects.tagsSelect = new Choices('#filter-tags');
