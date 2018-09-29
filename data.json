@@ -1,4 +1,43 @@
 [
+
+    {
+        "repo": "https://github.com/andreamazz/AMScrollingNavbar",
+        "banner": "https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/assets/screenshot.gif",
+        "images": [
+        ],
+        "tags": [
+            "Bar"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/ashishkakkad8/AKSwiftSlideMenu",
+        "banner": "https://cloud.githubusercontent.com/assets/6905345/10064748/8b39581e-6299-11e5-8829-d003e4069f30.png",
+        "images": [
+            
+        ],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
+        "repo": "https://github.com/agilie/AGCircularPicker",
+        "banner": "https://j.gifs.com/1jJy8m.gif",
+        "images": [
+            "https://j.gifs.com/58NDNK.gif"
+        ],
+        "tags": [
+            "Picker"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
     {
         "repo": "https://github.com/v-braun/VBRRollingPit",
         "banner": "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif",
