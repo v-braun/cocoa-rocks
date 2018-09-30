@@ -1,6 +1,73 @@
 [
 
     {
+        "repo": "https://github.com/hallelujahbaby/CFNotify",
+        "banner": "https://raw.githubusercontent.com/hallelujahbaby/CFNotify/master/image/Demo1.gif",
+        "images": [
+            "https://raw.githubusercontent.com/hallelujahbaby/CFNotify/master/image/Demo2.gif",
+            "https://raw.githubusercontent.com/hallelujahbaby/CFNotify/master/image/Demo3.gif",
+            "https://raw.githubusercontent.com/hallelujahbaby/CFNotify/master/image/CyberView.png"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/candostdagdeviren/CDAlertView",
+        "banner": "https://raw.githubusercontent.com/candostdagdeviren/CDAlertView/master/Screenshots/1.gif",
+        "images": [
+            "https://raw.githubusercontent.com/candostdagdeviren/CDAlertView/master/Screenshots/2.gif",
+            "https://raw.githubusercontent.com/candostdagdeviren/CDAlertView/master/Screenshots/3.gif"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
+        "repo": "https://github.com/Fawxy/CBPinEntryView",
+        "banner": "http://i.imgur.com/75oYhG5.gif",
+        "images": [
+            "http://i.imgur.com/UU5Xm7X.gif",
+            "http://i.imgur.com/ABZH0Ea.gif",
+            "http://i.imgur.com/zAhXL7O.gif"
+        ],
+        "tags": [
+            "TextField"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/andreamazz/BubbleTransition",
+        "banner": "https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/dasdom/BreakOutToRefresh",
+        "banner": "https://raw.githubusercontent.com/dasdom/BreakOutToRefresh/master/Example/PullToRefreshDemo/what.gif",
+        "images": [],
+        "tags": [
+            "PullToRefresh"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
         "repo": "https://github.com/ariok/BWWalkthrough",
         "banner": "http://www.thinkandbuild.it/gifs/BWWalkthrough_mini2.gif",
         "images": [
