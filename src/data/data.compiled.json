@@ -1,5 +1,104 @@
 [
   {
+    "repo": "https://github.com/Ramotion/folding-cell",
+    "banner": "https://github.com/Ramotion/folding-cell/raw/master/Screenshots/foldingCell.gif",
+    "images": [],
+    "tags": [
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T19:10:34.654Z",
+    "github": {
+      "name": "folding-cell",
+      "full_name": "Ramotion/folding-cell",
+      "html_url": "https://github.com/Ramotion/folding-cell",
+      "description": ":octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion",
+      "created_at": "2015-12-21T14:29:48Z",
+      "updated_at": "2018-10-01T12:33:41Z",
+      "pushed_at": "2018-10-01T08:29:35Z",
+      "language": "Swift",
+      "forks_count": 1003,
+      "open_issues_count": 10,
+      "license": "MIT",
+      "watchers": 8456,
+      "owner": {
+        "login": "Ramotion",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/6028820?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Ramotion"
+      }
+    },
+    "github_updated_at": "2018-10-01T19:10:35.223Z"
+  },
+  {
+    "repo": "https://github.com/Ramotion/reel-search",
+    "banner": "https://github.com/Ramotion/reel-search/blob/master/reel-search.gif",
+    "images": [],
+    "tags": [
+      "Picker"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T19:10:35.223Z",
+    "github": {
+      "name": "reel-search",
+      "full_name": "Ramotion/reel-search",
+      "html_url": "https://github.com/Ramotion/reel-search",
+      "description": ":octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion",
+      "created_at": "2015-04-02T08:51:50Z",
+      "updated_at": "2018-10-01T11:59:50Z",
+      "pushed_at": "2018-09-28T14:36:06Z",
+      "language": "Swift",
+      "forks_count": 174,
+      "open_issues_count": 6,
+      "license": "MIT",
+      "watchers": 2220,
+      "owner": {
+        "login": "Ramotion",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/6028820?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Ramotion"
+      }
+    },
+    "github_updated_at": "2018-10-01T19:10:35.657Z"
+  },
+  {
+    "repo": "https://github.com/pixyzehn/MediumScrollFullScreen",
+    "banner": "https://raw.githubusercontent.com/pixyzehn/MediumScrollFullScreen/master/Assets/MediumScrollFullScreen.gif",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T19:10:35.657Z",
+    "github": {
+      "name": "MediumScrollFullScreen",
+      "full_name": "pixyzehn/MediumScrollFullScreen",
+      "html_url": "https://github.com/pixyzehn/MediumScrollFullScreen",
+      "description": "Medium's upper and lower Menu in Scroll.",
+      "created_at": "2015-02-13T05:08:29Z",
+      "updated_at": "2018-10-01T06:44:33Z",
+      "pushed_at": "2017-11-04T10:54:21Z",
+      "language": "Swift",
+      "forks_count": 47,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 551,
+      "owner": {
+        "login": "pixyzehn",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/2482478?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/pixyzehn"
+      }
+    },
+    "github_updated_at": "2018-10-01T19:10:36.053Z"
+  },
+  {
     "repo": "https://github.com/intuit/CardParts",
     "banner": "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintCardParts.gif",
     "images": [],

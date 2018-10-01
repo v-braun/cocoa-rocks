@@ -1,6 +1,40 @@
 [
 
     {
+        "repo": "https://github.com/Ramotion/folding-cell",
+        "banner": "https://github.com/Ramotion/folding-cell/raw/master/Screenshots/foldingCell.gif",
+        "images": [
+            
+        ],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/Ramotion/reel-search",
+        "banner": "https://github.com/Ramotion/reel-search/blob/master/reel-search.gif",
+        "images": [
+        ],
+        "tags": [
+            "Picker"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
+        "repo": "https://github.com/pixyzehn/MediumScrollFullScreen",
+        "banner": "https://raw.githubusercontent.com/pixyzehn/MediumScrollFullScreen/master/Assets/MediumScrollFullScreen.gif",
+        "images": [],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
         "repo": "https://github.com/intuit/CardParts",
         "banner": "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintCardParts.gif",
         "images": [
