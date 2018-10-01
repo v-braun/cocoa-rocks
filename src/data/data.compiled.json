@@ -34,7 +34,7 @@
   },
   {
     "repo": "https://github.com/Ramotion/reel-search",
-    "banner": "https://github.com/Ramotion/reel-search/blob/master/reel-search.gif",
+    "banner": "https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif",
     "images": [],
     "tags": [
       "Picker"
