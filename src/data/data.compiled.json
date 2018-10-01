@@ -1,5 +1,105 @@
 [
   {
+    "repo": "https://github.com/intuit/CardParts",
+    "banner": "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintCardParts.gif",
+    "images": [],
+    "tags": [
+      "Material"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T18:54:16.877Z",
+    "github": {
+      "name": "CardParts",
+      "full_name": "intuit/CardParts",
+      "html_url": "https://github.com/intuit/CardParts",
+      "description": "A reactive, card-based UI framework built on UIKit for iOS developers.",
+      "created_at": "2018-05-18T13:47:09Z",
+      "updated_at": "2018-09-29T11:12:08Z",
+      "pushed_at": "2018-09-19T17:50:18Z",
+      "language": "Swift",
+      "forks_count": 51,
+      "open_issues_count": 8,
+      "license": "NOASSERTION",
+      "watchers": 1100,
+      "owner": {
+        "login": "intuit",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/2495066?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/intuit"
+      }
+    },
+    "github_updated_at": "2018-10-01T18:54:17.404Z"
+  },
+  {
+    "repo": "https://github.com/richardtop/CalendarKit",
+    "banner": "https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg",
+    "images": [],
+    "tags": [
+      "Calendar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T18:54:17.404Z",
+    "github": {
+      "name": "CalendarKit",
+      "full_name": "richardtop/CalendarKit",
+      "html_url": "https://github.com/richardtop/CalendarKit",
+      "description": "📅 Fully customizable calendar for iOS",
+      "created_at": "2015-10-19T13:45:05Z",
+      "updated_at": "2018-10-01T09:43:54Z",
+      "pushed_at": "2018-10-01T03:50:17Z",
+      "language": "Swift",
+      "forks_count": 90,
+      "open_issues_count": 36,
+      "license": "NOASSERTION",
+      "watchers": 972,
+      "owner": {
+        "login": "richardtop",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/8013017?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/richardtop"
+      }
+    },
+    "github_updated_at": "2018-10-01T18:54:17.877Z"
+  },
+  {
+    "repo": "https://github.com/ChiliLabs/CHIPageControl",
+    "banner": "https://raw.githubusercontent.com/ChiliLabs/CHIPageControl/master/Images/demo.gif",
+    "images": [],
+    "tags": [
+      "Animation",
+      "PageControl"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T18:54:17.877Z",
+    "github": {
+      "name": "CHIPageControl",
+      "full_name": "ChiliLabs/CHIPageControl",
+      "html_url": "https://github.com/ChiliLabs/CHIPageControl",
+      "description": "A set of cool animated page controls written in Swift to replace boring UIPageControl.",
+      "created_at": "2017-03-13T12:15:14Z",
+      "updated_at": "2018-10-01T12:52:07Z",
+      "pushed_at": "2018-09-19T14:27:59Z",
+      "language": "Swift",
+      "forks_count": 131,
+      "open_issues_count": 7,
+      "license": "MIT",
+      "watchers": 1972,
+      "owner": {
+        "login": "ChiliLabs",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/25580252?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ChiliLabs"
+      }
+    },
+    "github_updated_at": "2018-10-01T18:54:18.248Z"
+  },
+  {
     "repo": "https://github.com/hallelujahbaby/CFNotify",
     "banner": "https://raw.githubusercontent.com/hallelujahbaby/CFNotify/master/image/Demo1.gif",
     "images": [

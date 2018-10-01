@@ -1,6 +1,43 @@
 [
 
     {
+        "repo": "https://github.com/intuit/CardParts",
+        "banner": "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintCardParts.gif",
+        "images": [
+        ],
+        "tags": [
+            "Material"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/richardtop/CalendarKit",
+        "banner": "https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg",
+        "images": [
+        ],
+        "tags": [
+            "Calendar"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/ChiliLabs/CHIPageControl",
+        "banner": "https://raw.githubusercontent.com/ChiliLabs/CHIPageControl/master/Images/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation",
+            "PageControl"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
         "repo": "https://github.com/hallelujahbaby/CFNotify",
         "banner": "https://raw.githubusercontent.com/hallelujahbaby/CFNotify/master/image/Demo1.gif",
         "images": [

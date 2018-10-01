@@ -69,7 +69,8 @@
               "BlurEffect",
               "Navigation",
               "Gestures",
-              "Picker"
+              "Picker",
+              "PageControl"
             ]
           }
         },
