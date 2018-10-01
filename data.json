@@ -1,5 +1,131 @@
 [
-
+    {
+        "repo": "https://github.com/evnaz/ENSwiftSideMenu",
+        "banner": "https://raw.githubusercontent.com/evnaz/ENSwiftSideMenu/master/demo.gif",
+        "images": [],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/itsmeichigo/DateTimePicker",
+        "banner": "https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png",
+        "images": [],
+        "tags": [
+            "Calendar"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/iDhaval/DTTextField",
+        "banner": "https://github.com/iDhaval/DTTextField/blob/master/DTTextField.gif?raw=true",
+        "images": [],
+        "tags": [
+            "TextField",
+            "Material"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/okmr-d/DOFavoriteButton",
+        "banner": "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "Button",
+            "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/suzuki-0000/CountdownLabel",
+        "banner": "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/examplePixelate.gif",
+        "images": [
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleEvaporate.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleFall.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleScale.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleSparkle.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example02.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example03.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example04.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example06.gif",
+            "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example07.gif"
+        ],
+        "tags": [
+            "TextField"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/yacir/CollectionViewSlantedLayout",
+        "banner": "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
+        "images": [
+        ],
+        "tags": [
+            "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/whitesmith/WSTagsField",
+        "banner": "http://i.giphy.com/3o72F8JCGkjrF4Lwvm.gif",
+        "images": [
+        ],
+        "tags": [
+            "TextField",
+            "Tags"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/rshevchuk/Wallet",
+        "banner": "https://github.com/rshevchuk/Wallet/blob/master/preview.gif?raw=true",
+        "images": [],
+        "tags": [
+            "Cards"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/hemangshah/Workaholic",
+        "banner": "https://raw.githubusercontent.com/hemangshah/Workaholic/master/Screenshots/WHLandscape-1.png",
+        "images": [],
+        "tags": [
+            "Calendar",
+            "Chart"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/xmartlabs/XLPagerTabStrip",
+        "banner": "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/spotify.gif",
+        "images": [
+            "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/instagram.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/youtube.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/pagerTabStripTypes.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/segmented.gif"
+        ],
+        "tags": [
+            "Menu",
+            "TabBar"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/Ramotion/fluid-slider",
+        "banner": "https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif",
+        "images": [
+        ],
+        "tags": [
+            "RangeSelect"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
     {
         "repo": "https://github.com/Ramotion/folding-cell",
         "banner": "https://github.com/Ramotion/folding-cell/raw/master/Screenshots/foldingCell.gif",

@@ -1,5 +1,388 @@
 [
   {
+    "repo": "https://github.com/evnaz/ENSwiftSideMenu",
+    "banner": "https://raw.githubusercontent.com/evnaz/ENSwiftSideMenu/master/demo.gif",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:40.942Z",
+    "github": {
+      "name": "ENSwiftSideMenu",
+      "full_name": "evnaz/ENSwiftSideMenu",
+      "html_url": "https://github.com/evnaz/ENSwiftSideMenu",
+      "description": "A simple side menu for iOS written in Swift. ",
+      "created_at": "2014-08-03T08:49:29Z",
+      "updated_at": "2018-09-29T09:01:23Z",
+      "pushed_at": "2018-10-01T05:25:11Z",
+      "language": "Swift",
+      "forks_count": 285,
+      "open_issues_count": 92,
+      "license": "MIT",
+      "watchers": 1729,
+      "owner": {
+        "login": "evnaz",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/3395952?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/evnaz"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:41.510Z"
+  },
+  {
+    "repo": "https://github.com/itsmeichigo/DateTimePicker",
+    "banner": "https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png",
+    "images": [],
+    "tags": [
+      "Calendar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:41.510Z",
+    "github": {
+      "name": "DateTimePicker",
+      "full_name": "itsmeichigo/DateTimePicker",
+      "html_url": "https://github.com/itsmeichigo/DateTimePicker",
+      "description": "A nicer iOS UI component for picking date and time",
+      "created_at": "2016-09-15T09:58:13Z",
+      "updated_at": "2018-10-01T09:28:27Z",
+      "pushed_at": "2018-09-27T16:04:08Z",
+      "language": "Swift",
+      "forks_count": 159,
+      "open_issues_count": 8,
+      "license": "MIT",
+      "watchers": 1485,
+      "owner": {
+        "login": "itsmeichigo",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/5533851?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/itsmeichigo"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:41.919Z"
+  },
+  {
+    "repo": "https://github.com/iDhaval/DTTextField",
+    "banner": "https://github.com/iDhaval/DTTextField/blob/master/DTTextField.gif?raw=true",
+    "images": [],
+    "tags": [
+      "TextField",
+      "Material"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:41.919Z",
+    "github": {
+      "name": "DTTextField",
+      "full_name": "iDhaval/DTTextField",
+      "html_url": "https://github.com/iDhaval/DTTextField",
+      "description": "DTTextField is a custom textfield with floating placeholder and error label",
+      "created_at": "2017-04-03T12:08:47Z",
+      "updated_at": "2018-09-19T09:21:38Z",
+      "pushed_at": "2018-03-16T12:14:47Z",
+      "language": "Swift",
+      "forks_count": 19,
+      "open_issues_count": 7,
+      "license": "MIT",
+      "watchers": 102,
+      "owner": {
+        "login": "iDhaval",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/13585231?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/iDhaval"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:42.392Z"
+  },
+  {
+    "repo": "https://github.com/okmr-d/DOFavoriteButton",
+    "banner": "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif",
+    "images": [],
+    "tags": [
+      "Button",
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:42.392Z",
+    "github": {
+      "name": "DOFavoriteButton",
+      "full_name": "okmr-d/DOFavoriteButton",
+      "html_url": "https://github.com/okmr-d/DOFavoriteButton",
+      "description": "Cute Animated Button written in Swift.",
+      "created_at": "2015-07-01T14:58:38Z",
+      "updated_at": "2018-10-01T06:43:23Z",
+      "pushed_at": "2018-09-13T06:14:55Z",
+      "language": "Swift",
+      "forks_count": 282,
+      "open_issues_count": 30,
+      "license": "MIT",
+      "watchers": 3141,
+      "owner": {
+        "login": "okmr-d",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/4679138?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/okmr-d"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:42.818Z"
+  },
+  {
+    "repo": "https://github.com/suzuki-0000/CountdownLabel",
+    "banner": "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/examplePixelate.gif",
+    "images": [
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleEvaporate.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleFall.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleScale.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/exampleSparkle.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example02.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example03.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example04.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example06.gif",
+      "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example07.gif"
+    ],
+    "tags": [
+      "TextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:42.818Z",
+    "github": {
+      "name": "CountdownLabel",
+      "full_name": "suzuki-0000/CountdownLabel",
+      "html_url": "https://github.com/suzuki-0000/CountdownLabel",
+      "description": "Simple countdown UILabel with morphing animation, and some useful function.",
+      "created_at": "2016-01-19T09:48:36Z",
+      "updated_at": "2018-09-29T02:54:09Z",
+      "pushed_at": "2018-09-26T09:53:25Z",
+      "language": "Swift",
+      "forks_count": 75,
+      "open_issues_count": 23,
+      "license": "MIT",
+      "watchers": 477,
+      "owner": {
+        "login": "suzuki-0000",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/1096585?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/suzuki-0000"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:43.237Z"
+  },
+  {
+    "repo": "https://github.com/yacir/CollectionViewSlantedLayout",
+    "banner": "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
+    "images": [],
+    "tags": [
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:43.237Z",
+    "github": {
+      "name": "CollectionViewSlantedLayout",
+      "full_name": "yacir/CollectionViewSlantedLayout",
+      "html_url": "https://github.com/yacir/CollectionViewSlantedLayout",
+      "description": "UICollectionViewLayout to display slanted content",
+      "created_at": "2016-02-29T23:20:17Z",
+      "updated_at": "2018-10-01T12:40:51Z",
+      "pushed_at": "2018-10-01T10:06:12Z",
+      "language": "Swift",
+      "forks_count": 64,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 1192,
+      "owner": {
+        "login": "yacir",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2587473?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yacir"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:43.629Z"
+  },
+  {
+    "repo": "https://github.com/whitesmith/WSTagsField",
+    "banner": "http://i.giphy.com/3o72F8JCGkjrF4Lwvm.gif",
+    "images": [],
+    "tags": [
+      "TextField",
+      "Tags"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:43.629Z",
+    "github": {
+      "name": "WSTagsField",
+      "full_name": "whitesmith/WSTagsField",
+      "html_url": "https://github.com/whitesmith/WSTagsField",
+      "description": "An iOS text field that represents different Tags",
+      "created_at": "2016-07-04T09:56:23Z",
+      "updated_at": "2018-10-01T17:57:38Z",
+      "pushed_at": "2018-09-17T10:59:44Z",
+      "language": "Swift",
+      "forks_count": 103,
+      "open_issues_count": 11,
+      "license": "MIT",
+      "watchers": 766,
+      "owner": {
+        "login": "whitesmith",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/5413174?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/whitesmith"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:44.030Z"
+  },
+  {
+    "repo": "https://github.com/rshevchuk/Wallet",
+    "banner": "https://github.com/rshevchuk/Wallet/blob/master/preview.gif?raw=true",
+    "images": [],
+    "tags": [
+      "Cards"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:44.030Z",
+    "github": {
+      "name": "Wallet",
+      "full_name": "rshevchuk/Wallet",
+      "html_url": "https://github.com/rshevchuk/Wallet",
+      "description": "Wallet is a library to manage cards and passes.",
+      "created_at": "2016-10-28T08:08:48Z",
+      "updated_at": "2018-09-23T03:30:01Z",
+      "pushed_at": "2018-01-05T14:58:01Z",
+      "language": "Swift",
+      "forks_count": 39,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 271,
+      "owner": {
+        "login": "rshevchuk",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/1669909?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/rshevchuk"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:44.464Z"
+  },
+  {
+    "repo": "https://github.com/hemangshah/Workaholic",
+    "banner": "https://raw.githubusercontent.com/hemangshah/Workaholic/master/Screenshots/WHLandscape-1.png",
+    "images": [],
+    "tags": [
+      "Calendar",
+      "Chart"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:44.464Z",
+    "github": {
+      "name": "Workaholic",
+      "full_name": "hemangshah/Workaholic",
+      "html_url": "https://github.com/hemangshah/Workaholic",
+      "description": "A Github's like work contribution timeline. 🤸🏻",
+      "created_at": "2017-06-05T12:22:51Z",
+      "updated_at": "2018-09-24T10:49:40Z",
+      "pushed_at": "2018-09-24T10:49:39Z",
+      "language": "Swift",
+      "forks_count": 7,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 77,
+      "owner": {
+        "login": "hemangshah",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/3313412?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/hemangshah"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:44.861Z"
+  },
+  {
+    "repo": "https://github.com/xmartlabs/XLPagerTabStrip",
+    "banner": "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/spotify.gif",
+    "images": [
+      "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/instagram.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/youtube.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/pagerTabStripTypes.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/segmented.gif"
+    ],
+    "tags": [
+      "Menu",
+      "TabBar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:44.861Z",
+    "github": {
+      "name": "XLPagerTabStrip",
+      "full_name": "xmartlabs/XLPagerTabStrip",
+      "html_url": "https://github.com/xmartlabs/XLPagerTabStrip",
+      "description": "Android PagerTabStrip for iOS.",
+      "created_at": "2014-12-20T12:05:22Z",
+      "updated_at": "2018-10-01T15:06:07Z",
+      "pushed_at": "2018-09-28T14:35:27Z",
+      "language": "Swift",
+      "forks_count": 904,
+      "open_issues_count": 191,
+      "license": "MIT",
+      "watchers": 5433,
+      "owner": {
+        "login": "xmartlabs",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2227731?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/xmartlabs"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:45.251Z"
+  },
+  {
+    "repo": "https://github.com/Ramotion/fluid-slider",
+    "banner": "https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif",
+    "images": [],
+    "tags": [
+      "RangeSelect"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-01T20:57:45.251Z",
+    "github": {
+      "name": "fluid-slider",
+      "full_name": "Ramotion/fluid-slider",
+      "html_url": "https://github.com/Ramotion/fluid-slider",
+      "description": ":octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion",
+      "created_at": "2017-10-20T11:46:58Z",
+      "updated_at": "2018-10-01T08:06:17Z",
+      "pushed_at": "2018-09-27T06:33:48Z",
+      "language": "Swift",
+      "forks_count": 81,
+      "open_issues_count": 6,
+      "license": "MIT",
+      "watchers": 1158,
+      "owner": {
+        "login": "Ramotion",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/6028820?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Ramotion"
+      }
+    },
+    "github_updated_at": "2018-10-01T20:57:45.643Z"
+  },
+  {
     "repo": "https://github.com/Ramotion/folding-cell",
     "banner": "https://github.com/Ramotion/folding-cell/raw/master/Screenshots/foldingCell.gif",
     "images": [],
