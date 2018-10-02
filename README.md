@@ -20,7 +20,7 @@ Source code and data file for: **[cocoa.rocks](https://cocoa.rocks)**
 
 ## Contributing
 
-See [here](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
+See [here](https://github.com/v-braun/cocoa-rocks/blob/master/CONTRIBUTING.md)
 
 
 ## Build
