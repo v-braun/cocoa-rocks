@@ -7,7 +7,9 @@
       <div class="post-header">
         <img class="avatar" src="{{github.owner.avatar_url}}" alt="{{github.owner.login}}" />
         <div class="title">
-          <h1>{{github.name}}</h1>
+          <h1>
+            <a target="_blank" href="{{repo}}">{{github.name}}</a>
+          </h1>
           <label>by <a target="_blank" href="{{github.owner.html_url}}">{{github.owner.login}}</a></label>
         </div>
       </div>

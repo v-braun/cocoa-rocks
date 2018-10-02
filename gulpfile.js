@@ -16,6 +16,7 @@ const inject = require('gulp-inject');
 const rev = require('gulp-rev');
 const gulpif = require('gulp-if');
 
+require('./gulp-tasks/rss-feed');
 
 var MIN_BUILD = false;
 
@@ -126,5 +127,5 @@ gulp.task('prod:prepare',(done) => {
   done();
 });
 
-gulp.task('serve', gulp.series('dev:prepare', 'clean', 'assets', 'sass', 'scripts', 'html', 'connect', 'watch'));
-gulp.task('dist', gulp.series('prod:prepare', 'clean', 'assets', 'sass', 'scripts', 'html'));
+gulp.task('serve', gulp.series('dev:prepare', 'clean', 'assets', 'feeds', 'sass', 'scripts', 'html', 'connect', 'watch'));
+gulp.task('dist', gulp.series('prod:prepare', 'clean', 'assets', 'feeds', 'sass', 'scripts', 'html'));
