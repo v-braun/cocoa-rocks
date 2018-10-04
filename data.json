@@ -1,6 +1,41 @@
 [
 
     {
+        "repo": "https://github.com/gautier-gdx/Hexacon",
+        "banner": "https://raw.githubusercontent.com/gautier-gdx/Hexacon/assets/HexaconDemo3.gif",
+        "images": [
+        ],
+        "tags": [
+            "Menu",
+            "ImageView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/FahimF/FloatLabelFields",
+        "banner": "https://cloud.githubusercontent.com/assets/181110/5260534/f64efed4-7a4a-11e4-9b62-2cc1e009ee95.gif",
+        "images": [
+        ],
+        "tags": [
+            "TextField",
+            "Material"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+        "repo": "https://github.com/shima11/FlexiblePageControl",
+        "banner": "https://raw.githubusercontent.com/shima11/FlexiblePageControl/master/demo.gif",
+        "images": [],
+        "tags": [
+            "PageControl"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
         "repo": "https://github.com/uias/Tabman",
         "banner": "https://raw.githubusercontent.com/uias/Tabman/master/Artwork/header.png",
         "images": [

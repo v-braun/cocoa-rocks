@@ -1,5 +1,106 @@
 [
   {
+    "repo": "https://github.com/gautier-gdx/Hexacon",
+    "banner": "https://raw.githubusercontent.com/gautier-gdx/Hexacon/assets/HexaconDemo3.gif",
+    "images": [],
+    "tags": [
+      "Menu",
+      "ImageView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-04T15:35:03.495Z",
+    "github": {
+      "name": "Hexacon",
+      "full_name": "gautier-gdx/Hexacon",
+      "html_url": "https://github.com/gautier-gdx/Hexacon",
+      "description": "A fancy hexagonal layout for displaying data like your Apple Watch",
+      "created_at": "2016-03-13T16:31:55Z",
+      "updated_at": "2018-10-01T05:11:10Z",
+      "pushed_at": "2017-11-14T09:50:23Z",
+      "language": "Swift",
+      "forks_count": 15,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 284,
+      "owner": {
+        "login": "gautier-gdx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/6576319?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/gautier-gdx"
+      }
+    },
+    "github_updated_at": "2018-10-04T15:35:04.037Z"
+  },
+  {
+    "repo": "https://github.com/FahimF/FloatLabelFields",
+    "banner": "https://cloud.githubusercontent.com/assets/181110/5260534/f64efed4-7a4a-11e4-9b62-2cc1e009ee95.gif",
+    "images": [],
+    "tags": [
+      "TextField",
+      "Material"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-04T15:35:04.037Z",
+    "github": {
+      "name": "FloatLabelFields",
+      "full_name": "FahimF/FloatLabelFields",
+      "html_url": "https://github.com/FahimF/FloatLabelFields",
+      "description": "Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.",
+      "created_at": "2014-11-30T02:10:32Z",
+      "updated_at": "2018-10-02T03:04:40Z",
+      "pushed_at": "2018-09-16T10:07:15Z",
+      "language": "Swift",
+      "forks_count": 108,
+      "open_issues_count": 16,
+      "license": "MIT",
+      "watchers": 1117,
+      "owner": {
+        "login": "FahimF",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/181110?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/FahimF"
+      }
+    },
+    "github_updated_at": "2018-10-04T15:35:04.444Z"
+  },
+  {
+    "repo": "https://github.com/shima11/FlexiblePageControl",
+    "banner": "https://raw.githubusercontent.com/shima11/FlexiblePageControl/master/demo.gif",
+    "images": [],
+    "tags": [
+      "PageControl"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-04T15:35:04.444Z",
+    "github": {
+      "name": "FlexiblePageControl",
+      "full_name": "shima11/FlexiblePageControl",
+      "html_url": "https://github.com/shima11/FlexiblePageControl",
+      "description": "A flexible UIPageControl like Instagram.",
+      "created_at": "2017-04-05T05:52:04Z",
+      "updated_at": "2018-10-02T08:08:11Z",
+      "pushed_at": "2018-09-09T08:35:37Z",
+      "language": "Swift",
+      "forks_count": 47,
+      "open_issues_count": 7,
+      "license": "MIT",
+      "watchers": 434,
+      "owner": {
+        "login": "shima11",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/7531826?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/shima11"
+      }
+    },
+    "github_updated_at": "2018-10-04T15:35:04.843Z"
+  },
+  {
     "repo": "https://github.com/uias/Tabman",
     "banner": "https://raw.githubusercontent.com/uias/Tabman/master/Artwork/header.png",
     "images": [
