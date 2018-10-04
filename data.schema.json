@@ -52,6 +52,7 @@
               "Calendar",
               "Notification",
               "Dialog",
+              "Loading",
               "ScrollView",
               "CollectionView",
               "Menu",
