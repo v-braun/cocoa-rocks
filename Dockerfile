@@ -4,6 +4,7 @@ COPY ./package.json ./
 RUN npm install
 
 COPY ./src/ ./src
+COPY ./gulp-tasks/ ./gulp-tasks
 COPY ./gulp-compile-data.js ./
 COPY ./gulpfile.js ./
 COPY ./conf.js ./
