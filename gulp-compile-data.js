@@ -88,18 +88,13 @@ function getRepoInfo(repo, done){
 function compile(json, lastJson,  done){  
   async.eachSeries(json, function(entry, cb) {
 
-    if(!entry.created_at){
-      entry.created_at = new Date();
-      log.info('new entry', entry.repo);
-    }
+    
         
     // only check if never updated
     var existing = find(lastJson, e => e.repo == entry.repo);
 
     if(existing){
       if(existing.github_updated_at){
-        log.info('repo updated', 'skip', entry.repo);
-
         // reset master data
         delete existing.repo;
         delete existing.banner;
@@ -111,6 +106,11 @@ function compile(json, lastJson,  done){
         merge(entry, existing);
         return cb(null);
       }
+    }
+    
+    if(!entry.created_at){
+      entry.created_at = new Date();
+      log.info('new entry', entry.repo);
     }
     
 

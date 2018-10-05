@@ -1,6 +1,62 @@
 [
 
     {
+        "repo": "https://github.com/JaleelNazir/MJMaterialSwitch",
+        "banner": "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
+        "images": [
+            "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/TiitleTheme.png"
+        ],
+        "tags": [
+            "Toggle",
+            "Material"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/yoavlt/LiquidLoader",
+        "banner": "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif",
+        "images": [
+            "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-line.gif"
+        ],
+        "tags": [
+            "Loading",
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/JoniVR/VerticalCardSwiper",
+        "banner": "https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/development/example.gif",
+        "images": [],
+        "tags": [
+            "Cards"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/loregr/LGButton",
+        "banner": "https://raw.githubusercontent.com/loregr/LGButton/master/media/async_demo.gif",
+        "images": [
+            "https://raw.githubusercontent.com/loregr/LGButton/master/media/preview_btn.png"
+        ],
+        "tags": [
+            "Button"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/Kirillzzy/KALoader",
+        "banner": "https://raw.githubusercontent.com/Kirillzzy/KALoader/master/imgs/purpleLoader.gif",
+        "images": [
+            "https://raw.githubusercontent.com/Kirillzzy/KALoader/master/imgs/grayLoader.gif",
+            "https://raw.githubusercontent.com/Kirillzzy/KALoader/master/imgs/redLoader.gif"
+        ],
+        "tags": [
+            "Loading"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/gautier-gdx/Hexacon",
         "banner": "https://raw.githubusercontent.com/gautier-gdx/Hexacon/assets/HexaconDemo3.gif",
         "images": [

@@ -1,5 +1,181 @@
 [
   {
+    "repo": "https://github.com/JaleelNazir/MJMaterialSwitch",
+    "banner": "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
+    "images": [
+      "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/TiitleTheme.png"
+    ],
+    "tags": [
+      "Toggle",
+      "Material"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-05T15:06:58.160Z",
+    "github": {
+      "name": "MJMaterialSwitch",
+      "full_name": "JaleelNazir/MJMaterialSwitch",
+      "html_url": "https://github.com/JaleelNazir/MJMaterialSwitch",
+      "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift",
+      "created_at": "2017-03-24T06:01:03Z",
+      "updated_at": "2018-08-30T14:55:06Z",
+      "pushed_at": "2018-08-06T12:23:03Z",
+      "language": "Swift",
+      "forks_count": 6,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 24,
+      "owner": {
+        "login": "JaleelNazir",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/8981430?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/JaleelNazir"
+      }
+    },
+    "github_updated_at": "2018-10-05T15:06:58.719Z"
+  },
+  {
+    "repo": "https://github.com/yoavlt/LiquidLoader",
+    "banner": "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif",
+    "images": [
+      "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-line.gif"
+    ],
+    "tags": [
+      "Loading",
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-05T14:59:39.983Z",
+    "github": {
+      "name": "LiquidLoader",
+      "full_name": "yoavlt/LiquidLoader",
+      "html_url": "https://github.com/yoavlt/LiquidLoader",
+      "description": "Spinner loader components with liquid animation",
+      "created_at": "2015-08-24T06:21:45Z",
+      "updated_at": "2018-10-03T00:51:28Z",
+      "pushed_at": "2018-06-21T02:44:01Z",
+      "language": "Swift",
+      "forks_count": 168,
+      "open_issues_count": 8,
+      "license": "MIT",
+      "watchers": 1108,
+      "owner": {
+        "login": "yoavlt",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/2039987?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yoavlt"
+      }
+    },
+    "github_updated_at": "2018-10-05T14:59:40.534Z"
+  },
+  {
+    "repo": "https://github.com/JoniVR/VerticalCardSwiper",
+    "banner": "https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/development/example.gif",
+    "images": [],
+    "tags": [
+      "Cards"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-05T14:59:40.534Z",
+    "github": {
+      "name": "VerticalCardSwiper",
+      "full_name": "JoniVR/VerticalCardSwiper",
+      "html_url": "https://github.com/JoniVR/VerticalCardSwiper",
+      "description": "A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.",
+      "created_at": "2017-08-08T21:32:32Z",
+      "updated_at": "2018-10-04T18:24:01Z",
+      "pushed_at": "2018-09-21T09:35:09Z",
+      "language": "Swift",
+      "forks_count": 14,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 229,
+      "owner": {
+        "login": "JoniVR",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/7591717?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/JoniVR"
+      }
+    },
+    "github_updated_at": "2018-10-05T14:59:41.021Z"
+  },
+  {
+    "repo": "https://github.com/loregr/LGButton",
+    "banner": "https://raw.githubusercontent.com/loregr/LGButton/master/media/async_demo.gif",
+    "images": [
+      "https://raw.githubusercontent.com/loregr/LGButton/master/media/preview_btn.png"
+    ],
+    "tags": [
+      "Button"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-05T14:56:00.537Z",
+    "github": {
+      "name": "LGButton",
+      "full_name": "loregr/LGButton",
+      "html_url": "https://github.com/loregr/LGButton",
+      "description": "A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.",
+      "created_at": "2017-06-17T13:19:22Z",
+      "updated_at": "2018-10-05T10:59:52Z",
+      "pushed_at": "2018-09-26T13:00:42Z",
+      "language": "Swift",
+      "forks_count": 97,
+      "open_issues_count": 14,
+      "license": "MIT",
+      "watchers": 1684,
+      "owner": {
+        "login": "loregr",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/7204248?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/loregr"
+      }
+    },
+    "github_updated_at": "2018-10-05T14:56:01.155Z"
+  },
+  {
+    "repo": "https://github.com/Kirillzzy/KALoader",
+    "banner": "https://raw.githubusercontent.com/Kirillzzy/KALoader/master/imgs/purpleLoader.gif",
+    "images": [
+      "https://raw.githubusercontent.com/Kirillzzy/KALoader/master/imgs/grayLoader.gif",
+      "https://raw.githubusercontent.com/Kirillzzy/KALoader/master/imgs/redLoader.gif"
+    ],
+    "tags": [
+      "Loading"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-05T14:56:01.155Z",
+    "github": {
+      "name": "KALoader",
+      "full_name": "Kirillzzy/KALoader",
+      "html_url": "https://github.com/Kirillzzy/KALoader",
+      "description": "Beautiful animated placeholders for showing loading of data",
+      "created_at": "2017-09-08T18:03:07Z",
+      "updated_at": "2018-10-03T14:42:32Z",
+      "pushed_at": "2018-05-05T16:31:05Z",
+      "language": "Swift",
+      "forks_count": 3,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 60,
+      "owner": {
+        "login": "Kirillzzy",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/16154772?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Kirillzzy"
+      }
+    },
+    "github_updated_at": "2018-10-05T14:56:01.596Z"
+  },
+  {
     "repo": "https://github.com/gautier-gdx/Hexacon",
     "banner": "https://raw.githubusercontent.com/gautier-gdx/Hexacon/assets/HexaconDemo3.gif",
     "images": [],
