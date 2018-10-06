@@ -1700,10 +1700,8 @@
   },
   {
     "repo": "https://github.com/IFTTT/JazzHands",
-    "banner": "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands_banner.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands-demo.gif"
-    ],
+    "banner": "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands-demo.gif",
+    "images": [],
     "tags": [
       "Animation"
     ],

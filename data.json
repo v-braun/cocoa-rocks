@@ -603,9 +603,9 @@
     },
     {
         "repo": "https://github.com/IFTTT/JazzHands",
-        "banner": "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands_banner.jpg",
+        "banner": "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands-demo.gif",
         "images": [
-            "https://raw.githubusercontent.com/IFTTT/JazzHands/master/./Example/Docs/jazzhands-demo.gif"
+            
         ],
         "tags": [
             "Animation"
