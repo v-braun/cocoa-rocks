@@ -1,6 +1,36 @@
 [
 
     {
+        "repo": "https://github.com/yonat/MultiToggleButton",
+        "banner": "https://raw.githubusercontent.com/yonat/MultiToggleButton/master/screenshots/toggle.gif",
+        "images": [],
+        "tags": [
+            "Button", "Toggle"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/pixyzehn/MediumMenu",
+        "banner": "https://raw.githubusercontent.com/pixyzehn/MediumMenu/master/Assets/MediumMenu.gif",
+        "images": [],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/maxep/MXParallaxHeader",
+        "banner": "https://raw.githubusercontent.com/maxep/MXParallaxHeader/master/Example-objc/demo1.gif",
+        "images": [
+            "https://raw.githubusercontent.com/maxep/MXParallaxHeader/master/Example-objc/demo2.gif"
+        ],
+        "tags": [
+            "Parallax",
+            "ScrollView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/JaleelNazir/MJMaterialSwitch",
         "banner": "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
         "images": [
