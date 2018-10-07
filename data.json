@@ -1,6 +1,18 @@
 [
 
     {
+        "repo": "https://github.com/hyperoslo/RetroProgress",
+        "banner": "https://raw.githubusercontent.com/vadymmarkov/RetroProgress/master/Images/example1.png",
+        "images": [
+            "https://raw.githubusercontent.com/vadymmarkov/RetroProgress/master/Images/example2.png",
+            "https://raw.githubusercontent.com/vadymmarkov/RetroProgress/master/Images/example3.png"
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/pkluz/PKHUD",
         "banner": "https://cloud.githubusercontent.com/assets/1275218/10124182/09f4c406-654f-11e5-9cab-0f2e6f470887.gif",
         "images": [
