@@ -1,6 +1,32 @@
 [
 
     {
+        "repo": "https://github.com/me-abhinav/NumberMorphView",
+        "banner": "https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif",
+        "images": [],
+        "tags": [
+            "TextField"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/LeonardoCardoso/NFDownloadButton",
+        "banner": "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/iOS.gif",
+        "images": [
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/watchOS.gif",
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/tvOS.gif",
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/macOS.gif",
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/first.gif",
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/second.gif",
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/third.gif",
+            "https://raw.githubusercontent.com/LeonardoCardoso/NFDownloadButton/master/Images/fourth.gif"
+        ],
+        "tags": [
+            "Button"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/yonat/MultiToggleButton",
         "banner": "https://raw.githubusercontent.com/yonat/MultiToggleButton/master/screenshots/toggle.gif",
         "images": [],
