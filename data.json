@@ -1,6 +1,16 @@
 [
 
     {
+        "repo": "https://github.com/pkluz/PKHUD",
+        "banner": "https://cloud.githubusercontent.com/assets/1275218/10124182/09f4c406-654f-11e5-9cab-0f2e6f470887.gif",
+        "images": [
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/me-abhinav/NumberMorphView",
         "banner": "https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif",
         "images": [],
