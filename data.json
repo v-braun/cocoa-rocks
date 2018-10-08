@@ -1,6 +1,31 @@
 [
 
     {
+        "repo": "https://github.com/AppliKeySolutions/VegaScroll",
+        "banner": "https://f.flockusercontent2.com/dc4259a15048016319908586",
+        "images": [
+        ],
+        "tags": [
+            "TableView",
+            "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/jonkykong/SideMenu",
+        "banner": "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif",
+        "images": [
+            "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideIn.gif",
+            "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/Dissolve.gif",
+            "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/InOut.gif"
+        ],
+        "tags": [
+            "Menu",
+            "Material"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/hyperoslo/RetroProgress",
         "banner": "https://raw.githubusercontent.com/vadymmarkov/RetroProgress/master/Images/example1.png",
         "images": [
