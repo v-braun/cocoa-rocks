@@ -1,5 +1,16 @@
 [
-
+    
+    {
+        "repo": "https://github.com/antoniocasero/Panels",
+        "banner": "https://github.com/antoniocasero/Panels/raw/master/Resources/Demo2.gif",
+        "images": [
+            "https://github.com/antoniocasero/Panels/raw/master/Resources/Demo3.gif"
+        ],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": ["iOS"]
+    },
     {
         "repo": "https://github.com/marty-suzuki/URLEmbeddedView",
         "banner": "https://raw.githubusercontent.com/marty-suzuki/URLEmbeddedView/master/./Images/sample2.gif",
