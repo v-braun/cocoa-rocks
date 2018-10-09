@@ -1,6 +1,16 @@
 [
 
     {
+        "repo": "https://github.com/marty-suzuki/URLEmbeddedView",
+        "banner": "https://raw.githubusercontent.com/marty-suzuki/URLEmbeddedView/master/./Images/sample2.gif",
+        "images": [
+        ],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/AppliKeySolutions/VegaScroll",
         "banner": "https://f.flockusercontent2.com/dc4259a15048016319908586",
         "images": [
