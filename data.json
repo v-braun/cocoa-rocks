@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/roytornado/RSLoadingView",
+        "banner": "https://github.com/roytornado/RSLoadingView/raw/master/gif_twins.gif",
+        "images": [
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/bitwit/BWSwipeRevealCell",
         "banner": "https://raw.githubusercontent.com/bitwit/BWSwipeRevealCell/master/example.gif",
         "images": [

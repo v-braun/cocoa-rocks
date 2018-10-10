@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/roytornado/RSLoadingView",
+    "banner": "https://github.com/roytornado/RSLoadingView/raw/master/gif_twins.gif",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-10T17:28:58.521Z",
+    "github": {
+      "name": "RSLoadingView",
+      "full_name": "roytornado/RSLoadingView",
+      "html_url": "https://github.com/roytornado/RSLoadingView",
+      "description": "Awesome loading animations using 3D engine written with Swift",
+      "created_at": "2017-05-18T09:04:29Z",
+      "updated_at": "2018-10-10T17:27:59Z",
+      "pushed_at": "2018-07-06T02:59:13Z",
+      "language": "Swift",
+      "forks_count": 43,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 304,
+      "owner": {
+        "login": "roytornado",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/1968193?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/roytornado"
+      }
+    },
+    "github_updated_at": "2018-10-10T17:29:00.245Z"
+  },
+  {
     "repo": "https://github.com/bitwit/BWSwipeRevealCell",
     "banner": "https://raw.githubusercontent.com/bitwit/BWSwipeRevealCell/master/example.gif",
     "images": [],
