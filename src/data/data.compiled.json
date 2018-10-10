@@ -1,5 +1,73 @@
 [
   {
+    "repo": "https://github.com/bitwit/BWSwipeRevealCell",
+    "banner": "https://raw.githubusercontent.com/bitwit/BWSwipeRevealCell/master/example.gif",
+    "images": [],
+    "tags": [
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-10T17:19:46.560Z",
+    "github": {
+      "name": "BWSwipeRevealCell",
+      "full_name": "bitwit/BWSwipeRevealCell",
+      "html_url": "https://github.com/bitwit/BWSwipeRevealCell",
+      "description": "A Swift library for swipeable table cells",
+      "created_at": "2015-11-13T17:39:55Z",
+      "updated_at": "2018-10-10T12:12:14Z",
+      "pushed_at": "2017-11-20T02:11:57Z",
+      "language": "Swift",
+      "forks_count": 14,
+      "open_issues_count": 4,
+      "license": "MIT",
+      "watchers": 48,
+      "owner": {
+        "login": "bitwit",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/707507?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/bitwit"
+      }
+    },
+    "github_updated_at": "2018-10-10T17:19:47.147Z"
+  },
+  {
+    "repo": "https://github.com/antoniocasero/Panels",
+    "banner": "https://github.com/antoniocasero/Panels/raw/master/Resources/Demo2.gif",
+    "images": [
+      "https://github.com/antoniocasero/Panels/raw/master/Resources/Demo3.gif"
+    ],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-10T17:19:47.147Z",
+    "github": {
+      "name": "Panels",
+      "full_name": "antoniocasero/Panels",
+      "html_url": "https://github.com/antoniocasero/Panels",
+      "description": "Panels is a framework to easily add sliding panels to your application",
+      "created_at": "2018-08-10T09:05:52Z",
+      "updated_at": "2018-10-10T16:29:47Z",
+      "pushed_at": "2018-10-10T14:46:12Z",
+      "language": "Swift",
+      "forks_count": 6,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 59,
+      "owner": {
+        "login": "antoniocasero",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/3841249?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/antoniocasero"
+      }
+    },
+    "github_updated_at": "2018-10-10T17:19:47.627Z"
+  },
+  {
     "repo": "https://github.com/marty-suzuki/URLEmbeddedView",
     "banner": "https://raw.githubusercontent.com/marty-suzuki/URLEmbeddedView/master/./Images/sample2.gif",
     "images": [],

@@ -1,5 +1,14 @@
 [
-    
+    {
+        "repo": "https://github.com/bitwit/BWSwipeRevealCell",
+        "banner": "https://raw.githubusercontent.com/bitwit/BWSwipeRevealCell/master/example.gif",
+        "images": [
+        ],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": ["iOS"]
+    },    
     {
         "repo": "https://github.com/antoniocasero/Panels",
         "banner": "https://github.com/antoniocasero/Panels/raw/master/Resources/Demo2.gif",
