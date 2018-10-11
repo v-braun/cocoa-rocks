@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/piemonte/Twinkle",
+    "banner": "https://raw.github.com/piemonte/twinkle/master/twinkle.gif",
+    "images": [],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS",
+      "tvOS"
+    ],
+    "created_at": "2018-10-11T17:55:59.975Z",
+    "github": {
+      "name": "Twinkle",
+      "full_name": "piemonte/Twinkle",
+      "html_url": "https://github.com/piemonte/Twinkle",
+      "description": ":sparkles: Twinkle iOS/tvOS app elements in Swift",
+      "created_at": "2015-02-25T06:24:58Z",
+      "updated_at": "2018-09-25T03:53:44Z",
+      "pushed_at": "2018-09-13T00:12:36Z",
+      "language": "Swift",
+      "forks_count": 52,
+      "open_issues_count": 4,
+      "license": "MIT",
+      "watchers": 487,
+      "owner": {
+        "login": "piemonte",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/1870667?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/piemonte"
+      }
+    },
+    "github_updated_at": "2018-10-11T17:56:00.570Z"
+  },
+  {
     "repo": "https://github.com/roytornado/RSLoadingView",
     "banner": "https://github.com/roytornado/RSLoadingView/raw/master/gif_twins.gif",
     "images": [],

@@ -1,4 +1,14 @@
 [
+
+    {
+        "repo": "https://github.com/piemonte/Twinkle",
+        "banner": "https://raw.github.com/piemonte/twinkle/master/twinkle.gif",
+        "images": [],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": ["iOS", "tvOS"]
+    },    
     {
         "repo": "https://github.com/roytornado/RSLoadingView",
         "banner": "https://github.com/roytornado/RSLoadingView/raw/master/gif_twins.gif",
