@@ -1,5 +1,25 @@
 [
-
+    {
+        "repo": "https://github.com/Ramotion/animated-tab-bar",
+        "banner": "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/RAMAnimatedTabBarDemo.gif",
+        "images": [
+            "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.giff"
+        ],
+        "tags": [
+            "TabBar", "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
+        "repo": "https://github.com/Ekhoo/Translucid",
+        "banner": "https://raw.githubusercontent.com/Ekhoo/Translucid/master/Example/Resources/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "TextField"
+        ],
+        "paltforms": ["iOS"]
+    },
     {
         "repo": "https://github.com/piemonte/Twinkle",
         "banner": "https://raw.github.com/piemonte/twinkle/master/twinkle.gif",
