@@ -1,5 +1,74 @@
 [
   {
+    "repo": "https://github.com/Ramotion/animated-tab-bar",
+    "banner": "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/RAMAnimatedTabBarDemo.gif",
+    "images": [
+      "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.giff"
+    ],
+    "tags": [
+      "TabBar",
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-12T16:58:00.391Z",
+    "github": {
+      "name": "animated-tab-bar",
+      "full_name": "Ramotion/animated-tab-bar",
+      "html_url": "https://github.com/Ramotion/animated-tab-bar",
+      "description": ":octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion",
+      "created_at": "2014-11-11T11:20:04Z",
+      "updated_at": "2018-10-12T15:58:33Z",
+      "pushed_at": "2018-10-11T08:21:13Z",
+      "language": "Swift",
+      "forks_count": 1217,
+      "open_issues_count": 30,
+      "license": "MIT",
+      "watchers": 9368,
+      "owner": {
+        "login": "Ramotion",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/6028820?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Ramotion"
+      }
+    },
+    "github_updated_at": "2018-10-12T16:58:00.974Z"
+  },
+  {
+    "repo": "https://github.com/Ekhoo/Translucid",
+    "banner": "https://raw.githubusercontent.com/Ekhoo/Translucid/master/Example/Resources/demo.gif",
+    "images": [],
+    "tags": [
+      "TextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-12T16:58:00.975Z",
+    "github": {
+      "name": "Translucid",
+      "full_name": "Ekhoo/Translucid",
+      "html_url": "https://github.com/Ekhoo/Translucid",
+      "description": "Lightweight library to set an Image as text background. Written in swift.",
+      "created_at": "2015-12-18T06:20:46Z",
+      "updated_at": "2018-09-28T12:53:52Z",
+      "pushed_at": "2017-10-24T06:37:20Z",
+      "language": "Swift",
+      "forks_count": 30,
+      "open_issues_count": 4,
+      "license": "MIT",
+      "watchers": 525,
+      "owner": {
+        "login": "Ekhoo",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2883841?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Ekhoo"
+      }
+    },
+    "github_updated_at": "2018-10-12T16:58:01.382Z"
+  },
+  {
     "repo": "https://github.com/piemonte/Twinkle",
     "banner": "https://raw.github.com/piemonte/twinkle/master/twinkle.gif",
     "images": [],
