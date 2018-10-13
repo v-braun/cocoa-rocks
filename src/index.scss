@@ -106,118 +106,126 @@ body{
         
         height: 81px;
         max-height: 81px;
-        // > div {
-            
-        //     // display: none;
-        // }
         
-        >.choices{
-            // display: none;
-            width: 100%;
-            // max-width: 580px;
+        
+            >.choices{
+                // display: none;
+                width: 100%;
+                // max-width: 580px;
 
-            &.is-open{
-                background-color: $background_alt;
                 .choices__inner{
+                    
+                    
+                    box-shadow: 0px 1px 1px 0px lighten($border_col, 30);
                     background-color: $background_alt;
                 }
-            }
-            .choices__item{
-                background-color: $background;
-                border-color: darken($background, 10);
-                color: $foreground;
-            }
-            .choices__list--dropdown{
-                color: $foreground;
                 
-                .choices__item--selectable{
-                    &.is-highlighted{
-                        background-color: lighten($background, 20);
+                &.is-open{
+                    background-color: $background_alt;
+                    .choices__inner{
+                        background-color: $background_alt;
                     }
                 }
-
-            }
-        }
-    }    
-    
-    #body{
-        $post_padding: 30px;
-        $next_post_padding_factor: 10;
-        
-        
-        padding-top: 0px;
-        padding-bottom: 0px;
-        padding-left: 0px;
-        // padding-right: $post_padding * $next_post_padding_factor;
-        overflow-y: hidden;
-        overflow-x: auto;
-        
-        flex-grow: 1;
-        
-        
-        display: flex;
-        
-        &::after{
-            content: ' ';
-            min-width: 30px;
-        }
-        
-        $post_col_width: 330px;
-        $post_content_padding: 20px;
-        .post{
-            // min-width: 100%;
-            // min-width: ($post_col_width * 2) + ($post_content_padding * 2);
-            
-            
-            padding: $post_padding 0px $post_padding $post_padding;
-            
-            
-            .post-content{
-                border-style: solid;
-                border-width: $post_content_padding;
-                border-color: $background_alt;
-                
-                background-color: $background;
-                
-                display: flex;
-                width: 100%;
-                height: 100%;
-                
-                
-                .post-banner{
-                    border-top: $border_line;
-                    border-left: $border_line;
-                    border-bottom: $border_line;
+                .choices__item{
+                    background-color: $background;
+                    border-color: darken($background, 10);
+                    color: $foreground;
+                }
+                .choices__list--dropdown{
+                    color: $foreground;
                     
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;                    
-                    
-                    padding: 30px;
-                    // min-width: $post_col_width;
-                    width: $post_col_width - 60px;
-                    // height: 330px;
-
-                    img{
-                        border-radius: 10px;
-                        box-shadow: 0 0px 15px 0px $border_col;
-                        
-                        width: 100%;
-                        max-width: 100%;
-
-                        // flex-grow: 0;
-                        // flex-shrink: 1;
-                        // flex-basis: 0%;
-
-                        // fix for IE
-                        flex: none;
-
+                    .choices__item--selectable{
+                        &.is-highlighted{
+                            background-color: lighten($background, 20);
+                        }
                     }
                     
-                    // .post-banner-container{
+                }
+            }
+        }    
+        
+        #body{
+            $post_padding: 30px;
+            $next_post_padding_factor: 10;
+            
+            
+            padding-top: 0px;
+            padding-bottom: 0px;
+            padding-left: 0px;
+            // padding-right: $post_padding * $next_post_padding_factor;
+            overflow-y: hidden;
+            overflow-x: auto;
+            
+            flex-grow: 1;
+            
+            
+            display: flex;
+            
+            &::after{
+                content: ' ';
+                min-width: 30px;
+            }
+            
+            $post_col_width: 330px;
+            
+
+            $post_content_padding: 20px;
+            .post{
+                // min-width: 100%;
+                // min-width: ($post_col_width * 2) + ($post_content_padding * 2);
+                
+                
+                padding: $post_padding 0px $post_padding $post_padding;
+                
+                
+                .post-content{
+                    border-style: solid;
+                    border-width: $post_content_padding;
+                    border-color: $background_alt;
+                    
+                    background-color: $background;
+                    
+                    display: flex;
+                    width: 100%;
+                    height: 100%;
+                    
+                    
+                    .post-banner{
+                        $post_banner_col_width: $post_col_width - ($post_col_width / 6);
+
+                        width: $post_banner_col_width;
+                        padding: 30px;
+                        // height: 100px;
                         
-                        
-                        // }
+                        .center-img-outer{
+                            width: 100%;
+                            height: 100%;
+                            padding-top: 100%;
+                            position: relative;
+                            
+                            .center-img-inner{
+                                position: absolute;
+                                top: 0;
+                                left: 0;
+                                bottom: 0;
+                                right: 0;
+                                // background-color: orange;
+                                
+                                img{
+                                    border-radius: 10px;
+                                    box-shadow: 0 0px 15px 0px $border_col;
+                                    
+                                    position:absolute;
+                                    margin:auto;
+                                    top:0;
+                                    right:0;
+                                    bottom:0;
+                                    left:0;
+                                    max-height:100%;
+                                    max-width:100%;                                 
+                                }
+                            }
+                        }
                     }
                     .post-detail{
                         border-top: $border_line;
@@ -246,188 +254,188 @@ body{
                                     font-size: 24px;
                                 }
                                 // label{
-                                //     a{
-                                //         &:hover{
-
-                                //         }
-                                //     }
-                                // }
-                            }
-                        }
-                        .post-shares{
-                            padding: $padding_small;
-                            display: flex;
-                            // justify-content: space-evenly;
-                            > *{
-                                margin-right: 10px;
-                            }
-                        }
-                        .post-desc{
-                            padding: $padding_small;
-                        }
-                        .post-attributes, .post-tags{
-                            margin: 0px;
-                            padding: 5px 10px 10px 10px;
-                            list-style: none;
-
-                            > li{
-                                padding: 3px;
-                                display: inline-block;
-
-                                border: 1px solid darken($primary, 20);
-                                color: $background;
-                                background-color: $primary;
-                                
-                                margin-right: 3px;
-                                border-radius: 3px;       
-                                
-                                margin-top: 5px;
-
-                                &.license, &.lang{
-                                    color: $primary;
-                                    background-color: $background;
+                                    //     a{
+                                        //         &:hover{
+                                            
+                                            //         }
+                                            //     }
+                                            // }
+                                        }
+                                    }
+                                    .post-shares{
+                                        padding: $padding_small;
+                                        display: flex;
+                                        // justify-content: space-evenly;
+                                        > *{
+                                            margin-right: 10px;
+                                        }
+                                    }
+                                    .post-desc{
+                                        padding: $padding_small;
+                                    }
+                                    .post-attributes, .post-tags{
+                                        margin: 0px;
+                                        padding: 5px 10px 10px 10px;
+                                        list-style: none;
+                                        
+                                        > li{
+                                            padding: 3px;
+                                            display: inline-block;
+                                            
+                                            border: 1px solid darken($primary, 20);
+                                            color: $background;
+                                            background-color: $primary;
+                                            
+                                            margin-right: 3px;
+                                            border-radius: 3px;       
+                                            
+                                            margin-top: 5px;
+                                            
+                                            &.license, &.lang{
+                                                color: $primary;
+                                                background-color: $background;
+                                            }
+                                            
+                                            // &.tag{
+                                                //     text-transform: lowercase;
+                                                // }
+                                            }
+                                        }
+                                    }
                                 }
-
-                                // &.tag{
-                                //     text-transform: lowercase;
-                                // }
+                                // margin-left: 30px;
+                                // height: 100%;
+                                
+                                
+                            }
+                        }
+                        #all-entries-roll{
+                            $roll_height: 140px;
+                            $roll_padding: 20px;
+                            
+                            min-height: $roll_height;
+                            max-height: $roll_height;
+                            padding-top: $roll_padding - 5px; // scroll bar space add to buttom
+                            padding-bottom: $roll_padding + 5px;
+                            padding-left: 30px;
+                            padding-right: 30px;
+                            
+                            border-top: $border_line;
+                            
+                            background-color: $background_alt;
+                            display: flex;
+                            
+                            overflow-y: hidden;
+                            overflow-x: scroll;
+                            
+                            
+                            &::after{
+                                content: ' ';
+                                min-width: 15px;
+                                
+                            }
+                            
+                            .roll-entry{
+                                border: $border_line;
+                                // border-style: solid;
+                                // border-color: $background_alt;
+                                // border-width: 10px;
+                                
+                                background-color: $background;
+                                margin-right: $roll_padding;
+                                
+                                $entry_size: ($roll_height - ($roll_padding * 2));
+                                $roll_entry_padding: 8px;
+                                // max-height: $entry_size;
+                                // max-width: $entry_size;
+                                // min-height: $entry_size;
+                                // min-width: $entry_size;
+                                width: 100%;
+                                height: $entry_size;
+                                min-width: $entry_size;
+                                min-height: $entry_size;
+                                
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                
+                                cursor: pointer;
+                                
+                                padding: $roll_entry_padding;
+                                
+                                &.in-view{
+                                    border-color: $primary;
+                                    border-width: 5px;
+                                }
+                                
+                                .roll-entry-content{
+                                    
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: center;                    
+                                    
+                                    // min-width: $post_col_width;
+                                    min-width: $entry_size - ($roll_entry_padding * 2);
+                                    //$entry_size;
+                                    width: $entry_size - ($roll_entry_padding * 2);
+                                    height: $entry_size - ($roll_entry_padding * 2);
+                                    
+                                    img{
+                                        max-height: 100%;
+                                        max-width: 100%;
+                                        flex: none;
+                                    }
+                                }
+                                
+                            }
+                        }
+                        #footer{
+                            height: 48px;
+                            max-height: 48px;
+                            padding: 15px 30px 15px 30px;
+                            justify-content: space-between;
+                            display: flex;
+                            background-color: $footer_background;
+                            border-top: $border_line;
+                            border-top-color: darken($primary, 30);
+                            a:hover{
+                                color: lighten($color: $foreground, $amount: 20);                
+                            }
+                            
+                            .me{
+                                i{
+                                    color: #f44336;
+                                }
+                            }
+                            .contributors{
+                                i{
+                                    color: #ffeb3b;
+                                }
+                            }
+                            .home{
+                                i{
+                                    color: $primary;
+                                }
+                            }
+                            
+                            #contributor_name{
+                                display: inline-block;
+                                vertical-align: bottom;
+                                $width: 120px;
+                                min-width: $width;
+                                max-width: $width;
+                                width: $width;
+                                overflow: hidden;
+                                text-overflow: ellipsis;
+                                
+                                transition: all ease 0.8s;
+                                opacity: 1;
+                                &.hide{
+                                    opacity: 0;
+                                    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+                                }
                             }
                         }
                     }
-                }
-                // margin-left: 30px;
-                // height: 100%;
-                
-                
-            }
-        }
-        #all-entries-roll{
-            $roll_height: 140px;
-            $roll_padding: 20px;
-            
-            min-height: $roll_height;
-            max-height: $roll_height;
-            padding-top: $roll_padding - 5px; // scroll bar space add to buttom
-            padding-bottom: $roll_padding + 5px;
-            padding-left: 30px;
-            padding-right: 30px;
-            
-            border-top: $border_line;
-            
-            background-color: $background_alt;
-            display: flex;
-            
-            overflow-y: hidden;
-            overflow-x: scroll;
-            
-            
-            &::after{
-                content: ' ';
-                min-width: 15px;
-                
-            }
-            
-            .roll-entry{
-                border: $border_line;
-                // border-style: solid;
-                // border-color: $background_alt;
-                // border-width: 10px;
-                
-                background-color: $background;
-                margin-right: $roll_padding;
-                
-                $entry_size: ($roll_height - ($roll_padding * 2));
-                $roll_entry_padding: 8px;
-            // max-height: $entry_size;
-                // max-width: $entry_size;
-                // min-height: $entry_size;
-                // min-width: $entry_size;
-                width: 100%;
-                height: $entry_size;
-                min-width: $entry_size;
-                min-height: $entry_size;
-                
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                
-                cursor: pointer;
-                
-                padding: $roll_entry_padding;
-                
-                &.in-view{
-                    border-color: $primary;
-                    border-width: 5px;
-                }
-                
-                .roll-entry-content{
                     
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;                    
                     
-                    // min-width: $post_col_width;
-                    min-width: $entry_size - ($roll_entry_padding * 2);
-                    //$entry_size;
-                    width: $entry_size - ($roll_entry_padding * 2);
-                    height: $entry_size - ($roll_entry_padding * 2);
-
-                    img{
-                        max-height: 100%;
-                        max-width: 100%;
-                        flex: none;
-                    }
-                }
-                
-            }
-        }
-        #footer{
-            height: 48px;
-            max-height: 48px;
-            padding: 15px 30px 15px 30px;
-            justify-content: space-between;
-            display: flex;
-            background-color: $footer_background;
-            border-top: $border_line;
-            border-top-color: darken($primary, 30);
-            a:hover{
-                color: lighten($color: $foreground, $amount: 20);                
-            }
-
-            .me{
-                i{
-                    color: #f44336;
-                }
-            }
-            .contributors{
-                i{
-                    color: #ffeb3b;
-                }
-            }
-            .home{
-                i{
-                    color: $primary;
-                }
-            }
-
-            #contributor_name{
-                display: inline-block;
-                vertical-align: bottom;
-                $width: 120px;
-                min-width: $width;
-                max-width: $width;
-                width: $width;
-                overflow: hidden;
-                text-overflow: ellipsis;
-
-                transition: all ease 0.8s;
-                opacity: 1;
-                &.hide{
-                    opacity: 0;
-                    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
-                }
-            }
-        }
-    }
-    
-    
