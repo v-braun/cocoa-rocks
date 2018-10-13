@@ -408,3 +408,136 @@ body{
         }
     }
 }
+
+@media (max-width: 768px) { 
+    body #body{
+        flex-direction: column;
+        overflow-x: hidden;
+        overflow-y: auto;
+
+        .post{
+            padding: 0px;
+            padding:20px;
+            background-color: $background_alt;
+
+            .post-content{
+                flex-direction: column;
+
+                $banner_padding: 30px;
+                $banner_height_inner: 275px;
+
+                $header_height_outer: 100px;
+                $desc_height_outer: 64px;
+
+                $meta_row2_height: 36px;
+
+                border: none;
+                border: $border_line;
+
+
+
+                .post-banner{
+                    order: 2;
+                    /* 2 x 30px padding! */
+                    height: $banner_height_inner; 
+                    // margin-top: -($banner_height_inner * 2);
+                    width: auto;
+                    position: relative;
+                    
+                    top: - (($meta_row2_height * 3));
+
+                    .center-img-outer{
+                        padding-top: initial;
+                    }
+                }
+
+                .post-detail{
+                    order: 1;
+                    display: flex;
+                    flex-direction: column;
+                    border-top: none;
+                    border-right: none;
+                    border-bottom: none;
+                    padding: 0px;
+
+                    .post-header{
+                        // margin-top: ($header_height_outer + $desc_height_outer) * -2;
+                        order: 1;
+
+                        padding-bottom: 0px;
+
+                        img.avatar{
+                            width: 40px;
+                            height: 40px;
+                            border-radius: 20px;
+                        }
+
+                        .title{
+                            h1{
+                                font-size: 16px;
+                            }
+                            label{
+                                font-size: 12px;
+                            }
+                        }
+                        
+                    }
+                    .post-shares{
+                        order: 3;
+                        height: $meta_row2_height;
+
+                        padding: 5px 10px 5px 10px;
+                        // padding: 0px;
+                        // padding-left: 10px;
+                        // padding-right: 10px;
+
+                        position: relative;
+                        top: $banner_height_inner ;
+
+                        > a{
+                            min-width: 70px;
+                            flex-grow: 1;
+
+                            &:last-child{
+                                margin-right: 0px;
+                            }
+                        }
+                        
+                    }
+                    .post-desc{
+                        order: 2;
+                        font-size: 12px;
+
+                        // margin-bottom: $banner_height_inner;
+                    }
+                    .post-attributes{
+                        order: 4;
+                        height: $meta_row2_height;
+
+                        font-size: 10px;
+                        // padding: 0px;
+                        // padding-left: 10px;
+                        // padding-right: 10px;
+                        padding: 5px 10px 0px 10px;
+
+                        position: relative;
+                        top: $banner_height_inner ;
+                    }
+                    .post-tags{
+                        order: 5;
+                        height: $meta_row2_height;
+
+                        font-size: 10px;
+                        // padding: 0px;
+                        // padding-left: 10px;
+                        // padding-right: 10px;
+                        padding: 0px 10px 10px 10px;
+
+                        position: relative;
+                        top: $banner_height_inner ;
+                    }                    
+                }
+            }
+        }
+    }
+}
