@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/efremidze/Shiny",
+    "banner": "https://thumbs.gfycat.com/NewGrotesqueKitten-size_restricted.gif",
+    "images": [],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-13T08:32:58.245Z",
+    "github": {
+      "name": "Shiny",
+      "full_name": "efremidze/Shiny",
+      "html_url": "https://github.com/efremidze/Shiny",
+      "description": "Iridescent Effect View (inspired by Apple Pay Cash) ✨",
+      "created_at": "2017-12-09T03:14:14Z",
+      "updated_at": "2018-10-05T19:46:33Z",
+      "pushed_at": "2018-10-04T03:11:09Z",
+      "language": "Swift",
+      "forks_count": 25,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 575,
+      "owner": {
+        "login": "efremidze",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/2286277?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/efremidze"
+      }
+    },
+    "github_updated_at": "2018-10-13T08:32:58.784Z"
+  },
+  {
     "repo": "https://github.com/Ramotion/animated-tab-bar",
     "banner": "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/RAMAnimatedTabBarDemo.gif",
     "images": [
