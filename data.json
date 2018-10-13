@@ -1,6 +1,17 @@
 [
 
     {
+        "repo": "https://github.com/tdscientist/ShelfView-iOS",
+        "banner": "https://raw.githubusercontent.com/tdscientist/ShelfView-iOS/master/iphone.png",
+        "images": [
+            "https://raw.githubusercontent.com/tdscientist/ShelfView-iOS/master/ipad.png"
+        ],
+        "tags": [
+            "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/efremidze/Shiny",
         "banner": "https://thumbs.gfycat.com/NewGrotesqueKitten-size_restricted.gif",
         "images": [

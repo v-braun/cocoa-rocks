@@ -1,5 +1,40 @@
 [
   {
+    "repo": "https://github.com/tdscientist/ShelfView-iOS",
+    "banner": "https://raw.githubusercontent.com/tdscientist/ShelfView-iOS/master/iphone.png",
+    "images": [
+      "https://raw.githubusercontent.com/tdscientist/ShelfView-iOS/master/ipad.png"
+    ],
+    "tags": [
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-13T08:34:08.447Z",
+    "github": {
+      "name": "ShelfView-iOS",
+      "full_name": "tdscientist/ShelfView-iOS",
+      "html_url": "https://github.com/tdscientist/ShelfView-iOS",
+      "description": "iOS custom view to display books on shelf",
+      "created_at": "2017-09-23T16:51:56Z",
+      "updated_at": "2018-09-10T02:05:45Z",
+      "pushed_at": "2017-10-03T09:01:00Z",
+      "language": "Swift",
+      "forks_count": 23,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 225,
+      "owner": {
+        "login": "tdscientist",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/6681855?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/tdscientist"
+      }
+    },
+    "github_updated_at": "2018-10-13T08:34:09.023Z"
+  },
+  {
     "repo": "https://github.com/efremidze/Shiny",
     "banner": "https://thumbs.gfycat.com/NewGrotesqueKitten-size_restricted.gif",
     "images": [],
