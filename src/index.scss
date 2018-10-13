@@ -410,6 +410,32 @@ body{
 }
 
 @media (max-width: 768px) { 
+    body{
+        display: block;
+    }
+    body #header{
+        padding-left: 20px;
+
+        $logo_size: 80px;
+
+        .logo{
+            min-width: $logo_size;
+            min-height: $logo_size;
+            max-width: $logo_size;
+            max-height: $logo_size;
+            padding: 15px;
+        }
+        .contribute{
+            font-size: 12px;
+        }
+    }
+    body .filter{
+        height: auto;
+        > .choices{
+            display: none;
+        }
+    }
+    
     body #body{
         flex-direction: column;
         overflow-x: hidden;
@@ -417,7 +443,8 @@ body{
 
         .post{
             padding: 0px;
-            padding:20px;
+            padding: 20px 20px 0px 20px;
+            
             background-color: $background_alt;
 
             .post-content{
@@ -538,6 +565,28 @@ body{
                     }                    
                 }
             }
+        }
+    }
+
+    body #all-entries-roll{
+        display: none;
+    }
+
+    body #footer{
+        font-size: 10px;
+        padding: 10px;
+        width: 100%;        
+        position: fixed;
+        bottom: 0px;
+        height: auto;
+        
+        .contributors{
+            #contributor_name{
+                max-width: initial;
+                min-width: initial;
+                width: initial;
+            }
+            
         }
     }
 }
