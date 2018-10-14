@@ -1,5 +1,13 @@
 [
-
+    {
+        "repo": "https://github.com/younatics/YNExpandableCell",
+        "banner": "https://raw.githubusercontent.com/younatics/YNExpandableCell/master/Images/demo.gif",
+        "images": [],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": ["iOS"]
+    },
     {
         "repo": "https://github.com/tdscientist/ShelfView-iOS",
         "banner": "https://raw.githubusercontent.com/tdscientist/ShelfView-iOS/master/iphone.png",

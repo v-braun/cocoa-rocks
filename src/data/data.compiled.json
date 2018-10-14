@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/younatics/YNExpandableCell",
+    "banner": "https://raw.githubusercontent.com/younatics/YNExpandableCell/master/Images/demo.gif",
+    "images": [],
+    "tags": [
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-14T11:20:25.108Z",
+    "github": {
+      "name": "YNExpandableCell",
+      "full_name": "younatics/YNExpandableCell",
+      "html_url": "https://github.com/younatics/YNExpandableCell",
+      "description": "✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4",
+      "created_at": "2017-03-11T00:56:17Z",
+      "updated_at": "2018-10-06T17:43:19Z",
+      "pushed_at": "2017-09-12T03:53:57Z",
+      "language": "Swift",
+      "forks_count": 33,
+      "open_issues_count": 5,
+      "license": "MIT",
+      "watchers": 380,
+      "owner": {
+        "login": "younatics",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/6335975?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/younatics"
+      }
+    },
+    "github_updated_at": "2018-10-14T11:20:25.668Z"
+  },
+  {
     "repo": "https://github.com/tdscientist/ShelfView-iOS",
     "banner": "https://raw.githubusercontent.com/tdscientist/ShelfView-iOS/master/iphone.png",
     "images": [
