@@ -1,6 +1,18 @@
 [
 
     {
+        "repo": "https://github.com/Touchwonders/Transition",
+        "banner": "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/navigation.gif",
+        "images": [
+            "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif",
+            "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/modal.gif"
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/xmartlabs/XLActionController",
         "banner": "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_twitter.gif",
         "images": [
