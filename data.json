@@ -1,6 +1,22 @@
 [
 
     {
+        "repo": "https://github.com/xmartlabs/XLActionController",
+        "banner": "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_twitter.gif",
+        "images": [
+            "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_spotify.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_twitter.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_tweetbot.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_periscope.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_youtube.gif",
+            "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_skype.gif"
+        ],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/AladinWay/TransitionButton",
         "banner": "http://itechnodev.com/img/success.gif",
         "images": [

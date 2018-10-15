@@ -1,5 +1,45 @@
 [
   {
+    "repo": "https://github.com/xmartlabs/XLActionController",
+    "banner": "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_twitter.gif",
+    "images": [
+      "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_spotify.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_twitter.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_tweetbot.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_periscope.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_youtube.gif",
+      "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_skype.gif"
+    ],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-15T10:47:28.182Z",
+    "github": {
+      "name": "XLActionController",
+      "full_name": "xmartlabs/XLActionController",
+      "html_url": "https://github.com/xmartlabs/XLActionController",
+      "description": "Fully customizable and extensible action sheet controller written in Swift",
+      "created_at": "2015-12-10T18:54:00Z",
+      "updated_at": "2018-10-13T19:28:15Z",
+      "pushed_at": "2018-10-01T18:37:21Z",
+      "language": "Swift",
+      "forks_count": 281,
+      "open_issues_count": 24,
+      "license": "MIT",
+      "watchers": 2726,
+      "owner": {
+        "login": "xmartlabs",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2227731?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/xmartlabs"
+      }
+    },
+    "github_updated_at": "2018-10-15T10:47:28.763Z"
+  },
+  {
     "repo": "https://github.com/AladinWay/TransitionButton",
     "banner": "http://itechnodev.com/img/success.gif",
     "images": [
