@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/Touchwonders/Transition",
+    "banner": "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/navigation.gif",
+    "images": [
+      "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif",
+      "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/modal.gif"
+    ],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-15T15:53:16.213Z",
+    "github": {
+      "name": "Transition",
+      "full_name": "Touchwonders/Transition",
+      "html_url": "https://github.com/Touchwonders/Transition",
+      "description": "Easy interactive interruptible custom ViewController transitions",
+      "created_at": "2017-03-13T15:31:36Z",
+      "updated_at": "2018-10-15T06:46:07Z",
+      "pushed_at": "2018-10-15T06:46:06Z",
+      "language": "Swift",
+      "forks_count": 82,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 2073,
+      "owner": {
+        "login": "Touchwonders",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/1422462?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Touchwonders"
+      }
+    },
+    "github_updated_at": "2018-10-15T15:53:16.778Z"
+  },
+  {
     "repo": "https://github.com/xmartlabs/XLActionController",
     "banner": "https://raw.githubusercontent.com/xmartlabs/XLActionController/master/Media/demo_twitter.gif",
     "images": [
