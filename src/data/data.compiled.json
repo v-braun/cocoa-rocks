@@ -1,5 +1,43 @@
 [
   {
+    "repo": "https://github.com/PaoloCuscela/Cards",
+    "banner": "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/DetailView.gif",
+    "images": [
+      "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/GetStarted.png",
+      "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/CardPlayer.gif",
+      "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/CardGroupSliding.gif"
+    ],
+    "tags": [
+      "Cards",
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-16T19:21:07.410Z",
+    "github": {
+      "name": "Cards",
+      "full_name": "PaoloCuscela/Cards",
+      "html_url": "https://github.com/PaoloCuscela/Cards",
+      "description": "Awesome iOS 11 appstore cards in swift 4.",
+      "created_at": "2017-10-10T17:37:26Z",
+      "updated_at": "2018-10-16T16:30:21Z",
+      "pushed_at": "2018-10-08T10:01:19Z",
+      "language": "Swift",
+      "forks_count": 178,
+      "open_issues_count": 13,
+      "license": "MIT",
+      "watchers": 3009,
+      "owner": {
+        "login": "PaoloCuscela",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/23332257?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/PaoloCuscela"
+      }
+    },
+    "github_updated_at": "2018-10-16T19:21:08.213Z"
+  },
+  {
     "repo": "https://github.com/Touchwonders/Transition",
     "banner": "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/navigation.gif",
     "images": [

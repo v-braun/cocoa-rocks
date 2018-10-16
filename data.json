@@ -1,6 +1,20 @@
 [
 
     {
+        "repo": "https://github.com/PaoloCuscela/Cards",
+        "banner": "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/DetailView.gif",
+        "images": [
+            "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/GetStarted.png",
+            "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/CardPlayer.gif",
+            "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/CardGroupSliding.gif"
+        ],
+        "tags": [
+            "Cards",
+            "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/Touchwonders/Transition",
         "banner": "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/navigation.gif",
         "images": [
