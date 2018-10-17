@@ -1,6 +1,19 @@
 [
 
     {
+        "repo": "https://github.com/tsucres/SwiftyComments",
+        "banner": "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/HNExample.gif",
+        "images": [
+            "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/ImgurExample.gif",
+            "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/HNSwipe.gif",
+            "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/RedditSwipe.gif"
+        ],
+        "tags": [
+            "TableView", "TreeView"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/ElaWorkshop/TagListView",
         "banner": "https://raw.githubusercontent.com/ElaWorkshop/TagListView/master/Screenshots/Screenshot.png",
         "images": [

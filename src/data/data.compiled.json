@@ -1,5 +1,43 @@
 [
   {
+    "repo": "https://github.com/tsucres/SwiftyComments",
+    "banner": "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/HNExample.gif",
+    "images": [
+      "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/ImgurExample.gif",
+      "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/HNSwipe.gif",
+      "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/RedditSwipe.gif"
+    ],
+    "tags": [
+      "TableView",
+      "TreeView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-17T18:19:20.510Z",
+    "github": {
+      "name": "SwiftyComments",
+      "full_name": "tsucres/SwiftyComments",
+      "html_url": "https://github.com/tsucres/SwiftyComments",
+      "description": "UITableView based component designed to display a hierarchy of expandable/foldable comments.",
+      "created_at": "2017-10-10T13:31:29Z",
+      "updated_at": "2018-10-07T09:05:36Z",
+      "pushed_at": "2018-08-05T11:03:49Z",
+      "language": "Swift",
+      "forks_count": 4,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 69,
+      "owner": {
+        "login": "tsucres",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/4283008?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/tsucres"
+      }
+    },
+    "github_updated_at": "2018-10-17T18:19:22.409Z"
+  },
+  {
     "repo": "https://github.com/ElaWorkshop/TagListView",
     "banner": "https://raw.githubusercontent.com/ElaWorkshop/TagListView/master/Screenshots/Screenshot.png",
     "images": [],
