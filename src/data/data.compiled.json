@@ -1,5 +1,40 @@
 [
   {
+    "repo": "https://github.com/hyperoslo/Lightbox",
+    "banner": "https://raw.githubusercontent.com/hyperoslo/Lightbox/master/Images/demo.png",
+    "images": [
+      "https://raw.githubusercontent.com/hyperoslo/Lightbox/master/Images/demo2.png"
+    ],
+    "tags": [
+      "ImageView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-18T17:52:40.868Z",
+    "github": {
+      "name": "Lightbox",
+      "full_name": "hyperoslo/Lightbox",
+      "html_url": "https://github.com/hyperoslo/Lightbox",
+      "description": ":milky_way: A convenient and easy to use image viewer for your iOS app",
+      "created_at": "2015-06-30T12:28:01Z",
+      "updated_at": "2018-10-18T16:44:26Z",
+      "pushed_at": "2018-10-16T09:44:19Z",
+      "language": "Swift",
+      "forks_count": 123,
+      "open_issues_count": 30,
+      "license": "NOASSERTION",
+      "watchers": 854,
+      "owner": {
+        "login": "hyperoslo",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/1340892?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/hyperoslo"
+      }
+    },
+    "github_updated_at": "2018-10-18T17:52:41.462Z"
+  },
+  {
     "repo": "https://github.com/sindresorhus/CircularProgress",
     "banner": "https://raw.githubusercontent.com/sindresorhus/CircularProgress/master/screenshot.gif",
     "images": [],

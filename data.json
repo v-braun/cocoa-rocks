@@ -1,5 +1,15 @@
 [
-    
+    {
+        "repo": "https://github.com/hyperoslo/Lightbox",
+        "banner": "https://raw.githubusercontent.com/hyperoslo/Lightbox/master/Images/demo.png",
+        "images": [
+            "https://raw.githubusercontent.com/hyperoslo/Lightbox/master/Images/demo2.png"
+        ],
+        "tags": [
+            "ImageView"
+        ],
+        "paltforms": ["iOS"]
+    },    
     {
         "repo": "https://github.com/sindresorhus/CircularProgress",
         "banner": "https://raw.githubusercontent.com/sindresorhus/CircularProgress/master/screenshot.gif",
