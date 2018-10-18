@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/sindresorhus/CircularProgress",
+    "banner": "https://raw.githubusercontent.com/sindresorhus/CircularProgress/master/screenshot.gif",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "macOS"
+    ],
+    "created_at": "2018-10-18T17:46:36.074Z",
+    "github": {
+      "name": "CircularProgress",
+      "full_name": "sindresorhus/CircularProgress",
+      "html_url": "https://github.com/sindresorhus/CircularProgress",
+      "description": "Circular progress indicator for your macOS app",
+      "created_at": "2018-10-18T10:31:42Z",
+      "updated_at": "2018-10-18T17:23:58Z",
+      "pushed_at": "2018-10-18T11:28:05Z",
+      "language": "Swift",
+      "forks_count": 0,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 29,
+      "owner": {
+        "login": "sindresorhus",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/170270?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/sindresorhus"
+      }
+    },
+    "github_updated_at": "2018-10-18T17:46:36.608Z"
+  },
+  {
     "repo": "https://github.com/T-Pham/Switch",
     "banner": "https://raw.githubusercontent.com/T-Pham/Switch/master/switch.gif",
     "images": [],
