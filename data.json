@@ -1,6 +1,16 @@
 [
 
     {
+        "repo": "https://github.com/T-Pham/Switch",
+        "banner": "https://raw.githubusercontent.com/T-Pham/Switch/master/switch.gif",
+        "images": [
+        ],
+        "tags": [
+            "Toggle"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/tsucres/SwiftyComments",
         "banner": "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/HNExample.gif",
         "images": [

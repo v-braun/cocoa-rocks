@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/T-Pham/Switch",
+    "banner": "https://raw.githubusercontent.com/T-Pham/Switch/master/switch.gif",
+    "images": [],
+    "tags": [
+      "Toggle"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-18T17:41:46.450Z",
+    "github": {
+      "name": "Switch",
+      "full_name": "T-Pham/Switch",
+      "html_url": "https://github.com/T-Pham/Switch",
+      "description": "An iOS switch control implemented in Swift with full Interface Builder support.",
+      "created_at": "2016-08-29T07:25:21Z",
+      "updated_at": "2018-10-16T22:10:52Z",
+      "pushed_at": "2018-07-28T07:11:37Z",
+      "language": "Swift",
+      "forks_count": 12,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 93,
+      "owner": {
+        "login": "T-Pham",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/1930855?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/T-Pham"
+      }
+    },
+    "github_updated_at": "2018-10-18T17:41:47.046Z"
+  },
+  {
     "repo": "https://github.com/tsucres/SwiftyComments",
     "banner": "https://raw.githubusercontent.com/tsucres/SwiftyComments/master/Screenshots/HNExample.gif",
     "images": [
