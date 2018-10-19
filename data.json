@@ -1,6 +1,17 @@
 [
 
     {
+        "repo": "https://github.com/yysskk/SwipeMenuViewController",
+        "banner": "https://raw.githubusercontent.com/yysskk/Assets/master/SwipeMenuViewController/demo_flexible.gif",
+        "images": [
+            "https://raw.githubusercontent.com/yysskk/Assets/master/SwipeMenuViewController/demo_segmented.gif"
+        ],
+        "tags": [
+            "Menu", "Navigation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/stuffrabbit/SwiftSpreadsheet",
         "banner": "https://thumbs.gfycat.com/SilentLightheartedAmmonite-size_restricted.gif",
         "images": [],
