@@ -1,5 +1,14 @@
 [
-
+    {
+        "repo": "https://github.com/Yalantis/PullToMakeSoup",
+        "banner": "https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif",
+        "images": [
+        ],
+        "tags": [
+            "PullToRefresh"
+        ],
+        "paltforms": ["iOS"]
+    },
     {
         "repo": "https://github.com/yysskk/SwipeMenuViewController",
         "banner": "https://raw.githubusercontent.com/yysskk/Assets/master/SwipeMenuViewController/demo_flexible.gif",

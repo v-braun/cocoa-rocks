@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/Yalantis/PullToMakeSoup",
+    "banner": "https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif",
+    "images": [],
+    "tags": [
+      "PullToRefresh"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-19T16:42:15.507Z",
+    "github": {
+      "name": "PullToMakeSoup",
+      "full_name": "Yalantis/PullToMakeSoup",
+      "html_url": "https://github.com/Yalantis/PullToMakeSoup",
+      "description": "Custom animated pull-to-refresh that can be easily added to UIScrollView",
+      "created_at": "2015-05-21T16:00:32Z",
+      "updated_at": "2018-10-18T08:33:09Z",
+      "pushed_at": "2018-06-22T20:52:57Z",
+      "language": "Objective-C",
+      "forks_count": 220,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 1838,
+      "owner": {
+        "login": "Yalantis",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/752338?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Yalantis"
+      }
+    },
+    "github_updated_at": "2018-10-19T16:42:16.118Z"
+  },
+  {
     "repo": "https://github.com/yysskk/SwipeMenuViewController",
     "banner": "https://raw.githubusercontent.com/yysskk/Assets/master/SwipeMenuViewController/demo_flexible.gif",
     "images": [
