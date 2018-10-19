@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/stuffrabbit/SwiftSpreadsheet",
+    "banner": "https://thumbs.gfycat.com/SilentLightheartedAmmonite-size_restricted.gif",
+    "images": [],
+    "tags": [
+      "CollectionView",
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-19T16:18:06.664Z",
+    "github": {
+      "name": "SwiftSpreadsheet",
+      "full_name": "stuffrabbit/SwiftSpreadsheet",
+      "html_url": "https://github.com/stuffrabbit/SwiftSpreadsheet",
+      "description": "Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶",
+      "created_at": "2017-03-23T20:21:31Z",
+      "updated_at": "2018-10-15T02:38:32Z",
+      "pushed_at": "2018-08-20T16:37:22Z",
+      "language": "Swift",
+      "forks_count": 25,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 449,
+      "owner": {
+        "login": "stuffrabbit",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/3471874?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/stuffrabbit"
+      }
+    },
+    "github_updated_at": "2018-10-19T16:18:07.245Z"
+  },
+  {
     "repo": "https://github.com/hyperoslo/Lightbox",
     "banner": "https://raw.githubusercontent.com/hyperoslo/Lightbox/master/Images/demo.png",
     "images": [
