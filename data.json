@@ -1,4 +1,23 @@
 [
+
+    {
+        "repo": "https://github.com/SwipeCellKit/SwipeCellKit",
+        "banner": "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif",
+        "images": [
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Transition-Border.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Transition-Drag.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Transition-Reveal.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Transition-Delegate.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Expansion-None.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Expansion-Selection.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Expansion-Destructive.gif",
+            "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Expansion-Delegate.gif"
+        ],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": ["iOS"]
+    },    
     {
         "repo": "https://github.com/Yalantis/PullToMakeSoup",
         "banner": "https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif",
