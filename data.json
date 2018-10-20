@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/Yalantis/Koloda",
+        "banner": "https://github.com/Yalantis/Koloda/raw/master/Koloda_v2_example_animation.gif",
+        "images": [
+            "https://github.com/Yalantis/Koloda/raw/master/Koloda_v1_example_animation.gif"
+        ],
+        "tags": [
+            "Cards"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/ruipfcosta/SwiftyWalkthrough",
         "banner": "https://raw.githubusercontent.com/ruipfcosta/SwiftyWalkthrough/master/extras/demo.gif",
         "images": [
