@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/telly/TLYShyNavBar",
+        "banner": "https://github.com/telly/TLYShyNavBar/raw/master/resources/battle-tested-demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "TabBar"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/Yalantis/Koloda",
         "banner": "https://github.com/Yalantis/Koloda/raw/master/Koloda_v2_example_animation.gif",
         "images": [
@@ -9,7 +19,7 @@
             "Cards"
         ],
         "paltforms": ["iOS"]
-    },    
+    },
     {
         "repo": "https://github.com/ruipfcosta/SwiftyWalkthrough",
         "banner": "https://raw.githubusercontent.com/ruipfcosta/SwiftyWalkthrough/master/extras/demo.gif",
