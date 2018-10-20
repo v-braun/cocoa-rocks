@@ -1,5 +1,40 @@
 [
   {
+    "repo": "https://github.com/ruipfcosta/SwiftyWalkthrough",
+    "banner": "https://raw.githubusercontent.com/ruipfcosta/SwiftyWalkthrough/master/extras/demo.gif",
+    "images": [
+      "https://raw.githubusercontent.com/ruipfcosta/SwiftyWalkthrough/master/extras/demo-mcp.gif"
+    ],
+    "tags": [
+      "Introduction"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-20T09:23:32.287Z",
+    "github": {
+      "name": "SwiftyWalkthrough",
+      "full_name": "ruipfcosta/SwiftyWalkthrough",
+      "html_url": "https://github.com/ruipfcosta/SwiftyWalkthrough",
+      "description": "The easiest way to create a great walkthrough experience in your apps, powered by Swift.",
+      "created_at": "2015-09-30T12:51:22Z",
+      "updated_at": "2018-10-14T22:02:55Z",
+      "pushed_at": "2017-12-28T21:56:12Z",
+      "language": "Swift",
+      "forks_count": 36,
+      "open_issues_count": 6,
+      "license": "MIT",
+      "watchers": 244,
+      "owner": {
+        "login": "ruipfcosta",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/1910006?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ruipfcosta"
+      }
+    },
+    "github_updated_at": "2018-10-20T09:23:32.823Z"
+  },
+  {
     "repo": "https://github.com/SwipeCellKit/SwipeCellKit",
     "banner": "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif",
     "images": [
