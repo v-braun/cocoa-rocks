@@ -2641,7 +2641,8 @@
     "banner": "https://github.com/v-braun/VBRRollingPit/raw/master/screen.gif",
     "images": [],
     "tags": [
-      "TabBar"
+      "TabBar",
+      "Animation"
     ],
     "paltforms": [
       "iOS"
