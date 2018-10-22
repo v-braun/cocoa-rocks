@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/Ramotion/garland-view",
+    "banner": "https://github.com/Ramotion/garland-view/raw/master/garland-view.gif",
+    "images": [],
+    "tags": [
+      "Animation",
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-22T18:17:49.404Z",
+    "github": {
+      "name": "garland-view",
+      "full_name": "Ramotion/garland-view",
+      "html_url": "https://github.com/Ramotion/garland-view",
+      "description": ":octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion",
+      "created_at": "2017-06-15T07:30:38Z",
+      "updated_at": "2018-10-21T16:19:19Z",
+      "pushed_at": "2018-07-03T14:58:22Z",
+      "language": "Swift",
+      "forks_count": 38,
+      "open_issues_count": 4,
+      "license": "MIT",
+      "watchers": 388,
+      "owner": {
+        "login": "Ramotion",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/6028820?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Ramotion"
+      }
+    },
+    "github_updated_at": "2018-10-22T18:17:49.946Z"
+  },
+  {
     "repo": "https://github.com/telly/TLYShyNavBar",
     "banner": "https://github.com/telly/TLYShyNavBar/raw/master/resources/battle-tested-demo.gif",
     "images": [],
