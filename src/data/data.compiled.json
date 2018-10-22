@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/cristi-lupu/CLWaterWaveView",
+    "banner": "https://raw.githubusercontent.com/cristi-lupu/CLWaterWaveView/master/intro.gif",
+    "images": [],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-22T18:19:41.601Z",
+    "github": {
+      "name": "CLWaterWaveView",
+      "full_name": "cristi-lupu/CLWaterWaveView",
+      "html_url": "https://github.com/cristi-lupu/CLWaterWaveView",
+      "description": "A UIView what able to show water wave effect",
+      "created_at": "2018-02-04T11:32:10Z",
+      "updated_at": "2018-10-21T16:27:11Z",
+      "pushed_at": "2018-10-13T07:27:17Z",
+      "language": "Swift",
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 6,
+      "owner": {
+        "login": "cristi-lupu",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/41613812?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cristi-lupu"
+      }
+    },
+    "github_updated_at": "2018-10-22T18:19:42.161Z"
+  },
+  {
     "repo": "https://github.com/Ramotion/garland-view",
     "banner": "https://github.com/Ramotion/garland-view/raw/master/garland-view.gif",
     "images": [],
