@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/efremidze/VisualEffectView",
+        "banner": "https://raw.githubusercontent.com/efremidze/VisualEffectView/master/Images/demo.gif",
+        "images": [
+            
+        ],
+        "tags": [
+            "BlurEffect"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/cristi-lupu/CLWaterWaveView",
         "banner": "https://raw.githubusercontent.com/cristi-lupu/CLWaterWaveView/master/intro.gif",
         "images": [
