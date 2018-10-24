@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/Draveness/NightNight",
+    "banner": "https://raw.githubusercontent.com/Draveness/NightNight/master/images/Demo.gif",
+    "images": [],
+    "tags": [
+      "Style"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-24T16:41:01.611Z",
+    "github": {
+      "name": "NightNight",
+      "full_name": "Draveness/NightNight",
+      "html_url": "https://github.com/Draveness/NightNight",
+      "description": "Elegant way to integrate night mode to swift projects",
+      "created_at": "2016-06-24T12:26:24Z",
+      "updated_at": "2018-10-24T09:31:29Z",
+      "pushed_at": "2018-07-16T17:58:04Z",
+      "language": "Swift",
+      "forks_count": 51,
+      "open_issues_count": 14,
+      "license": "MIT",
+      "watchers": 674,
+      "owner": {
+        "login": "Draveness",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/6493255?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Draveness"
+      }
+    },
+    "github_updated_at": "2018-10-24T16:41:02.269Z"
+  },
+  {
     "repo": "https://github.com/bachonk/InitialsImageView",
     "banner": "https://camo.githubusercontent.com/859bde21dc4f52dd94a16123301712fc95d6b53f/68747470733a2f2f692e696d6775722e636f6d2f4b45384f66724c2e706e67",
     "images": [],
