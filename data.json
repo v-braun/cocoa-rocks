@@ -1,4 +1,15 @@
 [
+    
+    {
+        "repo": "https://github.com/bachonk/InitialsImageView",
+        "banner": "https://camo.githubusercontent.com/859bde21dc4f52dd94a16123301712fc95d6b53f/68747470733a2f2f692e696d6775722e636f6d2f4b45384f66724c2e706e67",
+        "images": [
+        ],
+        "tags": [
+            "ImageView"
+        ],
+        "paltforms": ["iOS"]
+    },        
     {
         "repo": "https://github.com/efremidze/VisualEffectView",
         "banner": "https://raw.githubusercontent.com/efremidze/VisualEffectView/master/Images/demo.gif",

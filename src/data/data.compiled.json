@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/bachonk/InitialsImageView",
+    "banner": "https://camo.githubusercontent.com/859bde21dc4f52dd94a16123301712fc95d6b53f/68747470733a2f2f692e696d6775722e636f6d2f4b45384f66724c2e706e67",
+    "images": [],
+    "tags": [
+      "ImageView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-24T16:38:44.947Z",
+    "github": {
+      "name": "InitialsImageView",
+      "full_name": "bachonk/InitialsImageView",
+      "html_url": "https://github.com/bachonk/InitialsImageView",
+      "description": "A simple UIImageView extension for using initials as a profile image, written in swift",
+      "created_at": "2017-03-25T21:32:51Z",
+      "updated_at": "2018-10-15T12:49:15Z",
+      "pushed_at": "2018-09-28T14:04:10Z",
+      "language": "Swift",
+      "forks_count": 27,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 134,
+      "owner": {
+        "login": "bachonk",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/2530381?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/bachonk"
+      }
+    },
+    "github_updated_at": "2018-10-24T16:38:45.576Z"
+  },
+  {
     "repo": "https://github.com/efremidze/VisualEffectView",
     "banner": "https://raw.githubusercontent.com/efremidze/VisualEffectView/master/Images/demo.gif",
     "images": [],
