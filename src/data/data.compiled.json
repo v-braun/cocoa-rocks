@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/SvenTiigi/FlyoverKit",
+    "banner": "https://raw.githubusercontent.com/SvenTiigi/FlyoverKit/gh-pages/readMeAssets/FlyoverKitExampleApplication.gif",
+    "images": [],
+    "tags": [
+      "Map",
+      "Animation"
+    ],
+    "paltforms": [
+      "macOS"
+    ],
+    "created_at": "2018-10-25T20:30:36.582Z",
+    "github": {
+      "name": "FlyoverKit",
+      "full_name": "SvenTiigi/FlyoverKit",
+      "html_url": "https://github.com/SvenTiigi/FlyoverKit",
+      "description": "360° flyover on an MKMapView 🚁",
+      "created_at": "2018-02-21T11:31:55Z",
+      "updated_at": "2018-10-25T12:09:42Z",
+      "pushed_at": "2018-10-07T16:52:12Z",
+      "language": "Swift",
+      "forks_count": 34,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 554,
+      "owner": {
+        "login": "SvenTiigi",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/11733014?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/SvenTiigi"
+      }
+    },
+    "github_updated_at": "2018-10-25T20:30:37.162Z"
+  },
+  {
     "repo": "https://github.com/sindresorhus/DockProgress",
     "banner": "https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-circle.gif",
     "images": [

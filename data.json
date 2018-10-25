@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/SvenTiigi/FlyoverKit",
+        "banner": "https://raw.githubusercontent.com/SvenTiigi/FlyoverKit/gh-pages/readMeAssets/FlyoverKitExampleApplication.gif",
+        "images": [
+        ],
+        "tags": [
+            "Map", "Animation"
+        ],
+        "paltforms": ["macOS"]
+    },        
+    {
         "repo": "https://github.com/sindresorhus/DockProgress",
         "banner": "https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-circle.gif",
         "images": [
