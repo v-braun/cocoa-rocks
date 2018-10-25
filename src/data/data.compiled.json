@@ -1,5 +1,40 @@
 [
   {
+    "repo": "https://github.com/sindresorhus/DockProgress",
+    "banner": "https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-circle.gif",
+    "images": [
+      "https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-bar.gif"
+    ],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "macOS"
+    ],
+    "created_at": "2018-10-25T20:25:38.973Z",
+    "github": {
+      "name": "DockProgress",
+      "full_name": "sindresorhus/DockProgress",
+      "html_url": "https://github.com/sindresorhus/DockProgress",
+      "description": "Show progress in your app's Dock icon",
+      "created_at": "2018-03-01T20:22:12Z",
+      "updated_at": "2018-10-25T12:14:06Z",
+      "pushed_at": "2018-10-18T11:40:49Z",
+      "language": "Swift",
+      "forks_count": 17,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 469,
+      "owner": {
+        "login": "sindresorhus",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/170270?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/sindresorhus"
+      }
+    },
+    "github_updated_at": "2018-10-25T20:25:39.679Z"
+  },
+  {
     "repo": "https://github.com/Draveness/NightNight",
     "banner": "https://raw.githubusercontent.com/Draveness/NightNight/master/images/Demo.gif",
     "images": [],

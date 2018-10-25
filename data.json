@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/sindresorhus/DockProgress",
+        "banner": "https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-circle.gif",
+        "images": [
+            "https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-bar.gif"
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["macOS"]
+    },        
+    {
         "repo": "https://github.com/Draveness/NightNight",
         "banner": "https://raw.githubusercontent.com/Draveness/NightNight/master/images/Demo.gif",
         "images": [
