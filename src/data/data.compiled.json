@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/cwRichardKim/RKSwipeBetweenViewControllers",
+    "banner": "https://camo.githubusercontent.com/90e2e5abbe8155744d579951b93a1260edef855e/687474703a2f2f692e696d6775722e636f6d2f7a6c66574461312e676966",
+    "images": [],
+    "tags": [
+      "TabBar",
+      "PageControl"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-27T22:29:59.138Z",
+    "github": {
+      "name": "RKSwipeBetweenViewControllers",
+      "full_name": "cwRichardKim/RKSwipeBetweenViewControllers",
+      "html_url": "https://github.com/cwRichardKim/RKSwipeBetweenViewControllers",
+      "description": "Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar",
+      "created_at": "2014-07-26T03:15:33Z",
+      "updated_at": "2018-10-27T12:45:44Z",
+      "pushed_at": "2017-04-16T20:15:06Z",
+      "language": "Objective-C",
+      "forks_count": 163,
+      "open_issues_count": 19,
+      "license": "MIT",
+      "watchers": 1723,
+      "owner": {
+        "login": "cwRichardKim",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/5778691?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cwRichardKim"
+      }
+    },
+    "github_updated_at": "2018-10-27T22:29:59.708Z"
+  },
+  {
     "repo": "https://github.com/SvenTiigi/FlyoverKit",
     "banner": "https://raw.githubusercontent.com/SvenTiigi/FlyoverKit/gh-pages/readMeAssets/FlyoverKitExampleApplication.gif",
     "images": [],
