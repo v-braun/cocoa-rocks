@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/SvenTiigi/STLocationRequest",
+        "banner": "https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest.gif",
+        "images": [
+        ],
+        "tags": [
+            "Map", "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/cwRichardKim/RKSwipeBetweenViewControllers",
         "banner": "https://camo.githubusercontent.com/90e2e5abbe8155744d579951b93a1260edef855e/687474703a2f2f692e696d6775722e636f6d2f7a6c66574461312e676966",
         "images": [
