@@ -1,4 +1,16 @@
 [
+    
+    {
+        "repo": "https://github.com/cruisediary/Comets",
+        "banner": "https://raw.githubusercontent.com/cruisediary/Comets/master/README/comet.gif",
+        "images": [
+            "https://raw.githubusercontent.com/cruisediary/Comets/master/README/Comets.gif"
+        ],
+        "tags": [
+            "Animation", "Particle"
+        ],
+        "paltforms": ["iOS"]
+    },        
     {
         "repo": "https://github.com/jegumhon/URWeatherView",
         "banner": "https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_cloudy.gif?raw=true",

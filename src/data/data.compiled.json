@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/cruisediary/Comets",
+    "banner": "https://raw.githubusercontent.com/cruisediary/Comets/master/README/comet.gif",
+    "images": [
+      "https://raw.githubusercontent.com/cruisediary/Comets/master/README/Comets.gif"
+    ],
+    "tags": [
+      "Animation",
+      "Particle"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-28T11:25:55.117Z",
+    "github": {
+      "name": "Comets",
+      "full_name": "cruisediary/Comets",
+      "html_url": "https://github.com/cruisediary/Comets",
+      "description": "☄️Comets: Animating Particles in Swift",
+      "created_at": "2018-10-09T02:21:25Z",
+      "updated_at": "2018-10-28T08:53:12Z",
+      "pushed_at": "2018-10-28T07:28:20Z",
+      "language": "Swift",
+      "forks_count": 2,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 24,
+      "owner": {
+        "login": "cruisediary",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2609775?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cruisediary"
+      }
+    },
+    "github_updated_at": "2018-10-28T11:25:55.715Z"
+  },
+  {
     "repo": "https://github.com/jegumhon/URWeatherView",
     "banner": "https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_cloudy.gif?raw=true",
     "images": [],
