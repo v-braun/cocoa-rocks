@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/jegumhon/URWeatherView",
+    "banner": "https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_cloudy.gif?raw=true",
+    "images": [],
+    "tags": [
+      "ImageView",
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-28T08:55:55.412Z",
+    "github": {
+      "name": "URWeatherView",
+      "full_name": "jegumhon/URWeatherView",
+      "html_url": "https://github.com/jegumhon/URWeatherView",
+      "description": "Show the weather effects onto view written in Swift3",
+      "created_at": "2017-04-21T09:28:48Z",
+      "updated_at": "2018-10-20T17:42:27Z",
+      "pushed_at": "2017-08-25T07:48:43Z",
+      "language": "Swift",
+      "forks_count": 26,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 377,
+      "owner": {
+        "login": "jegumhon",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/6110163?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jegumhon"
+      }
+    },
+    "github_updated_at": "2018-10-28T08:55:56.010Z"
+  },
+  {
     "repo": "https://github.com/SvenTiigi/STLocationRequest",
     "banner": "https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest.gif",
     "images": [],

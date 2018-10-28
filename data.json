@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/jegumhon/URWeatherView",
+        "banner": "https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_cloudy.gif?raw=true",
+        "images": [
+
+        ],
+        "tags": [
+            "ImageView", "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },        
+    {
         "repo": "https://github.com/SvenTiigi/STLocationRequest",
         "banner": "https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest.gif",
         "images": [
