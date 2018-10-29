@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/keygx/GradientCircularProgress",
+    "banner": "https://raw.githubusercontent.com/keygx/GradientCircularProgress/master/images/scr_BlueDarkStyle_01.png",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-29T20:18:53.728Z",
+    "github": {
+      "name": "GradientCircularProgress",
+      "full_name": "keygx/GradientCircularProgress",
+      "html_url": "https://github.com/keygx/GradientCircularProgress",
+      "description": "Customizable progress indicator library in Swift",
+      "created_at": "2015-06-20T14:58:25Z",
+      "updated_at": "2018-10-26T16:16:36Z",
+      "pushed_at": "2018-10-03T15:02:33Z",
+      "language": "Swift",
+      "forks_count": 54,
+      "open_issues_count": 6,
+      "license": "MIT",
+      "watchers": 292,
+      "owner": {
+        "login": "keygx",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/696949?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/keygx"
+      }
+    },
+    "github_updated_at": "2018-10-29T20:18:54.437Z"
+  },
+  {
     "repo": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
     "banner": "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/showcase-example.gif",
     "images": [

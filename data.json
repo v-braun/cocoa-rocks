@@ -1,4 +1,14 @@
 [
+    {
+        "repo": "https://github.com/keygx/GradientCircularProgress",
+        "banner": "https://raw.githubusercontent.com/keygx/GradientCircularProgress/master/images/scr_BlueDarkStyle_01.png",
+        "images": [
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    },    
 
     {
         "repo": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
