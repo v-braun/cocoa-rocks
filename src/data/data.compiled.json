@@ -1,5 +1,45 @@
 [
   {
+    "repo": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
+    "banner": "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/showcase-example.gif",
+    "images": [
+      "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-1.gif",
+      "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-2.gif",
+      "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-3.gif",
+      "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-4.gif",
+      "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/RTL-example.png"
+    ],
+    "tags": [
+      "TextField",
+      "Material"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-29T20:15:39.189Z",
+    "github": {
+      "name": "SkyFloatingLabelTextField",
+      "full_name": "Skyscanner/SkyFloatingLabelTextField",
+      "html_url": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
+      "description": "A beautiful and flexible text field control implementation of  \"Float Label Pattern\". Written in Swift.",
+      "created_at": "2015-12-21T08:40:49Z",
+      "updated_at": "2018-10-29T13:10:38Z",
+      "pushed_at": "2018-10-23T08:56:14Z",
+      "language": "Swift",
+      "forks_count": 330,
+      "open_issues_count": 37,
+      "license": "Apache-2.0",
+      "watchers": 2968,
+      "owner": {
+        "login": "Skyscanner",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/522811?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Skyscanner"
+      }
+    },
+    "github_updated_at": "2018-10-29T20:15:40.025Z"
+  },
+  {
     "repo": "https://github.com/cruisediary/Comets",
     "banner": "https://raw.githubusercontent.com/cruisediary/Comets/master/README/comet.gif",
     "images": [

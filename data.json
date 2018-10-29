@@ -1,5 +1,20 @@
 [
-    
+
+    {
+        "repo": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
+        "banner": "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/showcase-example.gif",
+        "images": [
+            "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-1.gif",
+            "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-2.gif",
+            "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-3.gif",
+            "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/example-4.gif",
+            "https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/RTL-example.png"
+        ],
+        "tags": [
+            "TextField", "Material"
+        ],
+        "paltforms": ["iOS"]
+    },    
     {
         "repo": "https://github.com/cruisediary/Comets",
         "banner": "https://raw.githubusercontent.com/cruisediary/Comets/master/README/comet.gif",
