@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/simformsolutions/SSSpinnerButton",
+    "banner": "https://raw.githubusercontent.com/simformsolutions/SSSpinnerButton/master/SSSpinnerButton.gif",
+    "images": [],
+    "tags": [
+      "Progress",
+      "Button"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-10-31T17:47:10.890Z",
+    "github": {
+      "name": "SSSpinnerButton",
+      "full_name": "simformsolutions/SSSpinnerButton",
+      "html_url": "https://github.com/simformsolutions/SSSpinnerButton",
+      "description": "Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.",
+      "created_at": "2018-06-05T10:32:59Z",
+      "updated_at": "2018-10-30T06:34:19Z",
+      "pushed_at": "2018-10-30T06:35:13Z",
+      "language": "Swift",
+      "forks_count": 26,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 287,
+      "owner": {
+        "login": "simformsolutions",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/8736329?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/simformsolutions"
+      }
+    },
+    "github_updated_at": "2018-10-31T17:47:12.195Z"
+  },
+  {
     "repo": "https://github.com/keygx/GradientCircularProgress",
     "banner": "https://raw.githubusercontent.com/keygx/GradientCircularProgress/master/images/scr_BlueDarkStyle_01.png",
     "images": [],
