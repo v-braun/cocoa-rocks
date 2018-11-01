@@ -1,4 +1,15 @@
 [
+    
+    {
+        "repo": "https://github.com/ananthbh/CenteredCollectionView",
+        "banner": "https://raw.githubusercontent.com/ananthbh/CenteredCollectionView/master/.github/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    },
     {
         "repo": "https://github.com/simformsolutions/SSSpinnerButton",
         "banner": "https://raw.githubusercontent.com/simformsolutions/SSSpinnerButton/master/SSSpinnerButton.gif",

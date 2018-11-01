@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/ananthbh/CenteredCollectionView",
+    "banner": "https://raw.githubusercontent.com/ananthbh/CenteredCollectionView/master/.github/demo.gif",
+    "images": [],
+    "tags": [
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-01T21:21:21.639Z",
+    "github": {
+      "name": "CenteredCollectionView",
+      "full_name": "ananthbh/CenteredCollectionView",
+      "html_url": "https://github.com/ananthbh/CenteredCollectionView",
+      "description": "A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift",
+      "created_at": "2018-10-31T13:44:57Z",
+      "updated_at": "2018-10-31T13:45:00Z",
+      "pushed_at": "2018-10-29T14:21:53Z",
+      "language": "Swift",
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 0,
+      "owner": {
+        "login": "ananthbh",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/20340444?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ananthbh"
+      }
+    },
+    "github_updated_at": "2018-11-01T21:21:22.391Z"
+  },
+  {
     "repo": "https://github.com/simformsolutions/SSSpinnerButton",
     "banner": "https://raw.githubusercontent.com/simformsolutions/SSSpinnerButton/master/SSSpinnerButton.gif",
     "images": [],
