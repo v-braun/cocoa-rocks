@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/Yalantis/GuillotineMenu",
+    "banner": "https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-04T12:22:36.647Z",
+    "github": {
+      "name": "GuillotineMenu",
+      "full_name": "Yalantis/GuillotineMenu",
+      "html_url": "https://github.com/Yalantis/GuillotineMenu",
+      "description": "Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.",
+      "created_at": "2015-04-14T08:20:37Z",
+      "updated_at": "2018-11-02T23:32:35Z",
+      "pushed_at": "2018-10-17T08:50:09Z",
+      "language": "Swift",
+      "forks_count": 269,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 2683,
+      "owner": {
+        "login": "Yalantis",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/752338?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Yalantis"
+      }
+    },
+    "github_updated_at": "2018-11-04T12:22:37.221Z"
+  },
+  {
     "repo": "https://github.com/PierrePerrin/ShadowView",
     "banner": "https://raw.githubusercontent.com/PierrePerrin/ShadowView/master/Ressources/Example.png",
     "images": [],
