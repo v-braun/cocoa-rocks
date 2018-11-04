@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/SvenTiigi/WhatsNewKit",
+    "banner": "https://raw.githubusercontent.com/SvenTiigi/WhatsNewKit/gh-pages/readMeAssets/WhatsNewKit.gif",
+    "images": [],
+    "tags": [
+      "Introduction"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-04T16:31:04.450Z",
+    "github": {
+      "name": "WhatsNewKit",
+      "full_name": "SvenTiigi/WhatsNewKit",
+      "html_url": "https://github.com/SvenTiigi/WhatsNewKit",
+      "description": "Showcase your awesome new app features 📱",
+      "created_at": "2018-05-21T19:39:47Z",
+      "updated_at": "2018-11-02T10:03:57Z",
+      "pushed_at": "2018-11-03T20:36:11Z",
+      "language": "Swift",
+      "forks_count": 42,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 993,
+      "owner": {
+        "login": "SvenTiigi",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/11733014?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/SvenTiigi"
+      }
+    },
+    "github_updated_at": "2018-11-04T16:31:05.038Z"
+  },
+  {
     "repo": "https://github.com/Yalantis/GuillotineMenu",
     "banner": "https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif",
     "images": [],
