@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/kf99916/TimelineTableViewCell",
+    "banner": "https://raw.githubusercontent.com/kf99916/TimelineTableViewCell/master/screenshots/timelineTableView.png",
+    "images": [],
+    "tags": [
+      "Calendar"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-05T18:50:06.987Z",
+    "github": {
+      "name": "TimelineTableViewCell",
+      "full_name": "kf99916/TimelineTableViewCell",
+      "html_url": "https://github.com/kf99916/TimelineTableViewCell",
+      "description": "Simple timeline view implemented by UITableViewCell",
+      "created_at": "2016-10-20T09:09:38Z",
+      "updated_at": "2018-11-04T09:27:21Z",
+      "pushed_at": "2018-08-31T05:42:22Z",
+      "language": "Swift",
+      "forks_count": 77,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 921,
+      "owner": {
+        "login": "kf99916",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/6695195?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/kf99916"
+      }
+    },
+    "github_updated_at": "2018-11-05T18:50:07.545Z"
+  },
+  {
     "repo": "https://github.com/SvenTiigi/WhatsNewKit",
     "banner": "https://raw.githubusercontent.com/SvenTiigi/WhatsNewKit/gh-pages/readMeAssets/WhatsNewKit.gif",
     "images": [],
