@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/Yalantis/ForceBlur",
+    "banner": "https://github.com/Yalantis/ForceBlur/raw/master/Resources/preview.gif",
+    "images": [],
+    "tags": [
+      "BlurEffect"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-06T20:55:09.400Z",
+    "github": {
+      "name": "ForceBlur",
+      "full_name": "Yalantis/ForceBlur",
+      "html_url": "https://github.com/Yalantis/ForceBlur",
+      "description": "ForceBlur Animation for iOS Messaging Apps",
+      "created_at": "2016-10-05T12:00:29Z",
+      "updated_at": "2018-10-25T11:04:13Z",
+      "pushed_at": "2017-10-30T13:48:14Z",
+      "language": "Swift",
+      "forks_count": 40,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 626,
+      "owner": {
+        "login": "Yalantis",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/752338?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Yalantis"
+      }
+    },
+    "github_updated_at": "2018-11-06T20:55:10.059Z"
+  },
+  {
     "repo": "https://github.com/johnnywjy/JYRadarChart",
     "banner": "https://raw.githubusercontent.com/johnnywjy/JYRadarChart/master/screenshots/screenshot_1.png",
     "images": [],
