@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/CaliCastle/PopMenu",
+    "banner": "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/FeatureScreenShot_1.png",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-07T18:46:31.826Z",
+    "github": {
+      "name": "PopMenu",
+      "full_name": "CaliCastle/PopMenu",
+      "html_url": "https://github.com/CaliCastle/PopMenu",
+      "description": "A cool and customizable popup style action sheet for iOS 😎",
+      "created_at": "2018-04-12T23:35:22Z",
+      "updated_at": "2018-11-07T07:39:30Z",
+      "pushed_at": "2018-09-20T05:44:58Z",
+      "language": "Swift",
+      "forks_count": 34,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 382,
+      "owner": {
+        "login": "CaliCastle",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/10830749?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/CaliCastle"
+      }
+    },
+    "github_updated_at": "2018-11-07T18:46:32.459Z"
+  },
+  {
     "repo": "https://github.com/Yalantis/ForceBlur",
     "banner": "https://github.com/Yalantis/ForceBlur/raw/master/Resources/preview.gif",
     "images": [],
