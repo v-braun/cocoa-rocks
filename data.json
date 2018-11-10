@@ -1,5 +1,17 @@
 [
     {
+        "repo": "https://github.com/gkye/ComplimentaryGradientView",
+        "banner": "https://cloud.githubusercontent.com/assets/14007152/17952751/733ba4ba-6a3b-11e6-9ae6-2b23d92b0dea.png",
+        "images": [
+            "https://github.com/gkye/ComplimentaryGradientView/raw/master/Resources/demo.gif",
+            "https://cloud.githubusercontent.com/assets/14007152/18399831/099a7c94-76a1-11e6-8362-e9504d33104f.png"
+        ],
+        "tags": [
+            "ImageView", "Gradient"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/CaliCastle/PopMenu",
         "banner": "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/FeatureScreenShot_1.png",
         "images": [
