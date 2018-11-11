@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/soberman/ARSLineProgress",
+    "banner": "https://camo.githubusercontent.com/744058cbebea04ccc14551801c9dd960d1c50e45/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f776974686f75745f66696e616c5f616e696d6174696f6e2e676966",
+    "images": [
+      "https://camo.githubusercontent.com/f5bb116b3c8ed84132d1fdec89442343f5b5eeb0/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f737563636573732e676966",
+      "https://camo.githubusercontent.com/787229287c031b2c05cec18cc70f6ee5009b7423/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f6661696c7572652e676966"
+    ],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-11T10:15:53.039Z",
+    "github": {
+      "name": "ARSLineProgress",
+      "full_name": "soberman/ARSLineProgress",
+      "html_url": "https://github.com/soberman/ARSLineProgress",
+      "description": "iOS progress bar, replacement for the default activity indicator.",
+      "created_at": "2016-01-24T22:11:13Z",
+      "updated_at": "2018-11-09T17:02:08Z",
+      "pushed_at": "2018-11-07T20:07:49Z",
+      "language": "Swift",
+      "forks_count": 53,
+      "open_issues_count": 5,
+      "license": "MIT",
+      "watchers": 349,
+      "owner": {
+        "login": "soberman",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/3826285?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/soberman"
+      }
+    },
+    "github_updated_at": "2018-11-11T10:15:53.573Z"
+  },
+  {
     "repo": "https://github.com/gkye/ComplimentaryGradientView",
     "banner": "https://cloud.githubusercontent.com/assets/14007152/17952751/733ba4ba-6a3b-11e6-9ae6-2b23d92b0dea.png",
     "images": [
