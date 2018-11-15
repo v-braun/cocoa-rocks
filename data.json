@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/HeroTransitions/Hero",
+        "banner": "https://camo.githubusercontent.com/22d05ffa3ebcdabc0e46885d905a4958313c7a46/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f73696d706c652e737667",
+        "images": [
+            "https://camo.githubusercontent.com/c2589bdfe5341efcf64810cf7f10ac93d2670bd4/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f616476616e6365642e737667"
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },      
+    {
         "repo": "https://github.com/soberman/ARSLineProgress",
         "banner": "https://camo.githubusercontent.com/744058cbebea04ccc14551801c9dd960d1c50e45/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f776974686f75745f66696e616c5f616e696d6174696f6e2e676966",
         "images": [
