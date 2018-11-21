@@ -1,5 +1,17 @@
 [
     
+    
+    {
+        "repo": "https://github.com/marty-suzuki/SABlurImageView",
+        "banner": "https://raw.githubusercontent.com/marty-suzuki/SABlurImageView/master/SampleImage/sample.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation", "BlurEffect"
+        ],
+        "paltforms": ["iOS"]
+    },
+
     {
         "repo": "https://github.com/digital-horizon/RoundCoachMark",
         "banner": "https://github.com/digital-horizon/RoundCoachMark/raw/master/demo.gif",
