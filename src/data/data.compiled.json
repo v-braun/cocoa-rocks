@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/glenyi/FloatRatingView",
+    "banner": "https://raw.githubusercontent.com/strekfus/FloatRatingView/master/FloatRatingView.gif",
+    "images": [],
+    "tags": [
+      "Rating"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-11-25T16:50:30.584Z",
+    "github": {
+      "name": "FloatRatingView",
+      "full_name": "glenyi/FloatRatingView",
+      "html_url": "https://github.com/glenyi/FloatRatingView",
+      "description": "Whole, half or floating point ratings control written in Swift",
+      "created_at": "2014-09-06T20:46:00Z",
+      "updated_at": "2018-11-21T02:38:59Z",
+      "pushed_at": "2018-09-27T16:49:24Z",
+      "language": "Swift",
+      "forks_count": 80,
+      "open_issues_count": 10,
+      "license": "MIT",
+      "watchers": 442,
+      "owner": {
+        "login": "glenyi",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/3076513?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/glenyi"
+      }
+    },
+    "github_updated_at": "2018-11-25T16:50:31.147Z"
+  },
+  {
     "repo": "https://github.com/WorldDownTown/ZoomTransitioning",
     "banner": "https://github.com/WorldDownTown/ZoomTransitioning/raw/master/images/demo.gif",
     "images": [],

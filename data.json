@@ -1,4 +1,16 @@
 [
+
+    
+    {
+        "repo": "https://github.com/glenyi/FloatRatingView",
+        "banner": "https://raw.githubusercontent.com/strekfus/FloatRatingView/master/FloatRatingView.gif",
+        "images": [
+        ],
+        "tags": [
+            "Rating"
+        ],
+        "paltforms": ["iOS"]
+    },    
     {
         "repo": "https://github.com/WorldDownTown/ZoomTransitioning",
         "banner": "https://github.com/WorldDownTown/ZoomTransitioning/raw/master/images/demo.gif",
