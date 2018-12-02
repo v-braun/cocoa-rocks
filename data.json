@@ -1,6 +1,14 @@
 [
-
-    
+    {
+        "repo": "https://github.com/ApplikeySolutions/PandoraPlayer",
+        "banner": "https://camo.githubusercontent.com/7faa6619b75174b63f687955c688409b2f2871ce/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f326134616462333135303136363539373163653565316334",
+        "images": [
+        ],
+        "tags": [
+            "MediaPlayer"
+        ],
+        "paltforms": ["iOS"]
+    },
     {
         "repo": "https://github.com/glenyi/FloatRatingView",
         "banner": "https://raw.githubusercontent.com/strekfus/FloatRatingView/master/FloatRatingView.gif",
@@ -10,7 +18,7 @@
             "Rating"
         ],
         "paltforms": ["iOS"]
-    },    
+    },
     {
         "repo": "https://github.com/WorldDownTown/ZoomTransitioning",
         "banner": "https://github.com/WorldDownTown/ZoomTransitioning/raw/master/images/demo.gif",
