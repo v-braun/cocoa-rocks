@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/TBXark/TKRubberIndicator",
+    "banner": "https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif",
+    "images": [],
+    "tags": [
+      "MediaPlayer"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-12-04T20:19:59.043Z",
+    "github": {
+      "name": "TKRubberIndicator",
+      "full_name": "TBXark/TKRubberIndicator",
+      "html_url": "https://github.com/TBXark/TKRubberIndicator",
+      "description": "A rubber animation pagecontrol",
+      "created_at": "2015-10-28T02:14:22Z",
+      "updated_at": "2018-12-04T14:32:10Z",
+      "pushed_at": "2018-01-27T09:09:32Z",
+      "language": "Swift",
+      "forks_count": 159,
+      "open_issues_count": 7,
+      "license": "MIT",
+      "watchers": 1150,
+      "owner": {
+        "login": "TBXark",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/9513891?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/TBXark"
+      }
+    },
+    "github_updated_at": "2018-12-04T20:19:59.738Z"
+  },
+  {
     "repo": "https://github.com/ApplikeySolutions/PandoraPlayer",
     "banner": "https://camo.githubusercontent.com/7faa6619b75174b63f687955c688409b2f2871ce/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f326134616462333135303136363539373163653565316334",
     "images": [],
