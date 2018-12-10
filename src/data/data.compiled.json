@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/kgellci/Shift",
+    "banner": "https://raw.githubusercontent.com/kgellci/Shift/master/README/Shift_gif.gif",
+    "images": [],
+    "tags": [
+      "Gradient",
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-12-10T19:38:46.584Z",
+    "github": {
+      "name": "Shift",
+      "full_name": "kgellci/Shift",
+      "html_url": "https://github.com/kgellci/Shift",
+      "description": "Animate gradient changes with time or motion for iOS Swift",
+      "created_at": "2017-05-20T08:00:54Z",
+      "updated_at": "2018-12-10T19:38:09Z",
+      "pushed_at": "2018-06-29T17:39:15Z",
+      "language": "Swift",
+      "forks_count": 12,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 108,
+      "owner": {
+        "login": "kgellci",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/2548953?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/kgellci"
+      }
+    },
+    "github_updated_at": "2018-12-10T19:38:47.116Z"
+  },
+  {
     "repo": "https://github.com/Cuberto/flashy-tabbar",
     "banner": "https://raw.githubusercontent.com/Cuberto/flashy-tabbar/master/Screenshots/animation.gif",
     "images": [],
