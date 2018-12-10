@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/kgellci/Shift",
+        "banner": "https://raw.githubusercontent.com/kgellci/Shift/master/README/Shift_gif.gif",
+        "images": [
+        ],
+        "tags": [
+            "Gradient", "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/Cuberto/flashy-tabbar",
         "banner": "https://raw.githubusercontent.com/Cuberto/flashy-tabbar/master/Screenshots/animation.gif",
         "images": [
