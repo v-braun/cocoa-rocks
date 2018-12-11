@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/louisdh/panelkit",
+    "banner": "https://github.com/louisdh/panelkit/raw/master/readme-resources/example.gif",
+    "images": [],
+    "tags": [
+      "Panel"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2018-12-11T20:50:04.769Z",
+    "github": {
+      "name": "panelkit",
+      "full_name": "louisdh/panelkit",
+      "html_url": "https://github.com/louisdh/panelkit",
+      "description": "A UI framework that enables panels on iOS.",
+      "created_at": "2017-02-20T21:36:25Z",
+      "updated_at": "2018-12-11T14:40:07Z",
+      "pushed_at": "2018-09-14T20:30:35Z",
+      "language": "Swift",
+      "forks_count": 127,
+      "open_issues_count": 6,
+      "license": "MIT",
+      "watchers": 3603,
+      "owner": {
+        "login": "louisdh",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/1129119?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/louisdh"
+      }
+    },
+    "github_updated_at": "2018-12-11T20:50:05.466Z"
+  },
+  {
     "repo": "https://github.com/kgellci/Shift",
     "banner": "https://raw.githubusercontent.com/kgellci/Shift/master/README/Shift_gif.gif",
     "images": [],
