@@ -1,4 +1,15 @@
 [
+    
+    {
+        "repo": "https://github.com/louisdh/panelkit",
+        "banner": "https://github.com/louisdh/panelkit/raw/master/readme-resources/example.gif",
+        "images": [
+        ],
+        "tags": [
+            "Panel"
+        ],
+        "paltforms": ["iOS"]
+    },    
     {
         "repo": "https://github.com/kgellci/Shift",
         "banner": "https://raw.githubusercontent.com/kgellci/Shift/master/README/Shift_gif.gif",
