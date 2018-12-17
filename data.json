@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/marcosgriselli/SwipeableTabBarController",
+        "banner": "https://github.com/marcosgriselli/SwipeableTabBarController/raw/master/GIFs/SwipeableTabBarController.gif",
+        "images": [
+        ],
+        "tags": [
+            "TabBar"
+        ],
+        "paltforms": ["iOS"]
+    }, 
+    {
         "repo": "https://github.com/TBXark/TKSwitcherCollection",
         "banner": "https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/exchange.gif",
         "images": [
