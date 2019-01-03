@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/gomfucius/CardStackView",
+    "banner": "https://raw.githubusercontent.com/gomfucius/CardStackView/master/Example/example.gif",
+    "images": [],
+    "tags": [
+      "Cards"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-01-03T10:34:13.700Z",
+    "github": {
+      "name": "CardStackView",
+      "full_name": "gomfucius/CardStackView",
+      "html_url": "https://github.com/gomfucius/CardStackView",
+      "description": "Inifinite swipeable stacked UIViews.",
+      "created_at": "2017-07-23T17:13:31Z",
+      "updated_at": "2018-12-31T21:54:48Z",
+      "pushed_at": "2018-11-24T16:34:06Z",
+      "language": "Swift",
+      "forks_count": 2,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 8,
+      "owner": {
+        "login": "gomfucius",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/682280?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/gomfucius"
+      }
+    },
+    "github_updated_at": "2019-01-03T10:34:14.343Z"
+  },
+  {
     "repo": "https://github.com/instant-solutions/ISTimeline",
     "banner": "https://raw.githubusercontent.com/instant-solutions/ISTimeline/master/screenshots/timeline.png",
     "images": [],
