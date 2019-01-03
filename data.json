@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/gomfucius/CardStackView",
+        "banner": "https://raw.githubusercontent.com/gomfucius/CardStackView/master/Example/example.gif",
+        "images": [
+        ],
+        "tags": [
+            "Cards"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/instant-solutions/ISTimeline",
         "banner": "https://raw.githubusercontent.com/instant-solutions/ISTimeline/master/screenshots/timeline.png",
         "images": [
@@ -8,7 +18,7 @@
             "TableView"
         ],
         "paltforms": ["iOS"]
-    },     
+    },
     {
         "repo": "https://github.com/marcosgriselli/SwipeableTabBarController",
         "banner": "https://github.com/marcosgriselli/SwipeableTabBarController/raw/master/GIFs/SwipeableTabBarController.gif",
