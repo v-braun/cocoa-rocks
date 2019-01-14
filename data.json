@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/suzuki-0000/AnimatablePlayButton",
+        "banner": "https://raw.githubusercontent.com/suzuki-0000/AnimatablePlayButton/master/Screenshots/example01.gif",
+        "images": [
+        ],
+        "tags": [
+            "Button"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/gomfucius/CardStackView",
         "banner": "https://raw.githubusercontent.com/gomfucius/CardStackView/master/Example/example.gif",
         "images": [
