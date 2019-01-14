@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/suzuki-0000/AnimatablePlayButton",
+    "banner": "https://raw.githubusercontent.com/suzuki-0000/AnimatablePlayButton/master/Screenshots/example01.gif",
+    "images": [],
+    "tags": [
+      "Button"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-01-14T20:36:01.182Z",
+    "github": {
+      "name": "AnimatablePlayButton",
+      "full_name": "suzuki-0000/AnimatablePlayButton",
+      "html_url": "https://github.com/suzuki-0000/AnimatablePlayButton",
+      "description": "Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.",
+      "created_at": "2015-12-14T12:23:24Z",
+      "updated_at": "2018-12-04T20:33:43Z",
+      "pushed_at": "2017-06-09T18:06:05Z",
+      "language": "Swift",
+      "forks_count": 10,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 73,
+      "owner": {
+        "login": "suzuki-0000",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/1096585?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/suzuki-0000"
+      }
+    },
+    "github_updated_at": "2019-01-14T20:36:01.799Z"
+  },
+  {
     "repo": "https://github.com/gomfucius/CardStackView",
     "banner": "https://raw.githubusercontent.com/gomfucius/CardStackView/master/Example/example.gif",
     "images": [],
