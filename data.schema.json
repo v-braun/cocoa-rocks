@@ -83,6 +83,7 @@
               "RangeSelect",
               "Chart",
               "Cards",
+              "Label",
               "Toggle"
             ]
           }
