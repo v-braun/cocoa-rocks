@@ -1,4 +1,14 @@
-[    
+[   
+    {
+        "repo": "https://github.com/hfrahmann/HFCardCollectionViewLayout",
+        "banner": "https://raw.githubusercontent.com/hfrahmann/HFCardCollectionViewLayout/master/ReadmeAssets/Screenplay.gif",
+        "images": [
+        ],
+        "tags": [
+            "Cards", "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    }, 
     {
         "repo": "https://github.com/ZacharyKhan/ZKCarousel",
         "banner": "https://camo.githubusercontent.com/044cfb58b409025d9ce9d1751722d8b72164f675/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f576b376f554d38486e484f65732f67697068792e676966",
