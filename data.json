@@ -1,5 +1,16 @@
 [   
     {
+        "repo": "https://github.com/DholStudio/DSGradientProgressView",
+        "banner": "https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif",
+        "images": [
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    }, 
+
+    {
         "repo": "https://github.com/hfrahmann/HFCardCollectionViewLayout",
         "banner": "https://raw.githubusercontent.com/hfrahmann/HFCardCollectionViewLayout/master/ReadmeAssets/Screenplay.gif",
         "images": [
