@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/presentco/PresentCardScroller",
+    "banner": "https://github.com/presentco/PresentCardScroller/raw/master/Media/screens1.gif",
+    "images": [],
+    "tags": [
+      "Cards"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-03-15T18:50:53.563Z",
+    "github": {
+      "name": "PresentCardScroller",
+      "full_name": "presentco/PresentCardScroller",
+      "html_url": "https://github.com/presentco/PresentCardScroller",
+      "description": "A Pretty Card Scrolling UI in Swift",
+      "created_at": "2018-10-16T17:23:51Z",
+      "updated_at": "2019-03-15T18:50:18Z",
+      "pushed_at": "2018-10-17T20:57:01Z",
+      "language": "Swift",
+      "forks_count": 2,
+      "open_issues_count": 0,
+      "license": "Apache-2.0",
+      "watchers": 24,
+      "owner": {
+        "login": "presentco",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/26265129?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/presentco"
+      }
+    },
+    "github_updated_at": "2019-03-15T18:50:54.198Z"
+  },
+  {
     "repo": "https://github.com/DholStudio/DSGradientProgressView",
     "banner": "https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif",
     "images": [],
