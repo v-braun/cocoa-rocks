@@ -1,4 +1,16 @@
 [   
+
+    
+    {
+        "repo": "https://github.com/BalestraPatrick/SquishButton",
+        "banner": "https://raw.githubusercontent.com/BalestraPatrick/SquishButton/master/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "Button"
+        ],
+        "paltforms": ["iOS"]
+    }, 
     {
         "repo": "https://github.com/presentco/PresentCardScroller",
         "banner": "https://github.com/presentco/PresentCardScroller/raw/master/Media/screens1.gif",
