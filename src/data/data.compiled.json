@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/BalestraPatrick/SquishButton",
+    "banner": "https://raw.githubusercontent.com/BalestraPatrick/SquishButton/master/demo.gif",
+    "images": [],
+    "tags": [
+      "Button"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-03-21T19:34:43.997Z",
+    "github": {
+      "name": "SquishButton",
+      "full_name": "BalestraPatrick/SquishButton",
+      "html_url": "https://github.com/BalestraPatrick/SquishButton",
+      "description": "A button that squishes when pressed. As seen in the Clips app.",
+      "created_at": "2017-04-08T17:03:28Z",
+      "updated_at": "2019-03-17T10:21:33Z",
+      "pushed_at": "2018-03-08T21:26:18Z",
+      "language": "Swift",
+      "forks_count": 9,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 397,
+      "owner": {
+        "login": "BalestraPatrick",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/3658887?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/BalestraPatrick"
+      }
+    },
+    "github_updated_at": "2019-03-21T19:34:44.595Z"
+  },
+  {
     "repo": "https://github.com/presentco/PresentCardScroller",
     "banner": "https://github.com/presentco/PresentCardScroller/raw/master/Media/screens1.gif",
     "images": [],
