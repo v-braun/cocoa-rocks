@@ -1,5 +1,17 @@
 [   
     {
+        "repo": "https://github.com/paulrolfe/PARTagPicker",
+        "banner": "https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png",
+        "images": [
+            "https://camo.githubusercontent.com/7366b186eca97ab07d25c9c8122ddec3ae9f6bd9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f5061756c2e496d6167652e4275636b65742f50525461675069636b65722f7461675f7265636f7264312e676966",
+            "https://camo.githubusercontent.com/2b6d651eb22125bc0045607850806b303cde4fb8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f5061756c2e496d6167652e4275636b65742f50525461675069636b65722f7461675f7265636f7264342e676966"
+        ],
+        "tags": [
+            "Tags"
+        ],
+        "paltforms": ["iOS"]
+    },     
+    {
         "repo": "https://github.com/abdullahselek/ASCollectionView",
         "banner": "https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png",
         "images": [
