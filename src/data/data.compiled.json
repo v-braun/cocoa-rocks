@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/paulrolfe/PARTagPicker",
+    "banner": "https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png",
+    "images": [
+      "https://camo.githubusercontent.com/7366b186eca97ab07d25c9c8122ddec3ae9f6bd9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f5061756c2e496d6167652e4275636b65742f50525461675069636b65722f7461675f7265636f7264312e676966",
+      "https://camo.githubusercontent.com/2b6d651eb22125bc0045607850806b303cde4fb8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f5061756c2e496d6167652e4275636b65742f50525461675069636b65722f7461675f7265636f7264342e676966"
+    ],
+    "tags": [
+      "Tags"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-03-26T15:28:02.642Z",
+    "github": {
+      "name": "PARTagPicker",
+      "full_name": "paulrolfe/PARTagPicker",
+      "html_url": "https://github.com/paulrolfe/PARTagPicker",
+      "description": "This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.",
+      "created_at": "2015-07-30T18:11:14Z",
+      "updated_at": "2019-03-25T10:38:32Z",
+      "pushed_at": "2019-03-25T04:06:24Z",
+      "language": "Objective-C",
+      "forks_count": 50,
+      "open_issues_count": 9,
+      "license": "MIT",
+      "watchers": 333,
+      "owner": {
+        "login": "paulrolfe",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/5570541?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/paulrolfe"
+      }
+    },
+    "github_updated_at": "2019-03-26T15:28:03.252Z"
+  },
+  {
     "repo": "https://github.com/abdullahselek/ASCollectionView",
     "banner": "https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png",
     "images": [
