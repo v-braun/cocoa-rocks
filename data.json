@@ -1,5 +1,15 @@
 [   
     {
+        "repo": "https://github.com/slackhq/PanModal",
+        "banner": "https://github.com/slackhq/PanModal/raw/master/Screenshots/panModal.gif",
+        "images": [
+        ],
+        "tags": [
+            "Dialog"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/paulrolfe/PARTagPicker",
         "banner": "https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png",
         "images": [
