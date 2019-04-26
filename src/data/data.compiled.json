@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/slackhq/PanModal",
+    "banner": "https://github.com/slackhq/PanModal/raw/master/Screenshots/panModal.gif",
+    "images": [],
+    "tags": [
+      "Dialog"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-04-26T17:14:54.566Z",
+    "github": {
+      "name": "PanModal",
+      "full_name": "slackhq/PanModal",
+      "html_url": "https://github.com/slackhq/PanModal",
+      "description": "An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.",
+      "created_at": "2019-02-26T01:15:57Z",
+      "updated_at": "2019-04-26T16:26:56Z",
+      "pushed_at": "2019-04-24T03:27:39Z",
+      "language": "Swift",
+      "forks_count": 59,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 1307,
+      "owner": {
+        "login": "slackhq",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/6911160?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/slackhq"
+      }
+    },
+    "github_updated_at": "2019-04-26T17:14:55.269Z"
+  },
+  {
     "repo": "https://github.com/paulrolfe/PARTagPicker",
     "banner": "https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png",
     "images": [
