@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/tispr/tispr-card-stack",
+    "banner": "https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif",
+    "images": [],
+    "tags": [
+      "Cards",
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-05-07T07:59:28.090Z",
+    "github": {
+      "name": "tispr-card-stack",
+      "full_name": "tispr/tispr-card-stack",
+      "html_url": "https://github.com/tispr/tispr-card-stack",
+      "description": "Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI",
+      "created_at": "2015-07-14T21:29:26Z",
+      "updated_at": "2019-05-07T03:08:50Z",
+      "pushed_at": "2019-01-22T16:48:03Z",
+      "language": "Swift",
+      "forks_count": 72,
+      "open_issues_count": 7,
+      "license": "Apache-2.0",
+      "watchers": 739,
+      "owner": {
+        "login": "tispr",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/7652951?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/tispr"
+      }
+    },
+    "github_updated_at": "2019-05-07T07:59:28.628Z"
+  },
+  {
     "repo": "https://github.com/slackhq/PanModal",
     "banner": "https://github.com/slackhq/PanModal/raw/master/Screenshots/panModal.gif",
     "images": [],
