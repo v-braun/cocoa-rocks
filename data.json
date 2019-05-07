@@ -1,5 +1,16 @@
 [   
     {
+        "repo": "https://github.com/tispr/tispr-card-stack",
+        "banner": "https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif",
+        "images": [
+        ],
+        "tags": [
+            "Cards",
+            "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/slackhq/PanModal",
         "banner": "https://github.com/slackhq/PanModal/raw/master/Screenshots/panModal.gif",
         "images": [
