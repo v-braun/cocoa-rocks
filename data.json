@@ -1,5 +1,15 @@
 [   
     {
+        "repo": "https://github.com/touchlane/CampcotCollectionView",
+        "banner": "https://github.com/touchlane/CampcotCollectionView/raw/master/Example/Assets/campcot.gif",
+        "images": [
+        ],
+        "tags": [
+            "CollectionView"
+        ],
+        "paltforms": ["iOS"]
+    },    
+    {
         "repo": "https://github.com/tispr/tispr-card-stack",
         "banner": "https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif",
         "images": [
