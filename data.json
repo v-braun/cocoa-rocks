@@ -1,5 +1,15 @@
 [   
     {
+        "repo": "https://github.com/yonat/StepProgressView",
+        "banner": "https://raw.githubusercontent.com/yonat/StepProgressView/master/screenshots/blue.gif",
+        "images": [
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/touchlane/CampcotCollectionView",
         "banner": "https://github.com/touchlane/CampcotCollectionView/raw/master/Example/Assets/campcot.gif",
         "images": [
