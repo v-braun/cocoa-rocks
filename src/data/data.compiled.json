@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/yonat/StepProgressView",
+    "banner": "https://raw.githubusercontent.com/yonat/StepProgressView/master/screenshots/blue.gif",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-07-16T17:58:55.478Z",
+    "github": {
+      "name": "StepProgressView",
+      "full_name": "yonat/StepProgressView",
+      "html_url": "https://github.com/yonat/StepProgressView",
+      "description": "Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.",
+      "created_at": "2015-02-15T16:34:26Z",
+      "updated_at": "2019-07-16T17:27:35Z",
+      "pushed_at": "2019-07-13T13:20:12Z",
+      "language": "Swift",
+      "forks_count": 10,
+      "open_issues_count": 1,
+      "license": "MIT",
+      "watchers": 153,
+      "owner": {
+        "login": "yonat",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/837421?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yonat"
+      }
+    },
+    "github_updated_at": "2019-07-16T17:58:55.845Z"
+  },
+  {
     "repo": "https://github.com/touchlane/CampcotCollectionView",
     "banner": "https://github.com/touchlane/CampcotCollectionView/raw/master/Example/Assets/campcot.gif",
     "images": [],
