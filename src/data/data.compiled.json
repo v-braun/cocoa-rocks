@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/fxm90/GradientLoadingBar",
+    "banner": "https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-07-16T18:17:55.952Z",
+    "github": {
+      "name": "GradientLoadingBar",
+      "full_name": "fxm90/GradientLoadingBar",
+      "html_url": "https://github.com/fxm90/GradientLoadingBar",
+      "description": "A customizable animated gradient loading bar.",
+      "created_at": "2016-12-27T20:26:45Z",
+      "updated_at": "2019-07-16T15:50:31Z",
+      "pushed_at": "2019-06-30T01:57:47Z",
+      "language": "Swift",
+      "forks_count": 31,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 303,
+      "owner": {
+        "login": "fxm90",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/17249312?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/fxm90"
+      }
+    },
+    "github_updated_at": "2019-07-16T18:17:56.388Z"
+  },
+  {
     "repo": "https://github.com/yonat/StepProgressView",
     "banner": "https://raw.githubusercontent.com/yonat/StepProgressView/master/screenshots/blue.gif",
     "images": [],
