@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/MatiBot/MBCircularProgressBar",
+    "banner": "https://camo.githubusercontent.com/066003a670c9ee878d3e9426df85f1a99ce00961/68747470733a2f2f7261772e6769746875622e636f6d2f6d617469626f742f4d4243697263756c617250726f67726573734261722f302e322f526561646d652f6578616d706c652e706e67",
+    "images": [],
+    "tags": [
+      "Progress"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-07-17T11:10:30.176Z",
+    "github": {
+      "name": "MBCircularProgressBar",
+      "full_name": "MatiBot/MBCircularProgressBar",
+      "html_url": "https://github.com/MatiBot/MBCircularProgressBar",
+      "description": "A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)",
+      "created_at": "2015-07-19T12:29:19Z",
+      "updated_at": "2019-07-16T16:41:29Z",
+      "pushed_at": "2019-02-18T12:49:24Z",
+      "language": "Objective-C",
+      "forks_count": 154,
+      "open_issues_count": 39,
+      "license": "MIT",
+      "watchers": 872,
+      "owner": {
+        "login": "MatiBot",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/2054858?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/MatiBot"
+      }
+    },
+    "github_updated_at": "2019-07-17T11:10:30.515Z"
+  },
+  {
     "repo": "https://github.com/fxm90/GradientLoadingBar",
     "banner": "https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966",
     "images": [],
