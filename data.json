@@ -1,5 +1,16 @@
 [   
     {
+        "repo": "https://github.com/iBlacksus/BSChart",
+        "banner": "https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo.gif",
+        "images": [
+            "https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo1.jpg"
+        ],
+        "tags": [
+            "Chart"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/MatiBot/MBCircularProgressBar",
         "banner": "https://camo.githubusercontent.com/066003a670c9ee878d3e9426df85f1a99ce00961/68747470733a2f2f7261772e6769746875622e636f6d2f6d617469626f742f4d4243697263756c617250726f67726573734261722f302e322f526561646d652f6578616d706c652e706e67",
         "images": [
