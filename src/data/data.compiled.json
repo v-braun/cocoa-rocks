@@ -1,5 +1,40 @@
 [
   {
+    "repo": "https://github.com/iBlacksus/BSChart",
+    "banner": "https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo.gif",
+    "images": [
+      "https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo1.jpg"
+    ],
+    "tags": [
+      "Chart"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-07-18T18:16:28.804Z",
+    "github": {
+      "name": "BSChart",
+      "full_name": "iBlacksus/BSChart",
+      "html_url": "https://github.com/iBlacksus/BSChart",
+      "description": "BSChart is a simple and useful chart library written on Swift",
+      "created_at": "2019-07-11T10:14:20Z",
+      "updated_at": "2019-07-18T15:52:44Z",
+      "pushed_at": "2019-07-18T15:00:39Z",
+      "language": "Swift",
+      "forks_count": 9,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 48,
+      "owner": {
+        "login": "iBlacksus",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/6079589?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/iBlacksus"
+      }
+    },
+    "github_updated_at": "2019-07-18T18:16:29.191Z"
+  },
+  {
     "repo": "https://github.com/MatiBot/MBCircularProgressBar",
     "banner": "https://camo.githubusercontent.com/066003a670c9ee878d3e9426df85f1a99ce00961/68747470733a2f2f7261772e6769746875622e636f6d2f6d617469626f742f4d4243697263756c617250726f67726573734261722f302e322f526561646d652f6578616d706c652e706e67",
     "images": [],
