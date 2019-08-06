@@ -1,5 +1,15 @@
 [   
     {
+        "repo": "https://github.com/KyleGoddard/KGFloatingDrawer",
+        "banner": "https://raw.githubusercontent.com/KyleGoddard/KGFloatingDrawer/master/kgfloatingdrawer_github_preview.gif",
+        "images": [
+        ],
+        "tags": [
+            "Navigation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/iBlacksus/BSChart",
         "banner": "https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo.gif",
         "images": [
