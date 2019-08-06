@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/KyleGoddard/KGFloatingDrawer",
+    "banner": "https://raw.githubusercontent.com/KyleGoddard/KGFloatingDrawer/master/kgfloatingdrawer_github_preview.gif",
+    "images": [],
+    "tags": [
+      "Navigation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-08-06T17:28:12.826Z",
+    "github": {
+      "name": "KGFloatingDrawer",
+      "full_name": "KyleGoddard/KGFloatingDrawer",
+      "html_url": "https://github.com/KyleGoddard/KGFloatingDrawer",
+      "description": "A floating navigation drawer with an interesting animated presentation written in Swift.",
+      "created_at": "2015-03-01T20:30:10Z",
+      "updated_at": "2019-07-23T19:34:23Z",
+      "pushed_at": "2019-07-15T23:16:07Z",
+      "language": "Swift",
+      "forks_count": 79,
+      "open_issues_count": 18,
+      "license": "MIT",
+      "watchers": 492,
+      "owner": {
+        "login": "KyleGoddard",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/86307?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/KyleGoddard"
+      }
+    },
+    "github_updated_at": "2019-08-06T17:28:13.248Z"
+  },
+  {
     "repo": "https://github.com/iBlacksus/BSChart",
     "banner": "https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo.gif",
     "images": [
