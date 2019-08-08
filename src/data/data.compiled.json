@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/yonat/CheckmarkCollectionViewCell",
+    "banner": "https://raw.githubusercontent.com/yonat/CheckmarkCollectionViewCell/master/Screenshots/CheckmarkCollectionViewCell.png",
+    "images": [],
+    "tags": [
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-08-08T19:22:22.486Z",
+    "github": {
+      "name": "CheckmarkCollectionViewCell",
+      "full_name": "yonat/CheckmarkCollectionViewCell",
+      "html_url": "https://github.com/yonat/CheckmarkCollectionViewCell",
+      "description": "UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app \"Select\" mode.",
+      "created_at": "2018-10-08T13:17:10Z",
+      "updated_at": "2019-08-05T02:06:56Z",
+      "pushed_at": "2019-07-13T13:22:23Z",
+      "language": "Swift",
+      "forks_count": 8,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 27,
+      "owner": {
+        "login": "yonat",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/837421?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yonat"
+      }
+    },
+    "github_updated_at": "2019-08-08T19:22:22.974Z"
+  },
+  {
     "repo": "https://github.com/KyleGoddard/KGFloatingDrawer",
     "banner": "https://raw.githubusercontent.com/KyleGoddard/KGFloatingDrawer/master/kgfloatingdrawer_github_preview.gif",
     "images": [],
