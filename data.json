@@ -1,5 +1,15 @@
 [   
     {
+        "repo": "https://github.com/alexruperez/SpeechRecognizerButton",
+        "banner": "https://raw.githubusercontent.com/alexruperez/SpeechRecognizerButton/master/SpeechRecognizerButton.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/CooperRS/RMActionController",
         "banner": "https://camo.githubusercontent.com/15a7e6981e9cf115c742fc13c2cb28a3f2961910/687474703a2f2f636f6f70657272732e6769746875622e696f2f524d416374696f6e436f6e74726f6c6c65722f496d616765732f437573746f6d2d57686974652e706e67",
         "images": [
