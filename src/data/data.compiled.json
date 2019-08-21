@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/ecerney/CollectionViewWaterfallLayout",
+    "banner": "https://raw.githubusercontent.com/ecerney/CollectionViewWaterfallLayout/master/Screenshots/RealWorldExample.png",
+    "images": [],
+    "tags": [
+      "CollectionView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-08-21T20:18:29.855Z",
+    "github": {
+      "name": "CollectionViewWaterfallLayout",
+      "full_name": "ecerney/CollectionViewWaterfallLayout",
+      "html_url": "https://github.com/ecerney/CollectionViewWaterfallLayout",
+      "description": "Pinterest inspired layout for UICollectionViews",
+      "created_at": "2014-07-23T17:59:09Z",
+      "updated_at": "2019-08-21T01:51:20Z",
+      "pushed_at": "2019-04-01T06:49:38Z",
+      "language": "Swift",
+      "forks_count": 58,
+      "open_issues_count": 16,
+      "license": "MIT",
+      "watchers": 281,
+      "owner": {
+        "login": "ecerney",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/1775672?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ecerney"
+      }
+    },
+    "github_updated_at": "2019-08-21T20:18:30.261Z"
+  },
+  {
     "repo": "https://github.com/alexruperez/SpeechRecognizerButton",
     "banner": "https://raw.githubusercontent.com/alexruperez/SpeechRecognizerButton/master/SpeechRecognizerButton.gif",
     "images": [],
