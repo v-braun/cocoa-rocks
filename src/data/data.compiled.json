@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/pmusolino/PMSuperButton",
+    "banner": "https://raw.githubusercontent.com/pmusolino/PMSuperButton/master/docs/ripple_button.gif",
+    "images": [],
+    "tags": [
+      "Button"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-08-26T07:12:53.424Z",
+    "github": {
+      "name": "PMSuperButton",
+      "full_name": "pmusolino/PMSuperButton",
+      "html_url": "https://github.com/pmusolino/PMSuperButton",
+      "description": "🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎",
+      "created_at": "2017-06-12T14:56:56Z",
+      "updated_at": "2019-08-22T19:30:21Z",
+      "pushed_at": "2019-08-18T14:17:09Z",
+      "language": "Swift",
+      "forks_count": 34,
+      "open_issues_count": 4,
+      "license": "MIT",
+      "watchers": 532,
+      "owner": {
+        "login": "pmusolino",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/495617?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/pmusolino"
+      }
+    },
+    "github_updated_at": "2019-08-26T07:12:55.056Z"
+  },
+  {
     "repo": "https://github.com/ecerney/CollectionViewWaterfallLayout",
     "banner": "https://raw.githubusercontent.com/ecerney/CollectionViewWaterfallLayout/master/Screenshots/RealWorldExample.png",
     "images": [],
