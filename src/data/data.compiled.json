@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/peterprokop/SwiftOverlays",
+    "banner": "https://camo.githubusercontent.com/c3b9d10cdcb04eba4503f744950b23ccb8802e42/68747470733a2f2f692e696d67666c69702e636f6d2f6466356b352e676966",
+    "images": [
+      "https://camo.githubusercontent.com/e89a67ac80d27e18633f33e01f2190ae5dc39ea1/68747470733a2f2f692e696d67666c69702e636f6d2f64663533762e676966",
+      "https://camo.githubusercontent.com/ecb7c4d321a97d5470fe2f3ce92549c4b7af7fc6/68747470733a2f2f692e696d67666c69702e636f6d2f64663532352e676966"
+    ],
+    "tags": [
+      "Notification"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-08-27T18:53:33.308Z",
+    "github": {
+      "name": "SwiftOverlays",
+      "full_name": "peterprokop/SwiftOverlays",
+      "html_url": "https://github.com/peterprokop/SwiftOverlays",
+      "description": "SwiftOverlays is a Swift GUI library for displaying various popups and notifications",
+      "created_at": "2014-10-16T09:28:44Z",
+      "updated_at": "2019-08-13T15:53:04Z",
+      "pushed_at": "2018-09-19T13:58:29Z",
+      "language": "Swift",
+      "forks_count": 76,
+      "open_issues_count": 16,
+      "license": "MIT",
+      "watchers": 591,
+      "owner": {
+        "login": "peterprokop",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/1475123?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/peterprokop"
+      }
+    },
+    "github_updated_at": "2019-08-27T18:53:33.741Z"
+  },
+  {
     "repo": "https://github.com/pmusolino/PMSuperButton",
     "banner": "https://raw.githubusercontent.com/pmusolino/PMSuperButton/master/docs/ripple_button.gif",
     "images": [],
