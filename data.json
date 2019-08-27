@@ -1,5 +1,17 @@
 [   
     {
+        "repo": "https://github.com/peterprokop/SwiftOverlays",
+        "banner": "https://camo.githubusercontent.com/c3b9d10cdcb04eba4503f744950b23ccb8802e42/68747470733a2f2f692e696d67666c69702e636f6d2f6466356b352e676966",
+        "images": [
+            "https://camo.githubusercontent.com/e89a67ac80d27e18633f33e01f2190ae5dc39ea1/68747470733a2f2f692e696d67666c69702e636f6d2f64663533762e676966",
+            "https://camo.githubusercontent.com/ecb7c4d321a97d5470fe2f3ce92549c4b7af7fc6/68747470733a2f2f692e696d67666c69702e636f6d2f64663532352e676966"
+        ],
+        "tags": [
+            "Notification"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/pmusolino/PMSuperButton",
         "banner": "https://raw.githubusercontent.com/pmusolino/PMSuperButton/master/docs/ripple_button.gif",
         "images": [
