@@ -1,4 +1,14 @@
-[   
+[
+    {
+        "repo": "https://github.com/kyleweiner/KWStepper",
+        "banner": "https://raw.githubusercontent.com/kyleweiner/KWStepper/master/screenshots.png",
+        "images": [
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": ["iOS"]
+    },       
     {
         "repo": "https://github.com/peterprokop/SwiftOverlays",
         "banner": "https://camo.githubusercontent.com/c3b9d10cdcb04eba4503f744950b23ccb8802e42/68747470733a2f2f692e696d67666c69702e636f6d2f6466356b352e676966",
