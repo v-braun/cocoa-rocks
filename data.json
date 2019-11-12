@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/liufengting/FTPopOverMenu_Swift",
+        "banner": "https://raw.githubusercontent.com/liufengting/FTResourceRepo/master/Resource/FTPopOverMenu/screenshots.gif",
+        "images": [
+
+        ],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": ["iOS"]
+    },        
+    {
         "repo": "https://github.com/mergesort/TableFlip",
         "banner": "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/left.gif",
         "images": [
