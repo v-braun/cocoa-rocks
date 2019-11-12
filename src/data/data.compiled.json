@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/mergesort/TableFlip",
+    "banner": "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/left.gif",
+    "images": [
+      "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/top.gif",
+      "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/fade.gif"
+    ],
+    "tags": [
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-11-12T20:45:12.754Z",
+    "github": {
+      "name": "TableFlip",
+      "full_name": "mergesort/TableFlip",
+      "html_url": "https://github.com/mergesort/TableFlip",
+      "description": "A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻",
+      "created_at": "2016-11-01T16:35:18Z",
+      "updated_at": "2019-11-11T15:45:58Z",
+      "pushed_at": "2019-11-10T18:08:00Z",
+      "language": "Swift",
+      "forks_count": 38,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 500,
+      "owner": {
+        "login": "mergesort",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/716513?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mergesort"
+      }
+    },
+    "github_updated_at": "2019-11-12T20:45:13.174Z"
+  },
+  {
     "repo": "https://github.com/kyleweiner/KWStepper",
     "banner": "https://raw.githubusercontent.com/kyleweiner/KWStepper/master/screenshots.png",
     "images": [],
