@@ -1,5 +1,17 @@
 [
     {
+        "repo": "https://github.com/mergesort/TableFlip",
+        "banner": "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/left.gif",
+        "images": [
+            "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/top.gif",
+            "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/fade.gif"
+        ],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": ["iOS"]
+    },           
+    {
         "repo": "https://github.com/kyleweiner/KWStepper",
         "banner": "https://raw.githubusercontent.com/kyleweiner/KWStepper/master/screenshots.png",
         "images": [
