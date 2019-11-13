@@ -1,5 +1,15 @@
 [
     {
+        "repo": "https://github.com/noblakit01/SwiftyShadow",
+        "banner": "https://raw.githubusercontent.com/noblakit01/SwiftyShadow/master/Screenshot/elliptical_shadow.png",
+        "images": [
+        ],
+        "tags": [
+            "Shadow"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/orazz/CreditCardForm-iOS",
         "banner": "https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif",
         "images": [
