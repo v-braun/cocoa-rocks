@@ -1,5 +1,40 @@
 [
   {
+    "repo": "https://github.com/orazz/CreditCardForm-iOS",
+    "banner": "https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif",
+    "images": [
+      "https://camo.githubusercontent.com/e30bcc0537ff4aa4adae4f39ad664aeb2fd7db76/68747470733a2f2f646f746a70672e636f2f3862752e706e67"
+    ],
+    "tags": [
+      "TextField"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2019-11-13T20:45:21.322Z",
+    "github": {
+      "name": "CreditCardForm-iOS",
+      "full_name": "orazz/CreditCardForm-iOS",
+      "html_url": "https://github.com/orazz/CreditCardForm-iOS",
+      "description": "CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.",
+      "created_at": "2016-11-08T11:41:11Z",
+      "updated_at": "2019-11-12T00:58:14Z",
+      "pushed_at": "2018-12-04T19:19:31Z",
+      "language": "Swift",
+      "forks_count": 146,
+      "open_issues_count": 14,
+      "license": "MIT",
+      "watchers": 1344,
+      "owner": {
+        "login": "orazz",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/8214953?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/orazz"
+      }
+    },
+    "github_updated_at": "2019-11-13T20:45:21.937Z"
+  },
+  {
     "repo": "https://github.com/liufengting/FTPopOverMenu_Swift",
     "banner": "https://raw.githubusercontent.com/liufengting/FTResourceRepo/master/Resource/FTPopOverMenu/screenshots.gif",
     "images": [],
