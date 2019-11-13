@@ -1,5 +1,16 @@
 [
     {
+        "repo": "https://github.com/orazz/CreditCardForm-iOS",
+        "banner": "https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif",
+        "images": [
+            "https://camo.githubusercontent.com/e30bcc0537ff4aa4adae4f39ad664aeb2fd7db76/68747470733a2f2f646f746a70672e636f2f3862752e706e67"
+        ],
+        "tags": [
+            "TextField"
+        ],
+        "paltforms": ["iOS"]
+    },
+    {
         "repo": "https://github.com/liufengting/FTPopOverMenu_Swift",
         "banner": "https://raw.githubusercontent.com/liufengting/FTResourceRepo/master/Resource/FTPopOverMenu/screenshots.gif",
         "images": [
@@ -9,7 +20,7 @@
             "Menu"
         ],
         "paltforms": ["iOS"]
-    },        
+    },
     {
         "repo": "https://github.com/mergesort/TableFlip",
         "banner": "https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/left.gif",
