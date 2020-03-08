@@ -1,5 +1,17 @@
 [
     {
+        "repo": "https://github.com/seedco/StackViewController",
+        "banner": "https://raw.githubusercontent.com/seedco/StackViewController/master/screenshot.png",
+        "images": [
+        ],
+        "tags": [
+            "Stack"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
         "repo": "https://github.com/exyte/FloatingButton",
         "banner": "https://raw.githubusercontent.com/exyte/FloatingButton/master/Assets/demo.gif",
         "images": [
