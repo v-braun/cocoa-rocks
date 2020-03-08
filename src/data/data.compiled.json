@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/seedco/StackViewController",
+    "banner": "https://raw.githubusercontent.com/seedco/StackViewController/master/screenshot.png",
+    "images": [],
+    "tags": [
+      "Stack"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2020-03-08T10:48:19.773Z",
+    "github": {
+      "name": "StackViewController",
+      "full_name": "seedco/StackViewController",
+      "html_url": "https://github.com/seedco/StackViewController",
+      "description": "A controller that uses a UIStackView and view controller composition to display content in a list",
+      "created_at": "2016-04-11T20:05:56Z",
+      "updated_at": "2020-03-06T17:32:05Z",
+      "pushed_at": "2020-01-24T16:47:05Z",
+      "language": "Swift",
+      "forks_count": 57,
+      "open_issues_count": 4,
+      "license": "NOASSERTION",
+      "watchers": 790,
+      "owner": {
+        "login": "seedco",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/8824986?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/seedco"
+      }
+    },
+    "github_updated_at": "2020-03-08T10:48:20.133Z"
+  },
+  {
     "repo": "https://github.com/exyte/FloatingButton",
     "banner": "https://raw.githubusercontent.com/exyte/FloatingButton/master/Assets/demo.gif",
     "images": [],
