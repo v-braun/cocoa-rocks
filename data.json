@@ -1,5 +1,6 @@
 [
     {
+
         "repo": "https://github.com/ivanvorobei/SPLarkController",
         "banner": "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
         "images": [
@@ -10,7 +11,19 @@
         "paltforms": [
             "iOS"
         ]
-    },      
+    },
+    {
+        "repo": "https://github.com/TBXark/PinterestSegment",
+        "banner": "https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "Menu"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
     {
         "repo": "https://github.com/seedco/StackViewController",
         "banner": "https://raw.githubusercontent.com/seedco/StackViewController/master/screenshot.png",
