@@ -1,6 +1,19 @@
 [
     {
 
+        "repo": "https://github.com/DroidsOnRoids/MPParallaxView",
+        "banner": "https://github.com/DroidsOnRoids/MPParallaxView/raw/master/Resources/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "Parallax"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+
         "repo": "https://github.com/ivanvorobei/SPLarkController",
         "banner": "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
         "images": [
