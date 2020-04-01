@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/DroidsOnRoids/MPParallaxView",
+    "banner": "https://github.com/DroidsOnRoids/MPParallaxView/raw/master/Resources/demo.gif",
+    "images": [],
+    "tags": [
+      "Parallax"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2020-04-01T08:37:57.940Z",
+    "github": {
+      "name": "MPParallaxView",
+      "full_name": "DroidsOnRoids/MPParallaxView",
+      "html_url": "https://github.com/DroidsOnRoids/MPParallaxView",
+      "description": "Apple TV Parallax effect in Swift.",
+      "created_at": "2015-11-08T13:38:28Z",
+      "updated_at": "2020-03-30T03:14:33Z",
+      "pushed_at": "2018-06-14T12:29:08Z",
+      "language": "Swift",
+      "forks_count": 98,
+      "open_issues_count": 2,
+      "license": "MIT",
+      "watchers": 1669,
+      "owner": {
+        "login": "DroidsOnRoids",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/2815187?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/DroidsOnRoids"
+      }
+    },
+    "github_updated_at": "2020-04-01T08:37:58.422Z"
+  },
+  {
     "repo": "https://github.com/ivanvorobei/SPLarkController",
     "banner": "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
     "images": [],
