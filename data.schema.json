@@ -86,7 +86,8 @@
               "Cards",
               "Label",
               "Toggle",
-              "Alert"
+              "Alert",
+              "Tooltip"
             ]
           }
         },

@@ -1,6 +1,19 @@
 [
     {
 
+        "repo": "https://github.com/metinkilicaslan/MKToolTip",
+        "banner": "https://raw.githubusercontent.com/metinkilicaslan/MKToolTip/master/MKToolTip.gif",
+        "images": [
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
+
         "repo": "https://github.com/DroidsOnRoids/MPParallaxView",
         "banner": "https://github.com/DroidsOnRoids/MPParallaxView/raw/master/Resources/demo.gif",
         "images": [
