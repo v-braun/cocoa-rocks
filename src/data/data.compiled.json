@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/yannickl/FlowingMenu",
+    "banner": "https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966",
+    "images": [],
+    "tags": [
+      "Menu"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2020-04-16T12:42:48.535Z",
+    "github": {
+      "name": "FlowingMenu",
+      "full_name": "yannickl/FlowingMenu",
+      "html_url": "https://github.com/yannickl/FlowingMenu",
+      "description": "Interactive view transition to display menus with flowing and bouncing effects in Swift",
+      "created_at": "2015-12-03T15:00:56Z",
+      "updated_at": "2020-04-15T10:17:19Z",
+      "pushed_at": "2019-10-09T07:52:00Z",
+      "language": "Swift",
+      "forks_count": 116,
+      "open_issues_count": 13,
+      "license": "MIT",
+      "watchers": 913,
+      "owner": {
+        "login": "yannickl",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/798235?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yannickl"
+      }
+    },
+    "github_updated_at": "2020-04-16T12:42:49.999Z"
+  },
+  {
     "repo": "https://github.com/metinkilicaslan/MKToolTip",
     "banner": "https://raw.githubusercontent.com/metinkilicaslan/MKToolTip/master/MKToolTip.gif",
     "images": [],
