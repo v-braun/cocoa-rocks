@@ -87,7 +87,8 @@
               "Label",
               "Toggle",
               "Alert",
-              "Tooltip"
+              "Tooltip",
+              "Sheet"
             ]
           }
         },
