@@ -1,6 +1,21 @@
 [
     {
 
+        "repo": "https://github.com/Ahmadalsofi/SOPullUpView",
+        "banner": "https://raw.githubusercontent.com/Ahmadalsofi/SOPullUpView/master/third.gif",
+        "images": [
+            "https://raw.githubusercontent.com/Ahmadalsofi/SOPullUpView/master/second.gif",
+            "https://raw.githubusercontent.com/Ahmadalsofi/SOPullUpView/master/first.gif"
+        ],
+        "tags": [
+            "Sheet"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },        
+    {
+
         "repo": "https://github.com/tattn/PullableSheet",
         "banner": "https://raw.githubusercontent.com/tattn/PullableSheet/master/docs/assets/demo1.gif",
         "images": [
