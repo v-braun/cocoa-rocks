@@ -1,6 +1,19 @@
 [
     {
 
+        "repo": "https://github.com/spromicky/StepSlider",
+        "banner": "https://github.com/spromicky/StepSlider/raw/master/screenshots/example.gif",
+        "images": [
+        ],
+        "tags": [
+            "Progress"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+
         "repo": "https://github.com/Ahmadalsofi/SOPullUpView",
         "banner": "https://raw.githubusercontent.com/Ahmadalsofi/SOPullUpView/master/third.gif",
         "images": [
