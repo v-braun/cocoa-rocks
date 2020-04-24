@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/yannickl/DynamicButton",
+    "banner": "https://cloud.githubusercontent.com/assets/798235/20039804/d4b533ca-a44a-11e6-8d4e-07aa45ef4a76.gif",
+    "images": [],
+    "tags": [
+      "Button"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2020-04-24T16:42:58.456Z",
+    "github": {
+      "name": "DynamicButton",
+      "full_name": "yannickl/DynamicButton",
+      "html_url": "https://github.com/yannickl/DynamicButton",
+      "description": "Yet another animated flat buttons in Swift",
+      "created_at": "2015-09-16T09:44:30Z",
+      "updated_at": "2020-04-23T22:03:08Z",
+      "pushed_at": "2019-09-28T09:26:11Z",
+      "language": "Swift",
+      "forks_count": 69,
+      "open_issues_count": 6,
+      "license": "MIT",
+      "watchers": 1123,
+      "owner": {
+        "login": "yannickl",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/798235?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yannickl"
+      }
+    },
+    "github_updated_at": "2020-04-24T16:42:58.738Z"
+  },
+  {
     "repo": "https://github.com/spromicky/StepSlider",
     "banner": "https://github.com/spromicky/StepSlider/raw/master/screenshots/example.gif",
     "images": [],
