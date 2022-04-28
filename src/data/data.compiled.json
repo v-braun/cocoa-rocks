@@ -1,5 +1,42 @@
 [
   {
+    "repo": "https://github.com/atrinh0/buttoncraft",
+    "banner": "https://raw.githubusercontent.com/atrinh0/buttoncraft/master/images/taphere.gif",
+    "images": [
+      "https://github.com/atrinh0/buttoncraft/raw/master/images/demo.gif",
+      "https://github.com/atrinh0/buttoncraft/raw/master/images/copycode.gif"
+    ],
+    "tags": [
+      "Button",
+      "SwiftUI"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2022-04-28T12:51:57.949Z",
+    "github": {
+      "name": "buttoncraft",
+      "full_name": "atrinh0/buttoncraft",
+      "html_url": "https://github.com/atrinh0/buttoncraft",
+      "description": "Craft that perfect SwiftUI button effect 👌🏼",
+      "created_at": "2020-08-02T14:13:06Z",
+      "updated_at": "2022-04-28T06:01:13Z",
+      "pushed_at": "2022-04-25T11:17:26Z",
+      "language": "Swift",
+      "forks_count": 9,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 123,
+      "owner": {
+        "login": "atrinh0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16542463?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/atrinh0"
+      }
+    },
+    "github_updated_at": "2022-04-28T12:51:58.206Z"
+  },
+  {
     "repo": "https://github.com/Ahmadalsofi/SOTabBar",
     "banner": "https://raw.githubusercontent.com/Ahmadalsofi/SOTabBar/master/Screenshots/headerGif.gif",
     "images": [],

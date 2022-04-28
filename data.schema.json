@@ -39,6 +39,7 @@
           "items": {
             "type": "string",
             "enum": [
+              "SwiftUI",
               "Animation",
               "Badge",
               "Splashscreen",
