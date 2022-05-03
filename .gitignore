@@ -3,3 +3,4 @@ bin
 tmp
 gh-tkn.txt
 package-lock.json
+testdata.json

@@ -1,6 +1,21 @@
 [
     {
 
+        "repo": "https://github.com/kazuhiro4949/PagingKit",
+        "banner": "https://user-images.githubusercontent.com/18320004/31583441-eb6ff894-b1d6-11e7-943a-675d6460919a.png",
+        "images": [
+            "https://user-images.githubusercontent.com/18320004/31575892-35860ae2-b12b-11e7-9525-1825c69b094f.gif",
+            "https://user-images.githubusercontent.com/18320004/31857630-075948c0-b71e-11e7-9ea7-3d490c733b7f.gif"
+        ],
+        "tags": [
+            "PageControl"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+
         "repo": "https://github.com/atrinh0/buttoncraft",
         "banner": "https://raw.githubusercontent.com/atrinh0/buttoncraft/master/images/taphere.gif",
         "images": [
