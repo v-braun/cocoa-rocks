@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/kirualex/KAPinField",
+    "banner": "https://raw.githubusercontent.com/kirualex/KAPinField/4.0.0/preview1.gif",
+    "images": [],
+    "tags": [
+      "Pin"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2022-05-09T14:57:26.084Z",
+    "github": {
+      "name": "KAPinField",
+      "full_name": "kirualex/KAPinField",
+      "html_url": "https://github.com/kirualex/KAPinField",
+      "description": "Lightweight, highly customizable Pin Code Field library for iOS, written in Swift",
+      "created_at": "2018-10-15T15:52:59Z",
+      "updated_at": "2022-04-02T23:52:58Z",
+      "pushed_at": "2022-02-18T17:51:55Z",
+      "language": "Swift",
+      "forks_count": 28,
+      "open_issues_count": 0,
+      "license": "MIT",
+      "watchers": 167,
+      "owner": {
+        "login": "kirualex",
+        "avatar_url": "https://avatars.githubusercontent.com/u/431974?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/kirualex"
+      }
+    },
+    "github_updated_at": "2022-05-09T14:57:26.337Z"
+  },
+  {
     "repo": "https://github.com/kazuhiro4949/PagingKit",
     "banner": "https://user-images.githubusercontent.com/18320004/31583441-eb6ff894-b1d6-11e7-943a-675d6460919a.png",
     "images": [

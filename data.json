@@ -1,6 +1,20 @@
 [
     {
 
+        "repo": "https://github.com/kirualex/KAPinField",
+        "banner": "https://raw.githubusercontent.com/kirualex/KAPinField/4.0.0/preview1.gif",
+        "images": [
+        
+        ],
+        "tags": [
+            "Pin"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
+
         "repo": "https://github.com/kazuhiro4949/PagingKit",
         "banner": "https://user-images.githubusercontent.com/18320004/31583441-eb6ff894-b1d6-11e7-943a-675d6460919a.png",
         "images": [
