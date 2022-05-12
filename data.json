@@ -1,6 +1,22 @@
 [
     {
 
+        "repo": "https://github.com/exyte/PopupView",
+        "banner": "https://raw.githubusercontent.com/exyte/PopupView/master/Assets/demo.gif",
+        "images": [
+            "https://raw.githubusercontent.com/exyte/PopupView/master/Assets/drag.gif"
+        ],
+        "tags": [
+            "Toast",
+            "Popup",
+            "ActionSheet"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+
         "repo": "https://github.com/muukii/PrecisionLevelSlider",
         "banner": "https://github.com/muukii/PrecisionLevelSlider/raw/main/sample.png",
         "images": [
