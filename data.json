@@ -1467,9 +1467,10 @@
     },
     {
         "repo": "https://github.com/uias/Tabman",
-        "banner": "https://raw.githubusercontent.com/uias/Tabman/master/Artwork/header.png",
+        "banner": "https://raw.githubusercontent.com/uias/Tabman/main/Docs/img/tm_header.png",
         "images": [
-            "https://raw.githubusercontent.com/uias/Tabman/master/Artwork/styles.png"
+            "https://github.com/uias/Tabman/raw/main/Docs/img/bar_styles.png",
+            "https://raw.githubusercontent.com/uias/Tabman/main/Docs/img/bar_breakdown.png"
         ],
         "tags": [
             "TabBar"
