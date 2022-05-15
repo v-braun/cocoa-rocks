@@ -1,5 +1,39 @@
 [
   {
+    "repo": "https://github.com/alexisakers/BulletinBoard",
+    "banner": "https://raw.githubusercontent.com/alexaubry/BulletinBoard/main/.assets/demo_screenshots.png",
+    "images": [],
+    "tags": [
+      "Popup",
+      "ActionSheet"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2022-05-15T11:42:22.231Z",
+    "github": {
+      "name": "BulletinBoard",
+      "full_name": "alexisakers/BulletinBoard",
+      "html_url": "https://github.com/alexisakers/BulletinBoard",
+      "description": "General-purpose contextual cards for iOS",
+      "created_at": "2017-09-26T07:43:43Z",
+      "updated_at": "2022-05-14T21:53:08Z",
+      "pushed_at": "2022-03-28T13:26:45Z",
+      "language": "Swift",
+      "forks_count": 300,
+      "open_issues_count": 46,
+      "license": "MIT",
+      "watchers": 5212,
+      "owner": {
+        "login": "alexisakers",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16192914?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/alexisakers"
+      }
+    },
+    "github_updated_at": "2022-05-15T11:42:22.486Z"
+  },
+  {
     "repo": "https://github.com/marcosgriselli/ViewAnimator",
     "banner": "https://camo.githubusercontent.com/ad6460f2537f1744367611f29edb74e1ad9f8ad3e560041e0d4969b075acad00/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3730323738392f73637265656e73686f74732f333831363038372f707265766965772d6d657373616b692e676966",
     "images": [
@@ -4490,9 +4524,10 @@
   },
   {
     "repo": "https://github.com/uias/Tabman",
-    "banner": "https://raw.githubusercontent.com/uias/Tabman/master/Artwork/header.png",
+    "banner": "https://raw.githubusercontent.com/uias/Tabman/main/Docs/img/tm_header.png",
     "images": [
-      "https://raw.githubusercontent.com/uias/Tabman/master/Artwork/styles.png"
+      "https://github.com/uias/Tabman/raw/main/Docs/img/bar_styles.png",
+      "https://raw.githubusercontent.com/uias/Tabman/main/Docs/img/bar_breakdown.png"
     ],
     "tags": [
       "TabBar"
