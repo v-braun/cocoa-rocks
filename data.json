@@ -1,6 +1,19 @@
 [
     {
 
+        "repo": "https://github.com/Cuberto/rubber-range-picker",
+        "banner": "https://raw.githubusercontent.com/Cuberto/rubber-range-picker/master/Screenshots/animation.gif",
+        "images": [
+        ],
+        "tags": [
+            "RangeSelect"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },
+    {
+
         "repo": "https://github.com/muukii/NextGrowingTextView",
         "banner": "https://user-images.githubusercontent.com/1888355/156420538-76b2d75b-ca50-46f0-b95f-056d2ef30953.gif",
         "images": [
