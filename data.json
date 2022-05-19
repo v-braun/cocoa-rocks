@@ -1,6 +1,21 @@
 [
     {
 
+        "repo": "https://github.com/moritzsternemann/SwipyCell",
+        "banner": "https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-hero.jpg",
+        "images": [
+            "https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-exit.gif",
+            "https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-switch.gif"
+        ],
+        "tags": [
+            "TableView"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },    
+    {
+
         "repo": "https://github.com/Cuberto/rubber-range-picker",
         "banner": "https://raw.githubusercontent.com/Cuberto/rubber-range-picker/master/Screenshots/animation.gif",
         "images": [

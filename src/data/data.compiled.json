@@ -1,5 +1,41 @@
 [
   {
+    "repo": "https://github.com/moritzsternemann/SwipyCell",
+    "banner": "https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-hero.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-exit.gif",
+      "https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-switch.gif"
+    ],
+    "tags": [
+      "TableView"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2022-05-19T14:26:18.279Z",
+    "github": {
+      "name": "SwipyCell",
+      "full_name": "moritzsternemann/SwipyCell",
+      "html_url": "https://github.com/moritzsternemann/SwipyCell",
+      "description": "Easy to use UITableViewCell implementing swiping to trigger actions.",
+      "created_at": "2016-01-21T17:49:53Z",
+      "updated_at": "2022-05-13T16:16:43Z",
+      "pushed_at": "2020-10-30T18:51:07Z",
+      "language": "Swift",
+      "forks_count": 27,
+      "open_issues_count": 3,
+      "license": "MIT",
+      "watchers": 243,
+      "owner": {
+        "login": "moritzsternemann",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3034168?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/moritzsternemann"
+      }
+    },
+    "github_updated_at": "2022-05-19T14:26:18.561Z"
+  },
+  {
     "repo": "https://github.com/Cuberto/rubber-range-picker",
     "banner": "https://raw.githubusercontent.com/Cuberto/rubber-range-picker/master/Screenshots/animation.gif",
     "images": [],
