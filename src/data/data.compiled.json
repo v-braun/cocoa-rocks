@@ -1,5 +1,38 @@
 [
   {
+    "repo": "https://github.com/s2mr/Elephant",
+    "banner": "https://raw.githubusercontent.com/s2mr/Elephant/resources/Resources/demo.gif",
+    "images": [],
+    "tags": [
+      "Animation"
+    ],
+    "paltforms": [
+      "iOS"
+    ],
+    "created_at": "2022-05-21T09:54:02.969Z",
+    "github": {
+      "name": "Elephant",
+      "full_name": "s2mr/Elephant",
+      "html_url": "https://github.com/s2mr/Elephant",
+      "description": "Elegant SVG animation kit for swift",
+      "created_at": "2019-05-20T03:52:35Z",
+      "updated_at": "2022-05-13T16:21:11Z",
+      "pushed_at": "2021-06-09T04:41:00Z",
+      "language": "Swift",
+      "forks_count": 25,
+      "open_issues_count": 5,
+      "license": "Apache-2.0",
+      "watchers": 119,
+      "owner": {
+        "login": "s2mr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19924081?v=4",
+        "gravatar_id": "",
+        "html_url": "https://github.com/s2mr"
+      }
+    },
+    "github_updated_at": "2022-05-21T09:54:03.220Z"
+  },
+  {
     "repo": "https://github.com/popwarsweet/PageControls",
     "banner": "https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif",
     "images": [],

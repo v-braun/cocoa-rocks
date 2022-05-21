@@ -1,6 +1,19 @@
 [
     {
 
+        "repo": "https://github.com/s2mr/Elephant",
+        "banner": "https://raw.githubusercontent.com/s2mr/Elephant/resources/Resources/demo.gif",
+        "images": [
+        ],
+        "tags": [
+            "Animation"
+        ],
+        "paltforms": [
+            "iOS"
+        ]
+    },        
+    {
+
         "repo": "https://github.com/popwarsweet/PageControls",
         "banner": "https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif",
         "images": [
